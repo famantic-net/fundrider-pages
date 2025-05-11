@@ -22,7 +22,7 @@
   <h1>Fundrider Daily Charts</h1>
 
   <div class="chart-link">
-    <h2><a href="latest_fund_series_charts.html">📈 Fund Series Chart</a></h2>
+    <h2><a href="https://famantic-net.github.io/fundrider-pages/latest_fund_series_charts.html">📈 Fund Series Chart</a></h2>
     <p>
       This chart shows the daily performance and trends of selected funds across time,
       allowing visual comparison and analysis of fund movement and behavior.
@@ -30,7 +30,7 @@
   </div>
 
   <div class="chart-link">
-    <h2><a href="latest_fund_series_scores.html">📊 Fund Score Summary</a></h2>
+    <h2><a href="https://famantic-net.github.io/fundrider-pages/latest_fund_series_scores.html">📊 Fund Score Summary</a></h2>
     <p>
       This summary bar chart highlights comparative fund scores computed from underlying time series data.
       Useful for quickly spotting top-performing or underperforming funds.
