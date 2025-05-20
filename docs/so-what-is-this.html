@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fund series charts</title>
+  <style>
+    body { font-family: Arial, sans-serif; font-size: 11pt; line-height: 1.4; margin: 2rem; max-width: 800px; }
+    h1 { border-bottom: 2px solid #333; padding-bottom: 0.3rem; margin-top: 2rem; }
+    ul, ol { margin-left: 1.5rem; }
+    li { margin-bottom: 0.3rem; margin-top: 0.2rem; }
+  </style>
+</head>
+<body>
+<h1>Fund series charts</h1>
+<p>The charts all converge to value 0 (zero) at the end which is the latest date. The fund data has been normalized for all funds each with respect to the latest date so that it's either higher or lower than zero. This makes comparison between the existing funds very easy. The funds chart series that are placed lower on the chart have had a better increase with respect to the current fund value and oppositely if the fund chart series is graphed higher in the plot with respect to the latest value at the far right it shows the fund losing value.</p>
+<ul>
+<li>Hovering over a series will thicken the plot line and bolden its legend text. </li>
+<li>Plot lines can be removed by single click on the legend for the series.</li>
+<li>Plot lines can be isolated by double-clicking on the legend for the series.</li>
+<li>The graph allows zooming in.</li>
+</ul>
+<h1>Fund score summary</h1>
+<p>Shows a fund performance bar graph displaying which funds that have the best performance depending on a weighted calculation of a number of time windows:</p>
+<ul>
+<li>week</li>
+<li>two seek</li>
+<li>month</li>
+<li>quarter</li>
+<li>half year</li>
+<li>year</li>
+<li>two years</li>
+</ul>
+<p>Features:</p>
+<ul>
+<li>Funds can be isolated for closer comparisons.</li>
+<li>
+<p>The weights can be adjusted interactively using the sliders over the bar chart.</p>
+</li>
+<li>
+<p>Each fund score bar shows the change gradient for the score when hovered over.</p>
+</li>
+</ul>
+<h1>Top 20 Growth Recommendations</h1>
+<p>Displays two momentum tables:</p>
+<ol>
+<li>
+<p>Best Long-Term Growth Assessment (top-20)</p>
+<p>Ranks primarily by "All Dates" return, penalizing for poor 1-year and very poor recent (2-month) performance.</p>
+</li>
+<li>
+<p>Best Lag-Adjusted Short-Term Assessment (top-20)
+    The objective is to switch to the best performing funds as soon as possible. However this is hampered by two things: 1. The available fund data is lagging. Roughly 5 days behind. 2. A fund switch is slow, takes roughly a week.</p>
+<p>So the average turn around from knowledge to actual executed switch is around 1.5 weeks.</p>
+<p>This requires one to determine the best time horizon at which to judge the best performance. Yes, a steady long term performance is good, but not if it lately has not been performing. And vice versa.</p>
+</li>
+</ol>
+</body>
+</html>
