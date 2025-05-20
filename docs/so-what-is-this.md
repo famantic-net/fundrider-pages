@@ -31,8 +31,6 @@ Features:
 
 Displays two momentum tables:
 
-
-
 1.  Best Long-Term Growth Assessment (top-20)
 
     Ranks primarily by "All Dates" return, penalizing for poor 1-year and very poor recent (2-month) performance.
