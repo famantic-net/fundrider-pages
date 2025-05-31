@@ -20,7 +20,7 @@
 |     15 | abrdn sicav i - japanese sustainable equity fund a | 0.9%  | 6.9%  | 2.6% | -2.9% | -5.4%  | 2.3%  | 21.1%       |
 |     16 | lärarfond försiktig                                | 0.0%  | 2.8%  | 1.2% | -2.3% | -1.4%  | 1.9%  | 17.8%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-05-30
+### Best Long-Term Growth Assessment (Top 20) - 2025-05-31
 
 |   Rank | Fund                                               | 2w    | 1m    | 2m   | 3m     | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:-----|:-------|:-------|:------|:------------|
@@ -45,7 +45,7 @@
 |     19 | d&g global all cap                                 | -0.7% | 6.4%  | 4.5% | -7.1%  | -9.6%  | -2.5% | 18.3%       |
 |     20 | lärarfond försiktig                                | 0.0%  | 2.8%  | 1.2% | -2.3%  | -1.4%  | 1.9%  | 17.8%       |
 
-### Best Lag-Adjusted Short-Term Assessment (Top 20) - 2025-05-30
+### Best Lag-Adjusted Short-Term Assessment (Top 20) - 2025-05-31
 
 |   Rank | Fund                                                                 | 2w    | 1m    | 2m   | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:------|:-----|:------|:-------|:------|:------------|
