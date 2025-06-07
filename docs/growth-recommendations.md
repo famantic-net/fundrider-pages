@@ -20,7 +20,7 @@
 |     16 | d&g global all cap                                 | 2.3%  | 5.0% | 16.7% | 1.2%  | -9.6%  | 1.4%  | 20.2%       |
 |     17 | lärarfond försiktig                                | 0.2%  | 1.2% | 5.9%  | -0.7% | -1.1%  | 2.1%  | 18.0%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-06-06
+### Best Long-Term Growth Assessment (Top 20) - 2025-06-07
 |   Rank | Fund                                               | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | -1.6% | 0.9% | 12.5% | 1.4%  | 4.7%   | 7.4%  | 112.3%      |
@@ -44,7 +44,7 @@
 |     19 | d&g global all cap                                 | 2.3%  | 5.0% | 16.7% | 1.2%  | -9.6%  | 1.4%  | 20.2%       |
 |     20 | lärarfond försiktig                                | 0.2%  | 1.2% | 5.9%  | -0.7% | -1.1%  | 2.1%  | 18.0%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-06
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-07
 |   Rank | Fund                                                                 | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | alfred berg aktiv r                                                  | 1.2%  | 6.7% | 16.7% | 11.2% | 5.2%   | 9.1%  | 42.6%       |
