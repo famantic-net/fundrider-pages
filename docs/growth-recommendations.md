@@ -19,7 +19,7 @@
 |     15 | d&g global all cap                                 | 1.9%  | 1.9%  | 10.9% | 5.2%  | -7.1% | 2.3%  | 21.3%       |
 |     16 | länsförsäkringar tillväxtmarknad index a           | 2.8%  | 2.3%  | 13.0% | 2.8%  | -2.9% | 3.3%  | 18.6%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-06-13
+### Best Long-Term Growth Assessment (Top 20) - 2025-06-14
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | 0.7%  | -0.7% | 10.7% | 3.5%  | 7.2%   | 7.2%  | 115.8%      |
@@ -43,7 +43,7 @@
 |     19 | d&g global all cap                                 | 1.9%  | 1.9%  | 10.9% | 5.2%  | -7.1%  | 2.3%  | 21.3%       |
 |     20 | länsförsäkringar tillväxtmarknad index a           | 2.8%  | 2.3%  | 13.0% | 2.8%  | -2.9%  | 3.3%  | 18.6%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-13
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-14
 |   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:-------|:------|:------------|
 |      1 | alfred berg aktiv r                                                  | 3.5%  | 6.7%  | 18.3% | 12.7% | 10.4%  | 8.4%  | 45.5%       |
