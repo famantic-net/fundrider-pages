@@ -19,7 +19,7 @@
 |     15 | d&g global all cap                                 | -0.5% | 0.5%  | 10.4% | 2.1%  | -6.2%  | -0.2% | 19.7%       |
 |     16 | länsförsäkringar tillväxtmarknad index a           | 1.9%  | 1.2%  | 11.7% | 0.5%  | -2.9%  | 0.5%  | 17.5%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-06-20
+### Best Long-Term Growth Assessment (Top 20) - 2025-06-21
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | -2.1% | -4.1% | 2.3%  | -1.6% | 5.0%   | 0.5%  | 108.0%      |
@@ -43,7 +43,7 @@
 |     19 | d&g global all cap                                 | -0.5% | 0.5%  | 10.4% | 2.1%  | -6.2%  | -0.2% | 19.7%       |
 |     20 | länsförsäkringar tillväxtmarknad index a           | 1.9%  | 1.2%  | 11.7% | 0.5%  | -2.9%  | 0.5%  | 17.5%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-20
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-06-21
 |   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m     | 1y     | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:-------|:-------|:------------|
 |      1 | abrdn sicav i - select euro high yield bond a                        | 0.9%  | 2.1%  | 2.6%  | 2.1%  | -1.6%  | 3.0%   | 27.6%       |
