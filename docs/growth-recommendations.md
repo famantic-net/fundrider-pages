@@ -18,7 +18,7 @@
 |     14 | abrdn sicav i - global innovation equity fund a    | 1.4%  | 3.0% | 7.4%  | 15.9% | -11.5% | -6.2% | 22.2%       |
 |     15 | länsförsäkringar tillväxtmarknad index a           | 2.6%  | 6.7% | 7.4%  | 10.4% | -0.5%  | 0.5%  | 20.5%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-07-05
+### Best Long-Term Growth Assessment (Top 20) - 2025-07-06
 |   Rank | Fund                                               | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | 5.4%  | 3.0% | 4.2%  | 11.7% | 10.7%  | 5.0%  | 118.8%      |
@@ -42,7 +42,7 @@
 |     19 | abrdn sicav i - global innovation equity fund a    | 1.4%  | 3.0% | 7.4%  | 15.9% | -11.5% | -6.2% | 22.2%       |
 |     20 | länsförsäkringar tillväxtmarknad index a           | 2.6%  | 6.7% | 7.4%  | 10.4% | -0.5%  | 0.5%  | 20.5%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-05
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-06
 |   Rank | Fund                                                                 | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | pictet clean energy transition r                                     | 3.5%  | 9.6% | 11.9% | 24.7% | -6.5%  | -8.4% | 20.2%       |
