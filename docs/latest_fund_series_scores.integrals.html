@@ -5,7 +5,7 @@
     .help-container { position: relative; display: inline-block; outline: none; vertical-align: middle; margin-left: 8px; }
     .help-button { background-color: #6c757d; color: white; border-radius: 50%; width: 24px; height: 24px; border: none; cursor: pointer; font-size: 16px; line-height: 24px; text-align: center; }
     .help-button:hover { background-color: #5a6268; }
-    .help-popup { display: none; position: absolute; background-color: #f9f9f9; color: #333; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; z-index: 1100; width: 400px; text-align: left; }
+    .help-popup { display: none; position: absolute; background-color: #f9f9f9; color: #333; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; z-index: 1100; width: 500px; text-align: left; }
     .help-container:focus-within .help-popup { display: block; }
     /* Positioning for popups */
     #chart-help-popup { top: 120%; left: 50%; transform: translateX(-50%); }
@@ -107,12 +107,58 @@ the last date normalized zero value, thus indicating the highest growth
         <h3 id="top-funds">Top Funds</h3>
         <p>This table shows the 20 highest ranking funds based on the scoring
         algorithm (<em>integral</em> or <em>regression</em>).</p>
-        <p>The table is sortable either on fund score or fund score change rate
-        (gradient).</p>
+        <p>The table is sortable either on fund score, fund score change rate
+        (gradient) or forecast.</p>
         <p>If funds have been selected to be isolated in the list box to the
         left only the selected funds will be shown.</p>
         <p>It’s possible to get a CSV copy of the table contents on the
         clipboard by clicking the “Copy Table CSV” button at the bottom.</p>
+        <h4>A more detailed breakdown of the forecast:</h4>
+        <ul>
+        <li><strong>What is Momentum?</strong> In finance, momentum is the
+        tendency for assets that have performed well in the recent past to
+        continue performing well, and for assets that have performed poorly to
+        continue performing poorly. The “gradient” is a time-series momentum
+        indicator.</li>
+        <li><strong>Time Horizons are Key:</strong> The “momentum effect” is
+        highly dependent on the time frame.
+        <ul>
+        <li><strong>Short-Term (1-4 weeks):</strong> There is often a
+        <em>reversal</em> effect, not a continuation. This is sometimes
+        attributed to market overreaction and correction. The use of a
+        5-day forecast falls into this very short-term, and often noisy,
+        category.</li>
+        <li><strong>Medium-Term (3-12 months):</strong> This is where the
+        classic, academically-studied momentum effect is strongest. Strategies
+        often look at performance over the last 6-12 months (skipping the most
+        recent month) and hold the position for 1-3 months.</li>
+        <li><strong>Long-Term (3-5 years):</strong> Over longer periods,
+        momentum often reverses completely. Winners become losers and
+        vice-versa.</li>
+        </ul></li>
+        <li><strong>Why Linear Forecasts are Risky:</strong> The method here
+        ( <code>score + gradient * 5</code> ) is a simple linear extrapolation.
+        It assumes the trend of the last 10 days will continue in
+        a straight line for the next 5. In reality, financial returns are not
+        linear. This kind of simple forecast is highly susceptible to:
+        <ul>
+        <li><strong>Mean Reversion:</strong> Prices that move far from their
+        average tend to snap back.</li>
+        <li><strong>Volatility Changes:</strong> A quiet, steady trend can
+        suddenly become volatile.</li>
+        <li><strong>Market Shocks:</strong> Economic news or geopolitical events
+        can instantly invalidate any trend.</li>
+        </ul></li>
+        </ul>
+        <p><strong>Conclusion:</strong></p>
+        <p>This type of simple, linear forecast is only potentially indicative
+        of a very near-term trend.</p>
+        <p>Think of the “Forecast (5d)” column less as a precise prediction and
+        more as a “Momentum Strength” indicator. It combines the current score
+        with the recent rate-of-change to highlight funds that are not only
+        scoring well but are also currently on a strong upward trajectory. It’s
+        a tool for sorting and discovery, but its predictive power beyond a few
+        days is likely very limited.</p>
     </div>
 </div>
     </div>    <div id="dynamic-fund-table-container"></div>  </div></div>
@@ -130,15 +176,13 @@ the last date normalized zero value, thus indicating the highest growth
 </script><script>
   const weightSliders = Array.from(document.querySelectorAll('input.weight-slider'));
   const staleDaysFilterInput = document.getElementById('stale-days-filter');
-  let currentSortColumn = 'score', currentSortAscending = false, currentlyIsolatedFundNames = null, currentlyHighlightedFundNames = null;
+  let currentSortColumn = 'forecast', currentSortAscending = false, currentlyIsolatedFundNames = null, currentlyHighlightedFundNames = null;
   let dataForCSVExport = [];
-
   function calculateScore(contribs, weights) {
     if (!contribs || !Array.isArray(contribs)) return null;
     let score = 0; contribs.forEach((c,j) => score += (typeof c === 'number' ? c : 0) * weights[j]);
     return Number.isFinite(score) ? score : null;
   }
-
   function calculateSlope(yVals) {
     if (!yVals || yVals.length < 2) return null;
     const n = yVals.length, xVals = Array.from({length:n},(_,i)=>i);
@@ -147,20 +191,22 @@ the last date normalized zero value, thus indicating the highest growth
     if(validPts<2)return null; const denom=(validPts*sumXX-sumX*sumX); if(denom===0)return null;
     const slope=(validPts*sumXY-sumX*sumY)/denom; return Number.isFinite(slope)?slope:null;
   }
-
   function renderDynamicTable(fundData) {
     const container=document.getElementById('dynamic-fund-table-container');
-    const title=container.querySelector('h3');
     container.innerHTML='';
-    if(title) container.appendChild(title);
     if(!fundData||fundData.length===0){
         const p=document.createElement('p');p.textContent='No funds to display.';p.style.textAlign='center';container.appendChild(p);
         dataForCSVExport = [];
         return;
     }
     fundData.sort((a,b)=>{
-        let vA=currentSortColumn==='score'?a.score:a.gradient;
-        let vB=currentSortColumn==='score'?b.score:b.gradient;
+        let vA, vB;
+        switch(currentSortColumn) {
+            case 'score': vA = a.score; vB = b.score; break;
+            case 'gradient': vA = a.gradient; vB = b.gradient; break;
+            case 'forecast': vA = a.forecast; vB = b.forecast; break;
+            default: vA = a.forecast; vB = b.forecast;
+        }
         vA=(vA===null||isNaN(vA))?(currentSortAscending?Infinity:-Infinity):vA;
         vB=(vB===null||isNaN(vB))?(currentSortAscending?Infinity:-Infinity):vB;
         if(vA<vB)return currentSortAscending?-1:1;
@@ -174,13 +220,14 @@ the last date normalized zero value, thus indicating the highest growth
     const headers=[
         {t:'Fund Name',k:'name'},
         {t:'Fund Score',k:'score'},
-        {t:`Fund Score Gradient (${numGradientLookbackDaysJS}d)`,k:'gradient'}
+        {t:`Fund Score Gradient (${numGradientLookbackDaysJS}d)`,k:'gradient'},
+        {t:'Forecast (5d)',k:'forecast'}
     ];
     headers.forEach(h=>{
         const th=document.createElement('th');
         th.textContent=h.t;
         th.style.cssText='border:1px solid #ddd;padding:8px;text-align:left;background-color:#f0f0f0;font-weight:bold;';
-        if(h.k==='score'||h.k==='gradient'){
+        if(h.k==='score'||h.k==='gradient'||h.k==='forecast'){
             th.style.cursor='pointer';
             th.addEventListener('click',()=>{
                 currentSortColumn===h.k?currentSortAscending=!currentSortAscending:(currentSortColumn=h.k,currentSortAscending=false);
@@ -193,10 +240,11 @@ the last date normalized zero value, thus indicating the highest growth
     const tbody=table.createTBody();
     top20.forEach(f=>{
         const r=tbody.insertRow();
-        const s=f.score,g=f.gradient;
+        const s=f.score,g=f.gradient,fc=f.forecast;
         r.insertCell().textContent=f.name;
         r.insertCell().textContent=s!==null&&!isNaN(s)?s.toFixed(2):'N/A';
         r.insertCell().textContent=g!==null&&!isNaN(g)?g.toFixed(2):'N/A';
+        r.insertCell().textContent=fc!==null&&!isNaN(fc)?fc.toFixed(2):'N/A';
         Array.from(r.cells).forEach(c=>{
             c.style.border='1px solid #ddd';
             c.style.padding='8px';
@@ -205,7 +253,6 @@ the last date normalized zero value, thus indicating the highest growth
     });
     container.appendChild(table);
   }
-
   function updateScoresAndGradients(){
     const weights=weightSliders.map((el, index) => {
         const val = parseFloat(el.value);
@@ -214,11 +261,9 @@ the last date normalized zero value, thus indicating the highest growth
         localStorage.setItem('slider_w' + index, val.toFixed(1));
         return val;
     });
-
     let fundsToProcess = currentlyIsolatedFundNames ? [...currentlyIsolatedFundNames] : [...allFundNamesJS];
     const staleDays = parseInt(staleDaysFilterInput.value, 10);
     localStorage.setItem('staleDaysFilter', staleDaysFilterInput.value);
-
     if (!isNaN(staleDays) && staleDays >= 0 && overallLatestDateJS) {
         const latestDate = new Date(overallLatestDateJS);
         const cutoffTime = latestDate.getTime() - (staleDays * 24 * 60 * 60 * 1000);
@@ -231,7 +276,6 @@ the last date normalized zero value, thus indicating the highest growth
             return fundDate.getTime() >= cutoffTime;
         });
     }
-
     let yScores=[], customData=[], tableData=[], markerLineWidths=[];
     fundsToProcess.forEach(fundName=>{
         const idx=allFundNamesJS.indexOf(fundName);
@@ -246,19 +290,17 @@ the last date normalized zero value, thus indicating the highest growth
             }
             grad=calculateSlope(histScores.slice().reverse());
         }
+        const forecast = (mainScore !== null && grad !== null) ? mainScore + (grad * 5) : null;
         yScores.push(mainScore);
         const lastDate = allFundLastDatesJS[idx] || 'N/A';
         customData.push([grad, lastDate]);
-        tableData.push({name:fundName,score:mainScore,gradient:grad});
-
-        // HIGHLIGHT LOGIC
+        tableData.push({name:fundName,score:mainScore,gradient:grad,forecast:forecast});
         let borderWidth = 0;
         if (!currentlyIsolatedFundNames && currentlyHighlightedFundNames && currentlyHighlightedFundNames.includes(fundName)) {
-            borderWidth = 1; // Thicker border for highlighted bars
+            borderWidth = 1;
         }
         markerLineWidths.push(borderWidth);
     });
-
     Plotly.restyle('bar-chart', {
         x: [fundsToProcess],
         y: [yScores],
@@ -266,10 +308,8 @@ the last date normalized zero value, thus indicating the highest growth
         'marker.line.width': [markerLineWidths],
         'marker.line.color': 'black'
     });
-
     renderDynamicTable(tableData);
   }
-
   weightSliders.forEach(s=>{
     s.addEventListener('input',()=>updateScoresAndGradients());
     s.addEventListener('wheel',function(e){
@@ -283,9 +323,7 @@ the last date normalized zero value, thus indicating the highest growth
         updateScoresAndGradients();
     });
   });
-
   staleDaysFilterInput.addEventListener('input', updateScoresAndGradients);
-
   document.addEventListener('DOMContentLoaded',()=>{
     weightSliders.forEach((slider, index) => {
         const savedValue = localStorage.getItem('slider_w' + index);
@@ -329,13 +367,14 @@ the last date normalized zero value, thus indicating the highest growth
                 }, 2000);
                 return;
             }
-            const headers = ['Fund Name', 'Fund Score', `Fund Score Gradient (${numGradientLookbackDaysJS}d)`];
+            const headers = ['Fund Name', 'Fund Score', `Fund Score Gradient (${numGradientLookbackDaysJS}d)`, 'Forecast (5d)'];
             let csvContent = headers.join(',') + '\n';
             dataForCSVExport.forEach(item => {
                 const score = (item.score !== null && !isNaN(item.score)) ? item.score.toFixed(2) : 'N/A';
                 const gradient = (item.gradient !== null && !isNaN(item.gradient)) ? item.gradient.toFixed(2) : 'N/A';
+                const forecast = (item.forecast !== null && !isNaN(item.forecast)) ? item.forecast.toFixed(2) : 'N/A';
                 const name = `"${String(item.name).replace(/"/g, '""')}"`;
-                csvContent += [name, score, gradient].join(',') + '\n';
+                csvContent += [name, score, gradient, forecast].join(',') + '\n';
             });
             const textArea = document.createElement('textarea');
             textArea.value = csvContent;
