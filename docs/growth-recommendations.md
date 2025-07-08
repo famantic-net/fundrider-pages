@@ -19,7 +19,7 @@
 |     15 | d&g global all cap                                 | 3.3%  | 2.3% | 7.6%  | 19.4% | -3.4%  | -1.4% | 23.0%       |
 |     16 | pictet clean energy transition r                   | 5.9%  | 7.6% | 14.6% | 31.8% | -4.3%  | -6.0% | 23.3%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-07-07
+### Best Long-Term Growth Assessment (Top 20) - 2025-07-08
 |   Rank | Fund                                               | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | 5.9%  | 4.0% | 5.0%  | 16.7% | 11.4%  | 5.7%  | 120.3%      |
@@ -43,7 +43,7 @@
 |     19 | d&g global all cap                                 | 3.3%  | 2.3% | 7.6%  | 19.4% | -3.4%  | -1.4% | 23.0%       |
 |     20 | pictet clean energy transition r                   | 5.9%  | 7.6% | 14.6% | 31.8% | -4.3%  | -6.0% | 23.3%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-07
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-08
 |   Rank | Fund                                                                 | 2w    | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:-----|:------|:------|:-------|:------|:------------|
 |      1 | pictet clean energy transition r                                     | 5.9%  | 7.6% | 14.6% | 31.8% | -4.3%  | -6.0% | 23.3%       |
