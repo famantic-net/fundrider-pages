@@ -19,7 +19,7 @@
 |     15 | abrdn sicav i - japanese sustainable equity fund a | 0.9% | 0.2% | 0.7%  | 12.5% | 0.0%   | 1.6%  | 22.7%       |
 |     16 | pictet clean energy transition r                   | 4.2% | 5.0% | 6.9%  | 25.9% | -4.3%  | -2.9% | 23.0%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-07-11
+### Best Long-Term Growth Assessment (Top 20) - 2025-07-12
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | 4.0% | 4.5%  | 6.4%  | 14.8% | 12.7%  | 5.4%  | 122.8%      |
@@ -43,7 +43,7 @@
 |     19 | abrdn sicav i - japanese sustainable equity fund a | 0.9% | 0.2%  | 0.7%  | 12.5% | 0.0%   | 1.6%  | 22.7%       |
 |     20 | pictet clean energy transition r                   | 4.2% | 5.0%  | 6.9%  | 25.9% | -4.3%  | -2.9% | 23.0%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-11
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-12
 |   Rank | Fund                                                                 | 2w   | 1m   | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:-----|:-----|:------|:------|:-------|:------|:------------|
 |      1 | pictet clean energy transition r                                     | 4.2% | 5.0% | 6.9%  | 25.9% | -4.3%  | -2.9% | 23.0%       |
