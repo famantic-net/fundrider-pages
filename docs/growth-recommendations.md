@@ -19,7 +19,7 @@
 |     15 | länsförsäkringar tillväxtmarknad index a        | 3.0%  | 6.4%  | 6.4%  | 18.0% | 2.6%  | 4.7%  | 24.2%       |
 |     16 | d&g global all cap                              | 1.4%  | 4.0%  | 4.2%  | 14.3% | -2.9% | -2.7% | 23.6%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-07-18
+### Best Long-Term Growth Assessment (Top 20) - 2025-07-19
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:-------|:------|:------------|
 |      1 | seb östeuropafond små och medelstora bolag c       | 3.0%  | 7.6%  | 4.2%  | 10.9% | 13.8%  | 6.2%  | 125.4%      |
@@ -43,7 +43,7 @@
 |     19 | d&g global all cap                                 | 1.4%  | 4.0%  | 4.2%  | 14.3% | -2.9%  | -2.7% | 23.6%       |
 |     20 | abrdn sicav i - japanese sustainable equity fund a | -1.1% | 1.9%  | 2.3%  | 9.4%  | 0.5%   | -1.4% | 23.3%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-18
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-19
 |   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | länsförsäkringar usa index                                           | 2.8%  | 7.9%  | 5.9%  | 21.1% | -7.1% | 4.0%  | 58.5%       |
