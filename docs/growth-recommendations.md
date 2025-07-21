@@ -1,68 +1,68 @@
 
 ### Funds Appearing in Both Top 20 Assessments
-|   Rank | Fund                                            | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | seb östeuropafond små och medelstora bolag c    | 3.0%  | 7.6%  | 4.2%  | 10.9% | 13.8% | 6.2%  | 125.4%      |
-|      2 | länsförsäkringar usa index                      | 2.8%  | 7.9%  | 5.9%  | 21.1% | -7.1% | 4.0%  | 58.5%       |
-|      3 | seb aktiespar                                   | 2.8%  | 4.7%  | 4.5%  | 15.1% | -0.9% | 1.9%  | 50.7%       |
-|      4 | alfred berg aktiv r                             | 1.2%  | -0.5% | 5.0%  | 17.5% | 13.5% | 9.6%  | 47.2%       |
-|      5 | länsförsäkringar sverige index                  | -0.5% | 2.1%  | -2.3% | 7.4%  | 3.5%  | 0.5%  | 45.2%       |
-|      6 | lärarfond offensiv                              | 0.7%  | 4.2%  | 2.1%  | 13.2% | 0.9%  | 0.5%  | 43.2%       |
-|      7 | seb choice emerging markets                     | 3.5%  | 7.2%  | 7.2%  | 21.1% | 3.3%  | 5.9%  | 39.0%       |
-|      8 | d&g småbolag                                    | 0.9%  | 4.0%  | 4.7%  | 15.6% | 1.4%  | -3.8% | 39.0%       |
-|      9 | d&g aktiefond                                   | 0.2%  | 2.6%  | -1.1% | 8.4%  | 3.8%  | -1.8% | 38.0%       |
-|     10 | lärarfond balanserad                            | 0.5%  | 3.3%  | 1.6%  | 10.2% | 0.9%  | 0.7%  | 33.4%       |
-|     11 | seb europafond småbolag                         | 2.1%  | 5.9%  | 4.0%  | 13.2% | 4.7%  | 0.9%  | 32.4%       |
-|     12 | abrdn sicav i - select euro high yield bond a   | 1.4%  | 3.8%  | 4.7%  | 5.9%  | 1.6%  | 2.1%  | 31.8%       |
-|     13 | kpa blandfond                                   | 0.7%  | 3.0%  | 1.9%  | 8.9%  | 1.2%  | 1.6%  | 31.8%       |
-|     14 | abrdn sicav i - global innovation equity fund a | 2.1%  | 3.8%  | 2.8%  | 16.1% | -9.6% | -1.4% | 24.7%       |
-|     15 | länsförsäkringar tillväxtmarknad index a        | 3.0%  | 6.4%  | 6.4%  | 18.0% | 2.6%  | 4.7%  | 24.2%       |
-|     16 | d&g global all cap                              | 1.4%  | 4.0%  | 4.2%  | 14.3% | -2.9% | -2.7% | 23.6%       |
+|   Rank | Fund                                            | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:------------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
+|      1 | seb östeuropafond små och medelstora bolag c    | 2.8%  | 8.9% | 4.7%  | 11.4% | 14.3% | 7.2%  | 126.5%      |
+|      2 | länsförsäkringar usa index                      | 2.3%  | 7.4% | 7.4%  | 21.6% | -6.5% | 5.7%  | 59.6%       |
+|      3 | seb aktiespar                                   | 2.3%  | 4.7% | 4.7%  | 15.6% | -0.5% | 2.8%  | 51.4%       |
+|      4 | länsförsäkringar sverige index                  | 0.5%  | 3.8% | -1.4% | 8.9%  | 5.2%  | 1.4%  | 47.2%       |
+|      5 | aktiespararna topp sverige                      | 1.2%  | 4.0% | -1.1% | 9.6%  | 4.2%  | 0.0%  | 46.9%       |
+|      6 | lärarfond offensiv                              | 0.9%  | 5.0% | 2.8%  | 14.3% | 1.9%  | 1.6%  | 44.5%       |
+|      7 | seb choice emerging markets                     | 3.0%  | 7.4% | 8.9%  | 21.3% | 3.5%  | 5.7%  | 39.3%       |
+|      8 | d&g aktiefond                                   | 0.0%  | 4.2% | -0.9% | 9.4%  | 4.7%  | -1.4% | 39.0%       |
+|      9 | d&g småbolag                                    | -0.7% | 4.7% | 4.5%  | 15.9% | 1.6%  | -4.1% | 39.0%       |
+|     10 | lärarfond balanserad                            | 0.7%  | 4.0% | 2.3%  | 10.9% | 1.6%  | 1.6%  | 34.3%       |
+|     11 | seb europafond småbolag                         | 1.2%  | 6.2% | 4.7%  | 13.8% | 5.2%  | 1.4%  | 33.0%       |
+|     12 | kpa blandfond                                   | 0.5%  | 3.3% | 1.9%  | 9.1%  | 1.6%  | 2.1%  | 32.1%       |
+|     13 | abrdn sicav i - select euro high yield bond a   | 0.7%  | 3.3% | 5.4%  | 5.9%  | 1.6%  | 2.3%  | 31.8%       |
+|     14 | pictet clean energy transition r                | 1.6%  | 7.6% | 8.9%  | 27.1% | -2.7% | -1.4% | 25.3%       |
+|     15 | d&g global all cap                              | 1.4%  | 4.5% | 5.0%  | 15.3% | -1.8% | -1.4% | 25.0%       |
+|     16 | abrdn sicav i - global innovation equity fund a | 0.9%  | 3.5% | 3.0%  | 16.1% | -9.6% | -0.9% | 24.7%       |
 
-### Best Long-Term Growth Assessment (Top 20) - 2025-07-20
+### Best Long-Term Growth Assessment (Top 20) - 2025-07-21
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:-------|:------|:------------|
-|      1 | seb östeuropafond små och medelstora bolag c       | 3.0%  | 7.6%  | 4.2%  | 10.9% | 13.8%  | 6.2%  | 125.4%      |
-|      2 | länsförsäkringar usa index                         | 2.8%  | 7.9%  | 5.9%  | 21.1% | -7.1%  | 4.0%  | 58.5%       |
-|      3 | seb aktiespar                                      | 2.8%  | 4.7%  | 4.5%  | 15.1% | -0.9%  | 1.9%  | 50.7%       |
-|      4 | alfred berg aktiv r                                | 1.2%  | -0.5% | 5.0%  | 17.5% | 13.5%  | 9.6%  | 47.2%       |
-|      5 | länsförsäkringar sverige index                     | -0.5% | 2.1%  | -2.3% | 7.4%  | 3.5%   | 0.5%  | 45.2%       |
-|      6 | aktiespararna topp sverige                         | 0.0%  | 2.1%  | -2.1% | 7.9%  | 2.6%   | -1.1% | 44.5%       |
-|      7 | länsförsäkringar global index                      | 0.0%  | 5.0%  | 12.7% | -0.9% | -11.3% | 1.4%  | 44.2%       |
-|      8 | lärarfond offensiv                                 | 0.7%  | 4.2%  | 2.1%  | 13.2% | 0.9%   | 0.5%  | 43.2%       |
-|      9 | seb choice emerging markets                        | 3.5%  | 7.2%  | 7.2%  | 21.1% | 3.3%   | 5.9%  | 39.0%       |
-|     10 | d&g småbolag                                       | 0.9%  | 4.0%  | 4.7%  | 15.6% | 1.4%   | -3.8% | 39.0%       |
-|     11 | d&g aktiefond                                      | 0.2%  | 2.6%  | -1.1% | 8.4%  | 3.8%   | -1.8% | 38.0%       |
-|     12 | lärarfond balanserad                               | 0.5%  | 3.3%  | 1.6%  | 10.2% | 0.9%   | 0.7%  | 33.4%       |
-|     13 | seb europafond småbolag                            | 2.1%  | 5.9%  | 4.0%  | 13.2% | 4.7%   | 0.9%  | 32.4%       |
-|     14 | kpa blandfond                                      | 0.7%  | 3.0%  | 1.9%  | 8.9%  | 1.2%   | 1.6%  | 31.8%       |
-|     15 | abrdn sicav i - select euro high yield bond a      | 1.4%  | 3.8%  | 4.7%  | 5.9%  | 1.6%   | 2.1%  | 31.8%       |
-|     16 | länsförsäkringar japan index                       | -1.4% | 1.6%  | 1.2%  | 8.1%  | -2.9%  | -3.4% | 25.0%       |
-|     17 | abrdn sicav i - global innovation equity fund a    | 2.1%  | 3.8%  | 2.8%  | 16.1% | -9.6%  | -1.4% | 24.7%       |
-|     18 | länsförsäkringar tillväxtmarknad index a           | 3.0%  | 6.4%  | 6.4%  | 18.0% | 2.6%   | 4.7%  | 24.2%       |
-|     19 | d&g global all cap                                 | 1.4%  | 4.0%  | 4.2%  | 14.3% | -2.9%  | -2.7% | 23.6%       |
-|     20 | abrdn sicav i - japanese sustainable equity fund a | -1.1% | 1.9%  | 2.3%  | 9.4%  | 0.5%   | -1.4% | 23.3%       |
+|      1 | seb östeuropafond små och medelstora bolag c       | 2.8%  | 8.9%  | 4.7%  | 11.4% | 14.3%  | 7.2%  | 126.5%      |
+|      2 | länsförsäkringar usa index                         | 2.3%  | 7.4%  | 7.4%  | 21.6% | -6.5%  | 5.7%  | 59.6%       |
+|      3 | seb aktiespar                                      | 2.3%  | 4.7%  | 4.7%  | 15.6% | -0.5%  | 2.8%  | 51.4%       |
+|      4 | alfred berg aktiv r                                | -0.2% | -0.9% | 5.4%  | 17.5% | 13.8%  | 9.4%  | 47.2%       |
+|      5 | länsförsäkringar sverige index                     | 0.5%  | 3.8%  | -1.4% | 8.9%  | 5.2%   | 1.4%  | 47.2%       |
+|      6 | aktiespararna topp sverige                         | 1.2%  | 4.0%  | -1.1% | 9.6%  | 4.2%   | 0.0%  | 46.9%       |
+|      7 | lärarfond offensiv                                 | 0.9%  | 5.0%  | 2.8%  | 14.3% | 1.9%   | 1.6%  | 44.5%       |
+|      8 | länsförsäkringar global index                      | 0.0%  | 5.0%  | 12.7% | -0.9% | -11.3% | 1.4%  | 44.2%       |
+|      9 | seb choice emerging markets                        | 3.0%  | 7.4%  | 8.9%  | 21.3% | 3.5%   | 5.7%  | 39.3%       |
+|     10 | d&g aktiefond                                      | 0.0%  | 4.2%  | -0.9% | 9.4%  | 4.7%   | -1.4% | 39.0%       |
+|     11 | d&g småbolag                                       | -0.7% | 4.7%  | 4.5%  | 15.9% | 1.6%   | -4.1% | 39.0%       |
+|     12 | lärarfond balanserad                               | 0.7%  | 4.0%  | 2.3%  | 10.9% | 1.6%   | 1.6%  | 34.3%       |
+|     13 | seb europafond småbolag                            | 1.2%  | 6.2%  | 4.7%  | 13.8% | 5.2%   | 1.4%  | 33.0%       |
+|     14 | kpa blandfond                                      | 0.5%  | 3.3%  | 1.9%  | 9.1%  | 1.6%   | 2.1%  | 32.1%       |
+|     15 | abrdn sicav i - select euro high yield bond a      | 0.7%  | 3.3%  | 5.4%  | 5.9%  | 1.6%   | 2.3%  | 31.8%       |
+|     16 | länsförsäkringar japan index                       | 0.0%  | 0.2%  | 1.9%  | 9.1%  | -2.1%  | -1.6% | 26.2%       |
+|     17 | pictet clean energy transition r                   | 1.6%  | 7.6%  | 8.9%  | 27.1% | -2.7%  | -1.4% | 25.3%       |
+|     18 | d&g global all cap                                 | 1.4%  | 4.5%  | 5.0%  | 15.3% | -1.8%  | -1.4% | 25.0%       |
+|     19 | abrdn sicav i - japanese sustainable equity fund a | -0.2% | 1.6%  | 3.8%  | 10.9% | 1.6%   | 0.9%  | 24.7%       |
+|     20 | abrdn sicav i - global innovation equity fund a    | 0.9%  | 3.5%  | 3.0%  | 16.1% | -9.6%  | -0.9% | 24.7%       |
 
-### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-20
-|   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | länsförsäkringar usa index                                           | 2.8%  | 7.9%  | 5.9%  | 21.1% | -7.1% | 4.0%  | 58.5%       |
-|      2 | pictet clean energy transition r                                     | 2.6%  | 6.2%  | 7.2%  | 25.3% | -4.1% | -3.6% | 23.3%       |
-|      3 | seb choice emerging markets                                          | 3.5%  | 7.2%  | 7.2%  | 21.1% | 3.3%  | 5.9%  | 39.0%       |
-|      4 | seb östeuropafond små och medelstora bolag c                         | 3.0%  | 7.6%  | 4.2%  | 10.9% | 13.8% | 6.2%  | 125.4%      |
-|      5 | seb europafond småbolag                                              | 2.1%  | 5.9%  | 4.0%  | 13.2% | 4.7%  | 0.9%  | 32.4%       |
-|      6 | länsförsäkringar tillväxtmarknad index a                             | 3.0%  | 6.4%  | 6.4%  | 18.0% | 2.6%  | 4.7%  | 24.2%       |
-|      7 | abrdn sicav i - global innovation equity fund a                      | 2.1%  | 3.8%  | 2.8%  | 16.1% | -9.6% | -1.4% | 24.7%       |
-|      8 | seb aktiespar                                                        | 2.8%  | 4.7%  | 4.5%  | 15.1% | -0.9% | 1.9%  | 50.7%       |
-|      9 | kotak funds - india growth fund                                      | 1.2%  | 5.0%  | 2.3%  | 6.7%  | -9.8% | -9.8% | 14.0%       |
-|     10 | lärarfond offensiv                                                   | 0.7%  | 4.2%  | 2.1%  | 13.2% | 0.9%  | 0.5%  | 43.2%       |
-|     11 | d&g småbolag                                                         | 0.9%  | 4.0%  | 4.7%  | 15.6% | 1.4%  | -3.8% | 39.0%       |
-|     12 | d&g global all cap                                                   | 1.4%  | 4.0%  | 4.2%  | 14.3% | -2.9% | -2.7% | 23.6%       |
-|     13 | swedbank robur small cap europe a                                    | 2.6%  | 3.0%  | 3.5%  | 14.8% | 5.0%  | -7.3% | 10.7%       |
-|     14 | lärarfond balanserad                                                 | 0.5%  | 3.3%  | 1.6%  | 10.2% | 0.9%  | 0.7%  | 33.4%       |
-|     15 | d&g aktiefond                                                        | 0.2%  | 2.6%  | -1.1% | 8.4%  | 3.8%  | -1.8% | 38.0%       |
-|     16 | kpa blandfond                                                        | 0.7%  | 3.0%  | 1.9%  | 8.9%  | 1.2%  | 1.6%  | 31.8%       |
-|     17 | abrdn sicav i - japanese smaller companies sustainable equity fund a | 0.0%  | 3.8%  | 5.0%  | 10.7% | 4.0%  | 2.6%  | 8.1%        |
-|     18 | länsförsäkringar sverige index                                       | -0.5% | 2.1%  | -2.3% | 7.4%  | 3.5%  | 0.5%  | 45.2%       |
-|     19 | abrdn sicav i - select euro high yield bond a                        | 1.4%  | 3.8%  | 4.7%  | 5.9%  | 1.6%  | 2.1%  | 31.8%       |
-|     20 | alfred berg aktiv r                                                  | 1.2%  | -0.5% | 5.0%  | 17.5% | 13.5% | 9.6%  | 47.2%       |
+### Best Short-Term Assessment (Composite Score, Top 20) - 2025-07-21
+|   Rank | Fund                                                                 | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:---------------------------------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
+|      1 | pictet clean energy transition r                                     | 1.6%  | 7.6% | 8.9%  | 27.1% | -2.7% | -1.4% | 25.3%       |
+|      2 | seb östeuropafond små och medelstora bolag c                         | 2.8%  | 8.9% | 4.7%  | 11.4% | 14.3% | 7.2%  | 126.5%      |
+|      3 | länsförsäkringar usa index                                           | 2.3%  | 7.4% | 7.4%  | 21.6% | -6.5% | 5.7%  | 59.6%       |
+|      4 | seb choice emerging markets                                          | 3.0%  | 7.4% | 8.9%  | 21.3% | 3.5%  | 5.7%  | 39.3%       |
+|      5 | seb europafond småbolag                                              | 1.2%  | 6.2% | 4.7%  | 13.8% | 5.2%  | 1.4%  | 33.0%       |
+|      6 | seb aktiespar                                                        | 2.3%  | 4.7% | 4.7%  | 15.6% | -0.5% | 2.8%  | 51.4%       |
+|      7 | länsförsäkringar tillväxtmarknad index a                             | 2.6%  | 5.9% | 7.2%  | 18.3% | 2.8%  | 5.9%  | 24.5%       |
+|      8 | swedbank robur small cap europe a                                    | 2.1%  | 4.0% | 4.0%  | 15.9% | 5.7%  | -6.2% | 11.7%       |
+|      9 | lärarfond offensiv                                                   | 0.9%  | 5.0% | 2.8%  | 14.3% | 1.9%  | 1.6%  | 44.5%       |
+|     10 | abrdn sicav i - global innovation equity fund a                      | 0.9%  | 3.5% | 3.0%  | 16.1% | -9.6% | -0.9% | 24.7%       |
+|     11 | d&g småbolag                                                         | -0.7% | 4.7% | 4.5%  | 15.9% | 1.6%  | -4.1% | 39.0%       |
+|     12 | d&g global all cap                                                   | 1.4%  | 4.5% | 5.0%  | 15.3% | -1.8% | -1.4% | 25.0%       |
+|     13 | d&g aktiefond                                                        | 0.0%  | 4.2% | -0.9% | 9.4%  | 4.7%  | -1.4% | 39.0%       |
+|     14 | länsförsäkringar sverige index                                       | 0.5%  | 3.8% | -1.4% | 8.9%  | 5.2%  | 1.4%  | 47.2%       |
+|     15 | aktiespararna topp sverige                                           | 1.2%  | 4.0% | -1.1% | 9.6%  | 4.2%  | 0.0%  | 46.9%       |
+|     16 | lärarfond balanserad                                                 | 0.7%  | 4.0% | 2.3%  | 10.9% | 1.6%  | 1.6%  | 34.3%       |
+|     17 | kpa blandfond                                                        | 0.5%  | 3.3% | 1.9%  | 9.1%  | 1.6%  | 2.1%  | 32.1%       |
+|     18 | kotak funds - india growth fund                                      | 1.2%  | 4.5% | 4.2%  | 6.9%  | -9.6% | -9.6% | 14.3%       |
+|     19 | abrdn sicav i - japanese smaller companies sustainable equity fund a | 0.9%  | 3.8% | 6.9%  | 11.7% | 5.0%  | 4.7%  | 9.1%        |
+|     20 | abrdn sicav i - select euro high yield bond a                        | 0.7%  | 3.3% | 5.4%  | 5.9%  | 1.6%  | 2.3%  | 31.8%       |
