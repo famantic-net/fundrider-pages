@@ -6,7 +6,7 @@
 |      2 | cpr invest global gold mines a2 | 7.9% | 2.3% | 7.9%  | 7.6%  | 40.3% | 41.3% | 92.3%       |
 |      3 | nordea kinafond                 | 5.9% | 6.4% | 11.4% | 17.2% | 11.2% | 30.9% | 14.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-07-26
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-07-27
 |   Rank | Fund                                         | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world gold a2                    | 6.2%  | 4.7% | 7.2%  | 13.0% | 35.2% | 33.7% | 91.0%       |
@@ -30,7 +30,7 @@
 |     19 | tundra sustainable frontier fund a           | 3.0%  | 8.6% | 11.4% | 15.1% | -2.7% | 13.0% | 22.5%       |
 |     20 | öhman småbolagsfond a                        | 2.1%  | 6.9% | 6.9%  | 15.9% | 10.9% | 5.9%  | 44.2%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-07-26
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-07-27
 |   Rank | Fund                                     | 2w   | 1m   | 2m    | 3m    | 6m     | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:-----|:-----|:------|:------|:-------|:-------|:------------|
 |      1 | allianz global metals and mining a       | 6.7% | 8.4% | 10.2% | 14.3% | 12.2%  | 2.8%   | 8.6%        |
