@@ -8,7 +8,7 @@
 |      4 | tundra sustainable frontier fund a     | 2.1% | 9.9% | 14.6% | 16.9% | 0.5%  | 15.6% | 26.2%       |
 |      5 | länsförsäkringar usa aktiv a           | 2.8% | 7.2% | 14.6% | 18.9% | -6.2% | 10.4% | 66.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-02
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-03
 |   Rank | Fund                                         | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world financials a2              | 2.3%  | 5.9% | 21.1% | 24.2% | 14.6% | 38.4% | 105.1%      |
@@ -32,7 +32,7 @@
 |     19 | länsförsäkringar usa index                   | 1.4%  | 5.4% | 9.6%  | 14.3% | -5.8% | 11.2% | 60.7%       |
 |     20 | länsförsäkringar usa aktiv a                 | 2.8%  | 7.2% | 14.6% | 18.9% | -6.2% | 10.4% | 66.3%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-02
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-03
 |   Rank | Fund                                           | 2w   | 1m    | 2m    | 3m    | 6m     | 1y     | All Dates   |
 |-------:|:-----------------------------------------------|:-----|:------|:------|:------|:-------|:-------|:------------|
 |      1 | swedbank robur technology a                    | 3.3% | 7.9%  | 18.0% | 24.2% | -0.9%  | 17.8%  | 106.5%      |
