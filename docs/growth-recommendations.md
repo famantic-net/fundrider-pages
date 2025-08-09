@@ -8,7 +8,7 @@
 |      4 | east capital global frontier markets a | 3.0% | 6.7% | 14.3% | 18.6% | 5.0%  | 8.9%  | 59.2%       |
 |      5 | blackrock - japan small & midcap a2    | 5.4% | 9.6% | 8.6%  | 14.3% | 8.4%  | 14.3% | 37.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-08
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-09
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2              | 3.3%  | 6.4%  | 3.5%  | 11.9% | 44.9% | 40.9% | 98.6%       |
@@ -32,7 +32,7 @@
 |     19 | alfred berg norge c                          | 0.5%  | -0.2% | 2.8%  | 9.9%  | 13.5% | 9.9%  | 42.6%       |
 |     20 | länsförsäkringar usa index                   | 1.4%  | 3.3%  | 6.7%  | 12.5% | -6.7% | 5.9%  | 59.2%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-08
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-09
 |   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                                      | 3.3%  | 6.4%  | 3.5%  | 11.9% | 44.9% | 40.9%  | 98.6%       |
