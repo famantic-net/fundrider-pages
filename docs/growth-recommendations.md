@@ -7,7 +7,7 @@
 |      3 | seb östeuropafond små och medelstora bolag c | 4.2% | 5.4%  | 13.8% | 9.1%  | 19.7% | 20.5% | 137.1%      |
 |      4 | blackrock - japan small & midcap a2          | 6.2% | 9.9%  | 11.2% | 14.0% | 9.9%  | 16.4% | 39.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-16
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-17
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2              | 9.4%  | 11.4% | 6.7%  | 23.6% | 49.6% | 44.2% | 105.1%      |
@@ -31,7 +31,7 @@
 |     19 | swedbank robur aktiefond pension             | 0.2%  | 1.9%  | 6.4%  | 5.2%  | 4.5%  | 9.1%  | 61.4%       |
 |     20 | templeton emerging markets fund a            | 0.7%  | 3.3%  | 9.4%  | 9.1%  | 8.4%  | 15.1% | 42.2%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-16
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-17
 |   Rank | Fund                                                                 | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                                      | 9.4% | 11.4% | 6.7%  | 23.6% | 49.6% | 44.2% | 105.1%      |
