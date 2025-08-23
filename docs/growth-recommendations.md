@@ -6,7 +6,7 @@
 |      2 | allianz china equity a              | 3.0% | 3.8% | 13.5% | 12.7% | -0.2% | 33.4% | 9.9%        |
 |      3 | aktiespararna direktavkastning      | 4.2% | 4.7% | 7.4%  | 5.0%  | 3.5%  | 13.8% | 43.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-22
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-23
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2              | -0.7% | 4.7%  | 5.0%  | 13.0% | 23.9% | 42.9% | 97.2%       |
@@ -30,7 +30,7 @@
 |     19 | aktiespararna direktavkastning               | 4.2%  | 4.7%  | 7.4%  | 5.0%  | 3.5%  | 13.8% | 43.5%       |
 |     20 | swedbank robur aktiefond pension             | 1.9%  | 3.0%  | 6.4%  | 8.9%  | 0.0%  | 8.4%  | 61.8%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-22
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-23
 |   Rank | Fund                                                                 | 2w   | 1m   | 2m    | 3m    | 6m     | 1y     | All Dates   |
 |-------:|:---------------------------------------------------------------------|:-----|:-----|:------|:------|:-------|:-------|:------------|
 |      1 | allianz china a-shares at                                            | 5.4% | 6.4% | 14.6% | 14.8% | -0.7%  | 22.5%  | -17.0%      |
