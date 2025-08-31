@@ -6,7 +6,7 @@
 |      2 | blackrock - world gold a2       | 5.2% | 13.5% | 18.0% | 18.9% | 38.0% | 54.9% | 111.8%      |
 |      3 | allianz china equity a          | 3.0% | 2.6%  | 13.5% | 17.5% | 6.4%  | 35.8% | 11.7%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-30
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-08-31
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2              | 5.0%  | 17.2% | 21.6% | 19.9% | 37.4% | 60.7% | 115.3%      |
@@ -30,7 +30,7 @@
 |     19 | pictet digital r                             | 1.4%  | -2.7% | 0.5%  | 7.9%  | 3.5%  | 16.7% | 75.8%       |
 |     20 | alfred berg norge c                          | 2.3%  | 1.2%  | 2.6%  | 6.4%  | 15.3% | 16.9% | 44.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-30
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-08-31
 |   Rank | Fund                                                  | 2w   | 1m    | 2m    | 3m    | 6m     | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:-----|:------|:------|:------|:-------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 5.0% | 17.2% | 21.6% | 19.9% | 37.4%  | 60.7%  | 115.3%      |
