@@ -8,7 +8,7 @@
 |      4 | allianz china equity a          | 2.1%  | 5.4%  | 13.5% | 15.1% | 8.1%  | 36.5% | 12.2%       |
 |      5 | allianz china a-shares at       | 7.6%  | 14.0% | 21.3% | 23.6% | 15.9% | 31.8% | -10.7%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-07
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2              | 12.5% | 18.9% | 19.7% | 15.6% | 48.3% | 65.6% | 122.3%      |
@@ -32,7 +32,7 @@
 |     19 | allianz china a-shares at                    | 7.6%  | 14.0% | 21.3% | 23.6% | 15.9% | 31.8% | -10.7%      |
 |     20 | seb östeuropafond små och medelstora bolag c | -8.0% | -4.9% | -3.2% | 1.9%  | 5.7%  | 10.4% | 117.3%      |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-07
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 12.5% | 18.9% | 19.7% | 15.6% | 48.3% | 65.6%  | 122.3%      |
