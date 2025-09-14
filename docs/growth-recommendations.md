@@ -9,7 +9,7 @@
 |      5 | nordea kinafond                 | 2.6% | 6.4%  | 9.6%  | 14.0% | 4.5%  | 40.9% | 20.2%       |
 |      6 | allianz china equity a          | 2.6% | 7.4%  | 13.2% | 17.5% | 6.7%  | 39.3% | 14.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-13
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-14
 |   Rank | Fund                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2      | 6.2%  | 13.0% | 24.2% | 21.1% | 40.3% | 70.6% | 128.6%      |
@@ -33,7 +33,7 @@
 |     19 | alfred berg norge c                  | 0.5%  | 1.9%  | 1.9%  | 1.9%  | 9.6%  | 17.5% | 45.2%       |
 |     20 | goldman sachs greater china equity p | 0.5%  | 6.2%  | 15.9% | 23.3% | 16.4% | 46.9% | 36.1%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-13
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-14
 |   Rank | Fund                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world gold a2             | 8.9% | 14.3% | 22.5% | 20.5% | 41.9% | 68.7% | 130.7%      |
