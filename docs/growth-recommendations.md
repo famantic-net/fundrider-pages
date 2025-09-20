@@ -8,7 +8,7 @@
 |      4 | allianz china a-shares at       | 2.6% | 12.2% | 16.9% | 26.5% | 18.9% | 35.2% | -8.4%       |
 |      5 | blackrock - china a2            | 4.7% | 6.2%  | 5.9%  | 14.8% | 5.0%  | 34.3% | 16.4%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-19
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-20
 |   Rank | Fund                                | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2     | 4.5%  | 14.3% | 26.8% | 23.6% | 41.3% | 73.4% | 132.3%      |
@@ -32,7 +32,7 @@
 |     19 | templeton emerging markets fund a   | 5.4%  | 3.3%  | 4.7%  | 10.2% | 12.5% | 21.1% | 46.6%       |
 |     20 | blackrock - japan small & midcap a2 | 0.7%  | -1.1% | 8.1%  | 9.9%  | 14.3% | 13.8% | 39.6%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-19
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-20
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 4.5% | 14.3% | 26.8% | 23.6% | 41.3% | 73.4% | 132.3%      |
