@@ -9,7 +9,7 @@
 |      5 | allianz china a-shares at       | 5.9%  | 7.9%  | 19.9% | 29.1% | 24.5% | 38.7% | -6.0%       |
 |      6 | jpmorgan china a                | 5.0%  | 5.0%  | 10.4% | 18.6% | 12.2% | 42.2% | 5.7%        |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-27
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-09-28
 |   Rank | Fund                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2    | 10.4% | 20.2% | 34.9% | 37.7% | 49.6% | 88.4% | 152.3%      |
@@ -33,7 +33,7 @@
 |     19 | blackrock - china a2               | 3.5%  | 3.8%  | 5.9%  | 12.7% | 8.1%  | 35.2% | 16.9%       |
 |     20 | pictet digital r                   | 1.6%  | 2.6%  | 0.2%  | 3.3%  | 18.3% | 19.1% | 79.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-27
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-09-28
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 10.4% | 20.2% | 34.9% | 37.7% | 49.6% | 88.4% | 152.3%      |
