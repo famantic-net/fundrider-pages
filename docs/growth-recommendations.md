@@ -12,7 +12,7 @@
 |      8 | allianz global metals and mining a | 9.4%  | 13.8% | 23.3% | 21.1% | 46.6% | 15.3% | 27.6%       |
 |      9 | jpmorgan china a                   | 5.2%  | 8.6%  | 13.2% | 20.5% | 31.2% | 10.7% | 7.4%        |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-04
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-05
 |   Rank | Fund                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2    | 7.2%  | 17.8% | 40.6% | 40.6% | 68.3% | 76.6% | 155.9%      |
@@ -36,7 +36,7 @@
 |     19 | seb asienfond ex japan             | 0.7%  | 4.7%  | 6.9%  | 6.9%  | 31.8% | 9.6%  | 44.2%       |
 |     20 | tundra sustainable frontier fund a | 1.4%  | 1.4%  | 1.9%  | 10.9% | 23.6% | 14.0% | 29.4%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-04
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-05
 |   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:--------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | blackrock - world gold a2             | 13.2% | 19.7% | 37.1% | 39.3% | 64.1% | 71.8%  | 160.0%      |
