@@ -13,7 +13,7 @@
 |      9 | blackrock - world mining a2        | 9.6%  | 10.9% | 19.1% | 23.6% | 46.2% | 14.6% | 29.4%       |
 |     10 | baring hong kong china a           | 4.5%  | 9.6%  | 12.2% | 18.6% | 28.5% | 14.0% | 9.9%        |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-07
 |   Rank | Fund                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2    | 13.2% | 17.2% | 39.6% | 40.6% | 69.0% | 78.6% | 160.6%      |
@@ -37,7 +37,7 @@
 |     19 | templeton emerging markets fund a  | 2.3%  | 8.1%  | 7.4%  | 8.6%  | 35.2% | 13.0% | 50.3%       |
 |     20 | baring hong kong china a           | 4.5%  | 9.6%  | 12.2% | 18.6% | 28.5% | 14.0% | 9.9%        |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-07
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2               | 13.2% | 17.2% | 39.6% | 40.6% | 69.0% | 78.6%  | 160.6%      |
