@@ -2,57 +2,57 @@
 ### Funds Appearing in Both Top 20 Assessments
 |   Rank | Fund                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
-|      1 | cpr invest global gold mines a2       | 1.9% | 11.2% | 28.8% | 41.3% | 38.4% | 60.7% | 160.0%      |
-|      2 | blackrock - world gold a2             | 5.4% | 16.1% | 34.6% | 47.6% | 47.2% | 68.3% | 171.0%      |
-|      3 | blackrock - world mining a2           | 4.5% | 13.2% | 21.3% | 26.8% | 37.4% | 16.4% | 34.9%       |
-|      4 | allianz global metals and mining a    | 3.3% | 11.7% | 19.1% | 26.8% | 38.0% | 17.5% | 31.5%       |
-|      5 | franklin biotechnology discovery fund | 7.9% | 14.6% | 19.4% | 26.8% | 39.3% | 3.3%  | 39.3%       |
-|      6 | pictet biotech r                      | 6.2% | 14.6% | 17.5% | 21.1% | 43.2% | 3.0%  | 23.0%       |
+|      1 | cpr invest global gold mines a2       | 6.4% | 14.0% | 34.9% | 47.6% | 44.5% | 71.0% | 172.3%      |
+|      2 | blackrock - world gold a2             | 5.4% | 17.2% | 36.1% | 49.3% | 51.4% | 70.2% | 174.2%      |
+|      3 | blackrock - world mining a2           | 4.2% | 14.3% | 23.0% | 27.6% | 41.3% | 17.8% | 36.5%       |
+|      4 | allianz global metals and mining a    | 4.5% | 12.7% | 21.3% | 28.2% | 41.9% | 19.1% | 33.4%       |
+|      5 | franklin biotechnology discovery fund | 6.9% | 16.1% | 18.9% | 26.2% | 40.3% | 4.0%  | 40.3%       |
+|      6 | pictet biotech r                      | 5.7% | 15.9% | 16.7% | 22.5% | 44.5% | 4.0%  | 23.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-16
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-17
 |   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | cpr invest global gold mines a2       | 1.9%  | 11.2% | 28.8% | 41.3% | 38.4% | 60.7% | 160.0%      |
-|      2 | blackrock - world gold a2             | 5.4%  | 16.1% | 34.6% | 47.6% | 47.2% | 68.3% | 171.0%      |
-|      3 | dnb teknologi s                       | 2.6%  | 6.9%  | 9.4%  | 10.4% | 38.7% | 21.6% | 111.3%      |
-|      4 | skandia time global                   | 2.3%  | 5.9%  | 8.9%  | 8.9%  | 40.6% | 18.3% | 103.2%      |
-|      5 | blackrock - world financials a2       | -2.3% | -0.9% | -2.9% | -1.4% | 30.0% | 21.1% | 100.9%      |
-|      6 | blackrock - world mining a2           | 4.5%  | 13.2% | 21.3% | 26.8% | 37.4% | 16.4% | 34.9%       |
-|      7 | franklin technology fund a            | 3.3%  | 6.2%  | 7.4%  | 8.4%  | 45.5% | 14.3% | 87.9%       |
-|      8 | allianz global metals and mining a    | 3.3%  | 11.7% | 19.1% | 26.8% | 38.0% | 17.5% | 31.5%       |
-|      9 | blackrock - world technology a2       | 1.6%  | 3.3%  | 5.9%  | 6.4%  | 40.3% | 10.2% | 87.5%       |
-|     10 | delphi global a2                      | 1.4%  | 4.7%  | 5.0%  | 5.4%  | 23.9% | 15.1% | 77.8%       |
-|     11 | seb teknologifond                     | 2.8%  | 4.7%  | 3.0%  | 2.6%  | 32.4% | 9.6%  | 98.6%       |
-|     12 | swedbank robur technology a           | 1.2%  | 3.5%  | 4.2%  | 4.2%  | 41.3% | 8.4%  | 110.9%      |
-|     13 | carnegie småbolagsfond a              | 0.0%  | -0.5% | 1.4%  | -1.4% | 13.5% | 18.9% | 82.4%       |
-|     14 | nordea kinafond                       | -4.5% | -0.2% | 6.2%  | 7.4%  | 29.4% | 14.6% | 21.9%       |
-|     15 | tundra sustainable frontier fund a    | 2.6%  | 4.2%  | 3.0%  | 5.9%  | 25.9% | 15.1% | 32.7%       |
-|     16 | templeton emerging markets fund a     | 2.3%  | 5.0%  | 7.2%  | 8.1%  | 30.3% | 15.6% | 52.4%       |
-|     17 | franklin biotechnology discovery fund | 7.9%  | 14.6% | 19.4% | 26.8% | 39.3% | 3.3%  | 39.3%       |
-|     18 | allianz china equity a                | -5.2% | -0.9% | 5.2%  | 9.4%  | 27.4% | 13.8% | 14.8%       |
-|     19 | pictet biotech r                      | 6.2%  | 14.6% | 17.5% | 21.1% | 43.2% | 3.0%  | 23.0%       |
-|     20 | seb asienfond ex japan                | 0.0%  | 1.2%  | 3.0%  | 3.5%  | 27.9% | 8.9%  | 44.2%       |
+|      1 | cpr invest global gold mines a2       | 6.4%  | 14.0% | 34.9% | 47.6% | 44.5% | 71.0% | 172.3%      |
+|      2 | blackrock - world gold a2             | 5.4%  | 17.2% | 36.1% | 49.3% | 51.4% | 70.2% | 174.2%      |
+|      3 | dnb teknologi s                       | 3.3%  | 6.9%  | 10.7% | 9.9%  | 39.6% | 22.7% | 113.3%      |
+|      4 | skandia time global                   | 3.8%  | 6.9%  | 10.2% | 10.9% | 45.5% | 19.4% | 105.1%      |
+|      5 | blackrock - world financials a2       | 0.7%  | 2.1%  | -0.7% | -0.7% | 34.6% | 22.7% | 103.2%      |
+|      6 | blackrock - world mining a2           | 4.2%  | 14.3% | 23.0% | 27.6% | 41.3% | 17.8% | 36.5%       |
+|      7 | allianz global metals and mining a    | 4.5%  | 12.7% | 21.3% | 28.2% | 41.9% | 19.1% | 33.4%       |
+|      8 | blackrock - world technology a2       | 3.5%  | 5.2%  | 8.1%  | 8.4%  | 47.9% | 11.7% | 90.1%       |
+|      9 | nordea kinafond                       | -2.7% | 1.9%  | 7.2%  | 9.6%  | 32.4% | 16.7% | 24.2%       |
+|     10 | delphi global a2                      | 1.6%  | 5.0%  | 5.4%  | 5.2%  | 24.5% | 15.6% | 78.6%       |
+|     11 | franklin technology fund a            | 1.6%  | 3.5%  | 6.7%  | 5.7%  | 43.9% | 13.2% | 85.8%       |
+|     12 | carnegie småbolagsfond a              | -0.5% | 0.9%  | 2.1%  | -1.1% | 13.2% | 19.4% | 83.7%       |
+|     13 | swedbank robur technology a           | 1.2%  | 4.5%  | 4.5%  | 5.2%  | 46.2% | 8.6%  | 111.3%      |
+|     14 | tundra sustainable frontier fund a    | 2.6%  | 4.2%  | 3.0%  | 5.9%  | 25.9% | 15.1% | 32.7%       |
+|     15 | seb teknologifond                     | 1.9%  | 3.8%  | 3.0%  | 0.9%  | 31.8% | 8.9%  | 97.7%       |
+|     16 | franklin biotechnology discovery fund | 6.9%  | 16.1% | 18.9% | 26.2% | 40.3% | 4.0%  | 40.3%       |
+|     17 | templeton emerging markets fund a     | 1.4%  | 4.0%  | 6.9%  | 7.4%  | 30.0% | 15.3% | 51.7%       |
+|     18 | allianz china equity a                | -4.1% | 0.7%  | 6.2%  | 9.9%  | 29.4% | 15.1% | 16.1%       |
+|     19 | seb asienfond ex japan                | 1.2%  | 1.9%  | 5.0%  | 5.4%  | 30.9% | 10.2% | 45.9%       |
+|     20 | pictet biotech r                      | 5.7%  | 15.9% | 16.7% | 22.5% | 44.5% | 4.0%  | 23.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-16
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-17
 |   Rank | Fund                                    | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:----------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
-|      1 | franklin biotechnology discovery fund   | 7.9% | 14.6% | 19.4% | 26.8% | 39.3% | 3.3%   | 39.3%       |
-|      2 | blackrock - world gold a2               | 5.4% | 16.1% | 34.6% | 47.6% | 47.2% | 68.3%  | 171.0%      |
-|      3 | carnegie fastighetsfond norden a        | 5.9% | 2.8%  | 2.3%  | 0.7%  | 6.2%  | -10.7% | 32.7%       |
-|      4 | pictet biotech r                        | 6.2% | 14.6% | 17.5% | 21.1% | 43.2% | 3.0%   | 23.0%       |
-|      5 | odin fastighet c                        | 4.7% | 2.3%  | 2.3%  | 0.5%  | 6.9%  | -12.1% | 23.6%       |
-|      6 | länsförsäkringar fastighetsfond a       | 4.2% | 3.5%  | 2.1%  | 0.7%  | 7.4%  | -8.0%  | 33.7%       |
-|      7 | handelsbanken hållbar energi a1         | 7.9% | 15.3% | 20.8% | 22.5% | 47.9% | 8.1%   | -18.2%      |
-|      8 | blackrock - world mining a2             | 4.5% | 13.2% | 21.3% | 26.8% | 37.4% | 16.4%  | 34.9%       |
-|      9 | allianz global metals and mining a      | 3.3% | 11.7% | 19.1% | 26.8% | 38.0% | 17.5%  | 31.5%       |
-|     10 | cpr invest global gold mines a2         | 1.9% | 11.2% | 28.8% | 41.3% | 38.4% | 60.7%  | 160.0%      |
-|     11 | prior & nilsson realinvest a            | 2.8% | 2.6%  | 1.6%  | 1.9%  | 7.2%  | -9.8%  | 14.8%       |
-|     12 | healthinvest small & mid cap healthcare | 5.4% | 6.9%  | 8.6%  | 8.6%  | 28.8% | 4.5%   | 15.6%       |
-|     13 | bl - global 75 b                        | 4.2% | 5.9%  | 7.4%  | 6.9%  | 10.7% | 4.0%   | 29.1%       |
-|     14 | avanza emerging markets                 | 3.0% | 4.2%  | 7.4%  | 6.9%  | 27.1% | 9.6%   | 39.3%       |
-|     15 | bl - global 50 b                        | 3.5% | 5.4%  | 6.4%  | 5.4%  | 8.6%  | 4.2%   | 25.9%       |
-|     16 | prior & nilsson sverige aktiv a         | 3.8% | 5.2%  | 5.2%  | 6.9%  | 15.6% | 1.6%   | 58.9%       |
-|     17 | seb läkemedelsfond                      | 5.9% | 7.4%  | 6.4%  | 5.4%  | 10.4% | -10.1% | 11.4%       |
-|     18 | bl - global 30 b                        | 3.3% | 5.0%  | 5.7%  | 4.7%  | 7.2%  | 4.0%   | 21.3%       |
-|     19 | swedbank robur healthcare a             | 4.2% | 7.4%  | 5.4%  | 4.5%  | 5.2%  | -14.3% | 2.3%        |
-|     20 | handelsbanken hälsovård tema a1         | 5.7% | 7.4%  | 6.2%  | 6.4%  | 7.4%  | -13.5% | 7.2%        |
+|      1 | handelsbanken hållbar energi a1         | 9.4% | 19.4% | 19.7% | 27.1% | 53.8% | 12.7%  | -14.7%      |
+|      2 | cpr invest global gold mines a2         | 6.4% | 14.0% | 34.9% | 47.6% | 44.5% | 71.0%  | 172.3%      |
+|      3 | blackrock - world gold a2               | 5.4% | 17.2% | 36.1% | 49.3% | 51.4% | 70.2%  | 174.2%      |
+|      4 | franklin biotechnology discovery fund   | 6.9% | 16.1% | 18.9% | 26.2% | 40.3% | 4.0%   | 40.3%       |
+|      5 | pictet biotech r                        | 5.7% | 15.9% | 16.7% | 22.5% | 44.5% | 4.0%   | 23.9%       |
+|      6 | carnegie fastighetsfond norden a        | 5.4% | 5.0%  | 4.0%  | 1.6%  | 5.2%  | -10.3% | 33.7%       |
+|      7 | blackrock - world mining a2             | 4.2% | 14.3% | 23.0% | 27.6% | 41.3% | 17.8%  | 36.5%       |
+|      8 | allianz global metals and mining a      | 4.5% | 12.7% | 21.3% | 28.2% | 41.9% | 19.1%  | 33.4%       |
+|      9 | odin fastighet c                        | 5.2% | 5.0%  | 3.3%  | 1.4%  | 4.5%  | -11.9% | 23.6%       |
+|     10 | länsförsäkringar fastighetsfond a       | 4.7% | 5.4%  | 3.0%  | 1.2%  | 5.7%  | -7.7%  | 34.0%       |
+|     11 | blackrock - sustainable energy a2       | 4.2% | 10.9% | 7.4%  | 10.2% | 42.6% | 8.9%   | 26.8%       |
+|     12 | pictet clean energy transition r        | 4.5% | 10.4% | 7.9%  | 8.6%  | 42.2% | 7.4%   | 37.1%       |
+|     13 | prior & nilsson realinvest a            | 3.3% | 4.0%  | 3.0%  | 3.0%  | 6.2%  | -9.4%  | 15.3%       |
+|     14 | blackrock - india a2                    | 5.0% | 3.0%  | 0.2%  | -2.5% | -0.5% | -12.7% | 6.7%        |
+|     15 | goldman sachs asia equity income p      | 2.3% | 5.9%  | 8.4%  | 9.4%  | 37.1% | 10.9%  | 41.3%       |
+|     16 | amundi funds volatility world a2        | 3.0% | 4.5%  | 1.4%  | -1.4% | -7.1% | -3.6%  | -7.7%       |
+|     17 | prior & nilsson sverige aktiv a         | 3.5% | 6.2%  | 6.2%  | 8.4%  | 15.9% | 1.9%   | 59.2%       |
+|     18 | healthinvest small & mid cap healthcare | 3.8% | 7.6%  | 8.1%  | 8.1%  | 28.5% | 4.2%   | 15.3%       |
+|     19 | bl - global 75 b                        | 3.3% | 6.2%  | 7.4%  | 6.4%  | 10.7% | 4.0%   | 29.1%       |
+|     20 | ub infra placeringsfond a               | 2.8% | 5.9%  | 0.7%  | 1.2%  | 7.4%  | 5.4%   | 28.2%       |
