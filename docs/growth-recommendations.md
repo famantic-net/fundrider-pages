@@ -9,7 +9,7 @@
 |      5 | franklin biotechnology discovery fund | 6.9% | 16.1% | 18.9% | 26.2% | 40.3% | 4.0%  | 40.3%       |
 |      6 | pictet biotech r                      | 5.7% | 15.9% | 16.7% | 22.5% | 44.5% | 4.0%  | 23.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-18
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-19
 |   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | 6.4%  | 14.0% | 34.9% | 47.6% | 44.5% | 71.0% | 172.3%      |
@@ -33,7 +33,7 @@
 |     19 | seb asienfond ex japan                | 1.2%  | 1.9%  | 5.0%  | 5.4%  | 30.9% | 10.2% | 45.9%       |
 |     20 | pictet biotech r                      | 5.7%  | 15.9% | 16.7% | 22.5% | 44.5% | 4.0%  | 23.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-18
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-19
 |   Rank | Fund                                    | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:----------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | handelsbanken hållbar energi a1         | 9.4% | 19.4% | 19.7% | 27.1% | 53.8% | 12.7%  | -14.7%      |
