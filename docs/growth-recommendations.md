@@ -6,7 +6,7 @@
 |      2 | franklin biotechnology discovery fund | 6.9% | 15.9% | 19.1% | 27.6% | 38.4% | 6.4%  | 43.9%       |
 |      3 | avanza emerging markets               | 2.8% | 3.3%  | 7.4%  | 8.6%  | 29.1% | 11.2% | 40.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-25
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-10-26
 |   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -6.7% | -1.4% | 17.8% | 33.7% | 41.6% | 62.2% | 148.9%      |
@@ -30,7 +30,7 @@
 |     19 | avanza emerging markets               | 2.8%  | 3.3%  | 7.4%  | 8.6%  | 29.1% | 11.2% | 40.9%       |
 |     20 | allianz china equity a                | -5.2% | -1.6% | 1.9%  | 8.1%  | 25.0% | 13.2% | 15.1%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-25
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-10-26
 |   Rank | Fund                                       | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | odin fastighet c                           | 9.4% | 6.9%  | 4.0%  | 1.2%  | 6.7%  | -8.2%  | 26.5%       |
