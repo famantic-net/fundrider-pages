@@ -11,7 +11,7 @@
 |      7 | baring asia growth a                  | 4.0% | 6.2%  | 14.8% | 14.8% | 27.6% | 13.8% | 30.6%       |
 |      8 | handelsbanken hållbar energi a1       | 2.6% | 15.1% | 22.5% | 30.6% | 52.4% | 19.9% | -12.5%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-02
 |   Rank | Fund                                  | 2w     | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -12.5% | -6.9% | 9.6%  | 30.9% | 41.3% | 59.6% | 138.2%      |
@@ -35,7 +35,7 @@
 |     19 | pictet biotech r                      | 1.9%   | 9.1%  | 19.4% | 22.7% | 36.8% | -2.3% | 26.5%       |
 |     20 | öhman emerging markets a              | 2.8%   | 5.0%  | 13.0% | 13.2% | 25.9% | 13.8% | 41.6%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-02
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | handelsbanken hållbar energi a1                    | 2.6% | 15.1% | 22.5% | 30.6% | 52.4% | 19.9% | -12.5%      |
