@@ -2,61 +2,59 @@
 ### Funds Appearing in Both Top 20 Assessments
 |   Rank | Fund                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
-|      1 | dnb teknologi s                       | 4.0% | 6.9%  | 16.9% | 15.6% | 35.2% | 22.2% | 120.8%      |
-|      2 | skandia time global                   | 5.0% | 6.7%  | 15.9% | 15.6% | 35.2% | 21.3% | 114.3%      |
-|      3 | blackrock - world technology a2       | 5.9% | 6.9%  | 15.9% | 11.9% | 33.4% | 10.9% | 98.6%       |
-|      4 | franklin biotechnology discovery fund | 3.8% | 11.4% | 21.9% | 27.1% | 53.1% | 5.2%  | 47.2%       |
-|      5 | swedbank robur technology a           | 4.7% | 4.5%  | 11.9% | 8.1%  | 30.9% | 7.4%  | 121.3%      |
-|      6 | öhman global growth a                 | 6.2% | 6.4%  | 12.7% | 12.7% | 25.0% | 14.0% | 65.2%       |
-|      7 | pictet biotech r                      | 4.0% | 11.2% | 16.9% | 24.7% | 51.7% | 2.1%  | 29.1%       |
-|      8 | tundra sustainable frontier fund a    | 3.3% | 3.8%  | 5.2%  | 5.7%  | 27.6% | 12.5% | 34.9%       |
-|      9 | handelsbanken hållbar energi a1       | 5.0% | 10.7% | 25.6% | 29.4% | 50.3% | 22.2% | -12.7%      |
-|     10 | avanza emerging markets               | 3.5% | 5.2%  | 11.7% | 11.7% | 23.3% | 13.0% | 44.2%       |
+|      1 | dnb teknologi s                       | 4.5% | 7.6%  | 16.4% | 17.2% | 34.3% | 23.6% | 122.8%      |
+|      2 | skandia time global                   | 4.7% | 7.2%  | 15.9% | 18.0% | 34.6% | 21.3% | 115.3%      |
+|      3 | blackrock - world technology a2       | 5.4% | 7.4%  | 15.9% | 13.5% | 34.0% | 10.9% | 99.5%       |
+|      4 | franklin biotechnology discovery fund | 4.2% | 12.5% | 22.2% | 29.7% | 52.8% | 7.6%  | 48.9%       |
+|      5 | öhman global growth a                 | 5.9% | 7.2%  | 12.2% | 13.2% | 25.3% | 15.6% | 66.3%       |
+|      6 | nordea globala tillväxtmarknader      | 4.2% | 5.7%  | 16.4% | 15.9% | 29.1% | 19.7% | 59.2%       |
+|      7 | handelsbanken hållbar energi a1       | 5.9% | 12.2% | 26.2% | 31.5% | 49.6% | 23.9% | -11.3%      |
+|      8 | pictet digital r                      | 5.0% | 6.4%  | 10.2% | 8.4%  | 21.1% | 5.9%  | 90.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-04
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-05
 |   Rank | Fund                                  | 2w     | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -14.1% | -6.2% | 10.4% | 28.5% | 33.4% | 61.1% | 139.9%      |
-|      2 | blackrock - world gold a2             | -10.1% | -3.8% | 10.7% | 26.8% | 38.7% | 69.8% | 147.2%      |
-|      3 | dnb teknologi s                       | 4.0%   | 6.9%  | 16.9% | 15.6% | 35.2% | 22.2% | 120.8%      |
-|      4 | skandia time global                   | 5.0%   | 6.7%  | 15.9% | 15.6% | 35.2% | 21.3% | 114.3%      |
-|      5 | blackrock - world technology a2       | 5.9%   | 6.9%  | 15.9% | 11.9% | 33.4% | 10.9% | 98.6%       |
-|      6 | blackrock - world financials a2       | 4.0%   | 2.1%  | 1.2%  | 0.9%  | 21.6% | 11.9% | 104.2%      |
-|      7 | franklin biotechnology discovery fund | 3.8%   | 11.4% | 21.9% | 27.1% | 53.1% | 5.2%  | 47.2%       |
-|      8 | swedbank robur technology a           | 4.7%   | 4.5%  | 11.9% | 8.1%  | 30.9% | 7.4%  | 121.3%      |
-|      9 | franklin technology fund a            | 2.8%   | 4.2%  | 11.7% | 8.4%  | 33.7% | 7.4%  | 91.0%       |
-|     10 | templeton emerging markets fund a     | 3.0%   | 5.4%  | 14.0% | 13.2% | 28.5% | 19.9% | 58.5%       |
-|     11 | öhman global growth a                 | 6.2%   | 6.4%  | 12.7% | 12.7% | 25.0% | 14.0% | 65.2%       |
-|     12 | pictet biotech r                      | 4.0%   | 11.2% | 16.9% | 24.7% | 51.7% | 2.1%  | 29.1%       |
-|     13 | nordea globala tillväxtmarknader      | 4.2%   | 4.7%  | 15.1% | 13.8% | 29.4% | 18.0% | 57.8%       |
-|     14 | delphi global a2                      | 2.3%   | 3.0%  | 8.4%  | 6.9%  | 17.5% | 9.4%  | 79.9%       |
-|     15 | seb teknologifond                     | 3.0%   | 5.0%  | 9.9%  | 4.5%  | 22.2% | 3.3%  | 102.8%      |
-|     16 | tundra sustainable frontier fund a    | 3.3%   | 3.8%  | 5.2%  | 5.7%  | 27.6% | 12.5% | 34.9%       |
-|     17 | nordea kinafond                       | 2.1%   | -4.5% | 3.8%  | 8.1%  | 20.5% | 17.2% | 23.0%       |
-|     18 | handelsbanken hållbar energi a1       | 5.0%   | 10.7% | 25.6% | 29.4% | 50.3% | 22.2% | -12.7%      |
-|     19 | öhman emerging markets a              | 3.5%   | 3.3%  | 12.7% | 11.4% | 24.7% | 16.4% | 41.9%       |
-|     20 | avanza emerging markets               | 3.5%   | 5.2%  | 11.7% | 11.7% | 23.3% | 13.0% | 44.2%       |
+|      2 | blackrock - world gold a2             | -7.5%  | -2.7% | 13.2% | 25.3% | 40.3% | 75.0% | 150.0%      |
+|      3 | dnb teknologi s                       | 4.5%   | 7.6%  | 16.4% | 17.2% | 34.3% | 23.6% | 122.8%      |
+|      4 | skandia time global                   | 4.7%   | 7.2%  | 15.9% | 18.0% | 34.6% | 21.3% | 115.3%      |
+|      5 | blackrock - world technology a2       | 5.4%   | 7.4%  | 15.9% | 13.5% | 34.0% | 10.9% | 99.5%       |
+|      6 | blackrock - world financials a2       | 3.8%   | 2.8%  | 1.9%  | 1.4%  | 22.5% | 12.2% | 105.6%      |
+|      7 | franklin biotechnology discovery fund | 4.2%   | 12.5% | 22.2% | 29.7% | 52.8% | 7.6%  | 48.9%       |
+|      8 | swedbank robur technology a           | 3.8%   | 4.7%  | 11.4% | 9.6%  | 29.7% | 7.9%  | 121.3%      |
+|      9 | franklin technology fund a            | 4.0%   | 4.7%  | 11.2% | 10.2% | 31.8% | 8.1%  | 92.3%       |
+|     10 | öhman global growth a                 | 5.9%   | 7.2%  | 12.2% | 13.2% | 25.3% | 15.6% | 66.3%       |
+|     11 | templeton emerging markets fund a     | 3.3%   | 5.4%  | 13.0% | 13.2% | 27.6% | 21.1% | 58.5%       |
+|     12 | nordea globala tillväxtmarknader      | 4.2%   | 5.7%  | 16.4% | 15.9% | 29.1% | 19.7% | 59.2%       |
+|     13 | delphi global a2                      | 3.3%   | 3.8%  | 8.9%  | 8.4%  | 17.5% | 10.4% | 81.6%       |
+|     14 | handelsbanken hållbar energi a1       | 5.9%   | 12.2% | 26.2% | 31.5% | 49.6% | 23.9% | -11.3%      |
+|     15 | seb teknologifond                     | 3.5%   | 5.2%  | 9.6%  | 5.7%  | 20.8% | 4.0%  | 103.7%      |
+|     16 | pictet biotech r                      | 4.2%   | 10.2% | 17.2% | 25.9% | 50.7% | 2.8%  | 28.2%       |
+|     17 | baring asia growth a                  | 4.0%   | 5.0%  | 15.9% | 15.1% | 27.1% | 17.5% | 31.2%       |
+|     18 | öhman emerging markets a              | 3.0%   | 4.2%  | 13.2% | 12.7% | 24.7% | 18.9% | 42.9%       |
+|     19 | pictet digital r                      | 5.0%   | 6.4%  | 10.2% | 8.4%  | 21.1% | 5.9%  | 90.5%       |
+|     20 | nordea kinafond                       | 0.9%   | -4.3% | 6.2%  | 8.6%  | 20.8% | 19.4% | 23.3%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-04
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-05
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
-|      1 | handelsbanken hållbar energi a1                    | 5.0% | 10.7% | 25.6% | 29.4% | 50.3% | 22.2% | -12.7%      |
-|      2 | pictet biotech r                                   | 4.0% | 11.2% | 16.9% | 24.7% | 51.7% | 2.1%  | 29.1%       |
-|      3 | öhman global growth a                              | 6.2% | 6.4%  | 12.7% | 12.7% | 25.0% | 14.0% | 65.2%       |
-|      4 | franklin biotechnology discovery fund              | 3.8% | 11.4% | 21.9% | 27.1% | 53.1% | 5.2%  | 47.2%       |
-|      5 | skandia time global                                | 5.0% | 6.7%  | 15.9% | 15.6% | 35.2% | 21.3% | 114.3%      |
-|      6 | evli finland select placeringsfonden b             | 4.2% | 7.2%  | 10.2% | 7.6%  | 17.8% | 19.1% | 36.1%       |
-|      7 | avanza emerging markets                            | 3.5% | 5.2%  | 11.7% | 11.7% | 23.3% | 13.0% | 44.2%       |
-|      8 | blackrock - world technology a2                    | 5.9% | 6.9%  | 15.9% | 11.9% | 33.4% | 10.9% | 98.6%       |
-|      9 | lannebo sverige plus                               | 4.7% | 6.2%  | 8.6%  | 13.8% | 18.0% | 15.9% | 56.3%       |
-|     10 | dnb global emerging markets s                      | 3.5% | 5.2%  | 13.2% | 13.0% | 23.0% | 8.9%  | 33.0%       |
-|     11 | dnb teknologi s                                    | 4.0% | 6.9%  | 16.9% | 15.6% | 35.2% | 22.2% | 120.8%      |
-|     12 | blackrock - us flexible equity a2                  | 5.7% | 5.2%  | 9.4%  | 7.9%  | 25.9% | 9.1%  | 56.3%       |
-|     13 | abrdn sicav i - japanese sustainable equity fund a | 4.5% | 6.9%  | 11.7% | 10.9% | 21.3% | 16.7% | 43.2%       |
-|     14 | handelsbanken latinamerika impact tema a1          | 5.0% | 2.8%  | 6.2%  | 9.6%  | 11.9% | 13.5% | 24.7%       |
-|     15 | tundra sustainable frontier fund a                 | 3.3% | 3.8%  | 5.2%  | 5.7%  | 27.6% | 12.5% | 34.9%       |
-|     16 | lannebo sverige                                    | 4.7% | 6.4%  | 9.4%  | 13.8% | 17.2% | 15.6% | 60.7%       |
-|     17 | swedbank robur technology a                        | 4.7% | 4.5%  | 11.9% | 8.1%  | 30.9% | 7.4%  | 121.3%      |
-|     18 | amundi funds latin america equity a2               | 4.2% | 0.7%  | 7.6%  | 10.9% | 16.4% | 15.6% | 24.7%       |
-|     19 | seb nordic small cap fund                          | 5.4% | 5.7%  | 2.8%  | 2.3%  | 4.2%  | N/A   | 11.2%       |
-|     20 | blackrock - latin american a2                      | 5.0% | 2.6%  | 6.2%  | 9.9%  | 10.4% | 8.1%  | 8.6%        |
+|      1 | handelsbanken hållbar energi a1                    | 5.9% | 12.2% | 26.2% | 31.5% | 49.6% | 23.9% | -11.3%      |
+|      2 | franklin biotechnology discovery fund              | 4.2% | 12.5% | 22.2% | 29.7% | 52.8% | 7.6%  | 48.9%       |
+|      3 | öhman global growth a                              | 5.9% | 7.2%  | 12.2% | 13.2% | 25.3% | 15.6% | 66.3%       |
+|      4 | skandia time global                                | 4.7% | 7.2%  | 15.9% | 18.0% | 34.6% | 21.3% | 115.3%      |
+|      5 | blackrock - latin american a2                      | 5.4% | 4.0%  | 7.9%  | 9.6%  | 11.9% | 9.1%  | 10.2%       |
+|      6 | goldman sachs asia equity income p                 | 4.5% | 5.0%  | 14.3% | 14.6% | 29.7% | 15.6% | 46.6%       |
+|      7 | handelsbanken latinamerika impact tema a1          | 5.0% | 3.8%  | 6.9%  | 9.4%  | 11.9% | 14.6% | 25.6%       |
+|      8 | dnb teknologi s                                    | 4.5% | 7.6%  | 16.4% | 17.2% | 34.3% | 23.6% | 122.8%      |
+|      9 | abrdn sicav i - japanese sustainable equity fund a | 3.8% | 7.9%  | 11.2% | 10.9% | 22.2% | 17.5% | 44.2%       |
+|     10 | fidelity - asian special situations fund a         | 3.8% | 5.4%  | 15.6% | 16.4% | 27.1% | 15.9% | 36.1%       |
+|     11 | jpmorgan emerging markets equity a                 | 5.0% | 6.7%  | 14.8% | 15.6% | 24.7% | 15.1% | 31.5%       |
+|     12 | blackrock - world technology a2                    | 5.4% | 7.4%  | 15.9% | 13.5% | 34.0% | 10.9% | 99.5%       |
+|     13 | blackrock - us flexible equity a2                  | 5.4% | 5.7%  | 8.4%  | 9.4%  | 26.8% | 8.9%  | 57.0%       |
+|     14 | skagen kon-tiki f                                  | 4.2% | 4.2%  | 10.4% | 11.2% | 25.0% | 18.0% | 51.0%       |
+|     15 | pictet digital r                                   | 5.0% | 6.4%  | 10.2% | 8.4%  | 21.1% | 5.9%  | 90.5%       |
+|     16 | nordea globala tillväxtmarknader                   | 4.2% | 5.7%  | 16.4% | 15.9% | 29.1% | 19.7% | 59.2%       |
+|     17 | baring latin america a                             | 4.0% | 4.7%  | 9.1%  | 11.2% | 14.0% | 5.9%  | -1.1%       |
+|     18 | lannebo sverige plus                               | 5.0% | 6.4%  | 9.1%  | 13.5% | 17.2% | 14.8% | 56.7%       |
+|     19 | east capital global emerging markets sustainable a | 3.8% | 4.5%  | 14.6% | 15.3% | 24.5% | 10.9% | 40.3%       |
+|     20 | länsförsäkringar asienfond a                       | 3.5% | 4.7%  | 13.5% | 14.3% | 22.5% | 10.9% | 29.4%       |
