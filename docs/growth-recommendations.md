@@ -8,7 +8,7 @@
 |      4 | öhman global growth a             | 4.7% | 5.9%  | 11.9% | 13.0% | 20.2% | 14.6% | 64.8%       |
 |      5 | handelsbanken hållbar energi a1   | 7.9% | 10.2% | 22.7% | 30.3% | 44.2% | 23.3% | -11.9%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-07
 |   Rank | Fund                                  | 2w     | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -10.1% | -6.0% | 8.6%  | 21.3% | 38.0% | 77.4% | 145.5%      |
@@ -32,7 +32,7 @@
 |     19 | öhman emerging markets a              | 2.3%   | 3.5%  | 12.5% | 10.9% | 20.2% | 18.0% | 42.2%       |
 |     20 | swedbank robur access asien a         | 2.3%   | 3.8%  | 11.7% | 10.7% | 19.4% | 14.6% | 43.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-07
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | handelsbanken hållbar energi a1                    | 7.9% | 10.2% | 22.7% | 30.3% | 44.2% | 23.3% | -11.9%      |
@@ -49,8 +49,8 @@
 |     12 | seb choice emerging markets                        | 3.3% | 4.0%  | 11.2% | 11.2% | 24.7% | 14.8% | 53.8%       |
 |     13 | amf aktiefond nordamerika                          | 4.2% | 4.2%  | 7.9%  | 7.9%  | 17.5% | 0.5%  | 63.3%       |
 |     14 | blackrock - us flexible equity a2                  | 4.7% | 5.0%  | 7.2%  | 8.1%  | 21.9% | 8.6%  | 56.7%       |
-|     15 | skandia japan exponering                           | 2.1% | 2.3%  | 6.7%  | 8.1%  | 14.3% | 8.9%  | 45.9%       |
-|     16 | dnb global emerging markets s                      | 2.8% | 3.3%  | 12.7% | 13.0% | 21.9% | 9.4%  | 33.0%       |
+|     15 | dnb global emerging markets s                      | 2.8% | 3.3%  | 12.7% | 13.0% | 21.9% | 9.4%  | 33.0%       |
+|     16 | skandia japan exponering                           | 2.1% | 2.3%  | 6.7%  | 8.1%  | 14.3% | 8.9%  | 45.9%       |
 |     17 | länsförsäkringar japan index                       | 2.6% | 2.8%  | 7.4%  | 9.1%  | 15.9% | 10.9% | 41.9%       |
 |     18 | east capital global emerging markets sustainable a | 4.5% | 4.2%  | 13.8% | 13.2% | 19.7% | 10.7% | 40.0%       |
 |     19 | storebrand japan a                                 | 2.3% | 2.6%  | 6.7%  | 8.4%  | 15.1% | 10.2% | 45.5%       |
