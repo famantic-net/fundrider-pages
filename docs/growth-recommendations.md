@@ -7,7 +7,7 @@
 |      3 | pictet biotech r                | 4.7%  | 7.6%  | 16.4% | 27.1% | 46.2% | 12.5% | 28.2%       |
 |      4 | avanza emerging markets         | 2.3%  | 5.2%  | 11.7% | 10.4% | 18.6% | 14.6% | 44.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-08
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-09
 |   Rank | Fund                                  | 2w    | 1m     | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:------|:-------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -5.6% | -11.9% | 3.0%  | 15.9% | 39.0% | 69.8% | 135.0%      |
@@ -31,7 +31,7 @@
 |     19 | avanza emerging markets               | 2.3%  | 5.2%   | 11.7% | 10.4% | 18.6% | 14.6% | 44.2%       |
 |     20 | öhman emerging markets a              | 2.3%  | 3.0%   | 11.2% | 11.2% | 21.3% | 16.7% | 41.6%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-08
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-09
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | handelsbanken hållbar energi a1                    | 10.2% | 12.2% | 26.2% | 32.4% | 42.2% | 26.8% | -10.3%      |
