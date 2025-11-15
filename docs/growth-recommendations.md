@@ -9,7 +9,7 @@
 |      5 | franklin biotechnology discovery fund | 2.8% | 7.9%  | 23.9% | 28.8% | 51.0% | 13.8% | 50.3%       |
 |      6 | blackrock - world mining a2           | 4.2% | 0.5%  | 13.8% | 22.2% | 38.0% | 17.2% | 35.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-14
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-15
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 9.1%  | -0.5% | 10.7% | 28.5% | 56.3% | 72.2% | 159.4%      |
@@ -33,7 +33,7 @@
 |     19 | delphi global a2                                   | 0.0%  | 0.7%  | 5.4%  | 5.7%  | 11.4% | 8.6%  | 79.1%       |
 |     20 | east capital global emerging markets sustainable a | 1.2%  | 7.4%  | 9.6%  | 13.5% | 20.5% | 10.7% | 40.9%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-14
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-15
 |   Rank | Fund                                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | amundi funds latin america equity a2                  | 7.6% | 11.9% | 12.2% | 15.6% | 16.7% | 20.5% | 33.0%       |
