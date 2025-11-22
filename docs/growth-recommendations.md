@@ -8,7 +8,7 @@
 |      4 | pictet biotech r                      | 8.1%  | 12.5% | 24.2% | 29.7% | 58.1% | 13.5% | 38.7%       |
 |      5 | blackrock - world mining a2           | 5.0%  | 4.7%  | 8.1%  | 19.7% | 35.2% | 18.3% | 34.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-21
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-22
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2          | 10.9% | -4.5% | 6.9%  | 25.9% | 46.2% | 77.4% | 160.6%      |
@@ -32,7 +32,7 @@
 |     19 | seb choice emerging markets              | -2.1% | 0.7%  | 2.6%  | 6.4%  | 18.6% | 14.3% | 50.0%       |
 |     20 | avanza emerging markets                  | -2.7% | -0.7% | 2.8%  | 6.9%  | 17.5% | 12.5% | 40.0%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-21
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-22
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | franklin biotechnology discovery fund         | 8.6%  | 8.9%  | 28.2% | 32.1% | 57.8% | 18.6%  | 57.4%       |
