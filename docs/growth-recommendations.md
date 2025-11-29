@@ -9,7 +9,7 @@
 |      5 | blackrock - world mining a2           | 1.4% | 7.9%  | 6.7%  | 20.2% | 35.5% | 23.6% | 37.4%       |
 |      6 | allianz global metals and mining a    | 2.1% | 6.7%  | 6.4%  | 19.7% | 38.4% | 22.7% | 34.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-28
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-11-29
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2          | 5.0%  | 14.3% | 6.4%  | 28.2% | 51.4% | 83.7% | 171.6%      |
@@ -33,7 +33,7 @@
 |     19 | allianz china a-shares at                | -0.5% | -3.4% | -2.9% | 3.8%  | 31.2% | 14.3% | -6.9%       |
 |     20 | baring asia growth a                     | -2.1% | -1.8% | 4.2%  | 11.7% | 21.6% | 13.0% | 26.8%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-28
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-11-29
 |   Rank | Fund                                          | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:----------------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | franklin biotechnology discovery fund         | 9.9% | 14.6% | 30.0% | 38.7% | 62.6% | 26.5%  | 65.2%       |
