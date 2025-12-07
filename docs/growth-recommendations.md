@@ -9,7 +9,7 @@
 |      5 | lannebo sverige                      | 4.2% | 1.4%  | 5.9%  | 9.9%  | 13.0% | 15.6% | 61.4%       |
 |      6 | amundi funds latin america equity a2 | 3.5% | 6.2%  | 10.4% | 15.3% | 19.9% | 27.4% | 34.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-07
 |   Rank | Fund                                     | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-----------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2          | 8.9% | 15.6% | 8.6%  | 25.6% | 47.9% | 94.5% | 183.8%      |
@@ -33,7 +33,7 @@
 |     19 | lannebo sverige                          | 4.2% | 1.4%  | 5.9%  | 9.9%  | 13.0% | 15.6% | 61.4%       |
 |     20 | amundi funds latin america equity a2     | 3.5% | 6.2%  | 10.4% | 15.3% | 19.9% | 27.4% | 34.0%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-07
 |   Rank | Fund                                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                       | 8.9% | 15.6% | 8.6%  | 25.6% | 47.9% | 94.5% | 183.8%      |
