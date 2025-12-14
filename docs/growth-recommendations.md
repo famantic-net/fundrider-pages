@@ -13,7 +13,7 @@
 |      9 | blackrock - world technology a2    | 1.2% | -2.5% | -2.3% | 3.5%  | 15.3% | 3.3%   | 86.6%       |
 |     10 | swedbank robur technology a        | 1.6% | 0.0%  | -0.5% | 4.2%  | 15.3% | 1.9%   | 112.3%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-13
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-14
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 4.0%  | 8.9%  | 8.6%  | 20.8% | 49.6% | 106.5% | 182.5%      |
@@ -37,7 +37,7 @@
 |     19 | lannebo sverige                          | 0.5%  | 1.2%  | 7.6%  | 9.9%  | 16.1% | 18.3%  | 61.8%       |
 |     20 | seb choice emerging markets              | 0.2%  | -2.5% | 1.4%  | 6.4%  | 16.7% | 12.2%  | 51.0%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-13
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-14
 |   Rank | Fund                                   | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2        | 4.0% | 8.9%  | 8.6%  | 20.8% | 49.6% | 106.5% | 182.5%      |
