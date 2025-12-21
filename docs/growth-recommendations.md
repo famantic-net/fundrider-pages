@@ -11,7 +11,7 @@
 |      7 | aktiespararna direktavkastning               | 0.9% | 5.9%  | 2.8%  | 5.9%  | 10.4% | 20.2%  | 49.3%       |
 |      8 | seb östeuropafond små och medelstora bolag c | 2.3% | 4.7%  | 5.7%  | 5.7%  | 10.7% | 16.4%  | 130.1%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-20
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2025-12-21
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2              | 2.6%  | 12.7% | 8.4%  | 26.2% | 54.5% | 112.3% | 190.4%      |
@@ -35,7 +35,7 @@
 |     19 | seb östeuropafond små och medelstora bolag c | 2.3%  | 4.7%  | 5.7%  | 5.7%  | 10.7% | 16.4%  | 130.1%      |
 |     20 | länsförsäkringar tillväxtmarknad aktiv a     | -1.8% | -2.7% | -0.9% | 2.8%  | 13.2% | 13.0%  | 29.4%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-20
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2025-12-21
 |   Rank | Fund                                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | blackrock - world gold a2                             | 4.5% | 12.2% | 8.9%  | 24.7% | 61.8% | 108.9% | 194.4%      |
