@@ -12,7 +12,7 @@
 |      8 | aktiespararna direktavkastning     | 1.6% | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
 |      9 | aktiespararna topp sverige         | 1.4% | 3.0%  | 3.5%  | 8.1%  | 15.1% | 18.9%  | 67.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-02
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 8.9%  | 14.6% | 24.7% | 24.5% | 69.4% | 124.9% | 207.6%      |
@@ -36,7 +36,7 @@
 |     19 | aktiespararna direktavkastning           | 1.6%  | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
 |     20 | aktiespararna topp sverige               | 1.4%  | 3.0%  | 3.5%  | 8.1%  | 15.1% | 18.9%  | 67.1%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-02
 |   Rank | Fund                                     | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 8.9% | 14.6% | 24.7% | 24.5% | 69.4% | 124.9% | 207.6%      |
