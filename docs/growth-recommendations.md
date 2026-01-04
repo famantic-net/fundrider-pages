@@ -12,7 +12,7 @@
 |      8 | aktiespararna direktavkastning     | 1.6% | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
 |      9 | aktiespararna topp sverige         | 1.4% | 3.0%  | 3.5%  | 8.1%  | 15.1% | 18.9%  | 67.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-03
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-04
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 8.9%  | 14.6% | 24.7% | 24.5% | 69.4% | 124.9% | 207.6%      |
@@ -36,7 +36,7 @@
 |     19 | aktiespararna direktavkastning           | 1.6%  | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
 |     20 | aktiespararna topp sverige               | 1.4%  | 3.0%  | 3.5%  | 8.1%  | 15.1% | 18.9%  | 67.1%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-03
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-04
 |   Rank | Fund                                     | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 8.9% | 14.6% | 24.7% | 24.5% | 69.4% | 124.9% | 207.6%      |
@@ -55,7 +55,7 @@
 |     14 | nordea globala tillväxtmarknader         | 1.9% | 0.9%  | -1.4% | 5.7%  | 14.6% | 18.3%  | 56.3%       |
 |     15 | avanza zero                              | 1.2% | 2.8%  | 2.8%  | 6.7%  | 14.3% | 19.9%  | 67.9%       |
 |     16 | dnb smb s                                | 0.5% | 5.2%  | 0.7%  | -0.7% | 4.2%  | 21.6%  | 44.9%       |
-|     17 | blackrock - world gold a2                | 1.6% | 3.8%  | 21.3% | 14.6% | 60.0% | 111.3% | 197.9%      |
-|     18 | franklin natural resources fund a        | 1.2% | 4.2%  | 6.7%  | 6.2%  | 18.0% | 11.7%  | 21.3%       |
-|     19 | aktiespararna direktavkastning           | 1.6% | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
-|     20 | aktia capital placeringsfond b           | 1.9% | 2.3%  | 1.9%  | 7.2%  | 7.2%  | 21.9%  | 37.7%       |
+|     17 | franklin natural resources fund a        | 1.2% | 4.2%  | 6.7%  | 6.2%  | 18.0% | 11.7%  | 21.3%       |
+|     18 | blackrock - world gold a2                | 1.6% | 3.8%  | 21.3% | 14.6% | 60.0% | 111.3% | 197.9%      |
+|     19 | aktia capital placeringsfond b           | 1.9% | 2.3%  | 1.9%  | 7.2%  | 7.2%  | 21.9%  | 37.7%       |
+|     20 | aktiespararna direktavkastning           | 1.6% | 2.1%  | 4.0%  | 5.9%  | 9.4%  | 21.9%  | 51.4%       |
