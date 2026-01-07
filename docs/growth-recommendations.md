@@ -8,7 +8,7 @@
 |      4 | öhman emerging markets a         | 3.8% | 2.1% | 0.2% | 3.3% | 15.1% | 18.6% | 41.9%       |
 |      5 | dnb smb s                        | 5.0% | 6.2% | 2.1% | 3.3% | 5.4%  | 25.3% | 49.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-07
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 1.6%  | 2.8%  | 23.0% | 13.5% | 58.5% | 115.8% | 195.8%      |
@@ -32,7 +32,7 @@
 |     19 | dnb smb s                                | 5.0%  | 6.2%  | 2.1%  | 3.3%  | 5.4%  | 25.3%  | 49.3%       |
 |     20 | holberg norge                            | 1.2%  | 2.6%  | 4.2%  | 3.8%  | 5.4%  | 21.9%  | 66.3%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-07
 |   Rank | Fund                                               | 2w   | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:-----|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 4.2% | 4.0% | 0.5%  | 3.8%  | 18.3% | 13.8% | 35.2%       |
