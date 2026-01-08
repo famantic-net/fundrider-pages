@@ -8,7 +8,7 @@
 |      4 | öhman emerging markets a         | 3.8% | 2.1% | 0.2% | 3.3% | 15.1% | 18.6% | 41.9%       |
 |      5 | dnb smb s                        | 5.0% | 6.2% | 2.1% | 3.3% | 5.4%  | 25.3% | 49.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-07
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-08
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 1.6%  | 2.8%  | 23.0% | 13.5% | 58.5% | 115.8% | 195.8%      |
@@ -32,7 +32,7 @@
 |     19 | dnb smb s                                | 5.0%  | 6.2%  | 2.1%  | 3.3%  | 5.4%  | 25.3%  | 49.3%       |
 |     20 | holberg norge                            | 1.2%  | 2.6%  | 4.2%  | 3.8%  | 5.4%  | 21.9%  | 66.3%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-07
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-08
 |   Rank | Fund                                               | 2w   | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:-----|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 4.2% | 4.0% | 0.5%  | 3.8%  | 18.3% | 13.8% | 35.2%       |
@@ -47,8 +47,8 @@
 |     10 | pictet asian equities ex japan r                   | 3.5% | 3.5% | -0.5% | -0.7% | 11.9% | 6.4%  | 28.2%       |
 |     11 | handelsbanken tillväxtmarknad tema a1              | 4.0% | 2.1% | 0.2%  | 2.8%  | 14.6% | 14.6% | 40.6%       |
 |     12 | blackrock - emerging markets a2                    | 2.8% | 3.5% | 1.2%  | 2.8%  | 14.3% | 8.9%  | 20.2%       |
-|     13 | länsförsäkringar asienfond a                       | 3.8% | 2.1% | -1.4% | 2.8%  | 13.2% | 7.4%  | 27.1%       |
-|     14 | odin norge c                                       | 3.0% | 3.0% | 4.0%  | 0.7%  | 3.3%  | 17.8% | 58.9%       |
+|     13 | odin norge c                                       | 3.0% | 3.0% | 4.0%  | 0.7%  | 3.3%  | 17.8% | 58.9%       |
+|     14 | länsförsäkringar asienfond a                       | 3.8% | 2.1% | -1.4% | 2.8%  | 13.2% | 7.4%  | 27.1%       |
 |     15 | öhman emerging markets a                           | 3.8% | 2.1% | 0.2%  | 3.3%  | 15.1% | 18.6% | 41.9%       |
 |     16 | swedbank robur access asien a                      | 3.8% | 1.9% | -0.7% | 2.3%  | 12.2% | 13.2% | 42.2%       |
 |     17 | pictet emerging markets r                          | 2.8% | 2.8% | -0.2% | 1.6%  | 10.4% | 5.2%  | 25.3%       |
