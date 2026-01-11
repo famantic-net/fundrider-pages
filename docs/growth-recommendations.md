@@ -12,7 +12,7 @@
 |      8 | handelsbanken asien tema a1                | 6.9% | 5.9%  | 2.6%  | 4.0%  | 15.3% | 15.9% | 42.9%       |
 |      9 | öhman emerging markets a                   | 5.7% | 4.7%  | 1.4%  | 5.0%  | 14.6% | 21.1% | 44.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-10
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-11
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2            | -2.7% | 6.7%  | 23.3% | 11.4% | 62.9% | 119.3% | 199.9%      |
@@ -36,7 +36,7 @@
 |     19 | öhman emerging markets a                   | 5.7%  | 4.7%  | 1.4%  | 5.0%  | 14.6% | 21.1%  | 44.9%       |
 |     20 | skagen kon-tiki f                          | 5.0%  | 4.2%  | 2.1%  | 7.9%  | 14.6% | 26.2%  | 55.2%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-10
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-11
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 7.4% | 5.9%  | 3.3%  | 8.9%  | 18.3% | 16.9% | 39.0%       |
