@@ -12,7 +12,7 @@
 |      8 | seb choice emerging markets          | 5.2%  | 7.2%  | 5.7%  | 7.9%  | 16.1% | 19.4%  | 60.7%       |
 |      9 | handelsbanken hållbar energi a1      | 5.9%  | 7.6%  | 3.5%  | 5.9%  | 30.9% | 30.6%  | -11.7%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-17
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-18
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | blackrock - world gold a2                  | 10.7% | 12.7% | 25.0% | 20.8% | 75.8% | 135.5% | 231.9%      |
@@ -36,7 +36,7 @@
 |     19 | lannebo sverige                            | 2.1%  | 4.0%  | 7.6%  | 10.2% | 19.9% | 23.9%  | 69.4%       |
 |     20 | fidelity - asian special situations fund a | 5.7%  | 10.4% | 5.7%  | 7.4%  | 19.1% | 17.2%  | 39.3%       |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-17
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-18
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | allianz global metals and mining a                    | 11.2% | 14.6% | 22.7% | 19.1% | 50.3% | 66.0%  | 60.3%       |
