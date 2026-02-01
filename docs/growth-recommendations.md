@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-01-31
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-01
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 15.1% | 22.7% | 24.5% | 50.0% | 92.8% | 163.0% | 254.8%      |
@@ -23,7 +23,7 @@
 |     19 | länsförsäkringar tillväxtmarknad aktiv a              | 1.4%  | 6.7%  | 6.9%  | 5.7%  | 18.9% | 23.3%  | 41.6%       |
 |     20 | aktiespararna topp sverige                            | 1.4%  | 4.2%  | 7.9%  | 9.1%  | 19.9% | 24.5%  | 75.4%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-01-31
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-01
 |   Rank | Fund                                      | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2           | 15.1% | 22.7% | 24.5% | 50.0% | 92.8% | 163.0% | 254.8%      |
