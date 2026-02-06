@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-05
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-06
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | allianz global metals and mining a                    | 0.9%  | 10.2% | 15.6% | 28.5% | 48.6% | 67.9%  | 62.6%       |
@@ -23,7 +23,7 @@
 |     19 | pictet biotech r                                      | 0.9%  | -0.9% | -3.4% | 7.4%  | 37.4% | 23.3%  | 39.0%       |
 |     20 | templeton emerging markets fund a                     | 0.2%  | 7.6%  | 7.9%  | 4.5%  | 19.4% | 27.6%  | 67.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-05
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-06
 |   Rank | Fund                                      | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2           | -5.6% | 4.5%  | 9.9%  | 27.1% | 52.4% | 125.9% | 204.8%      |
