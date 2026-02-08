@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-07
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-08
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | allianz global metals and mining a                    | 1.4%  | 14.0% | 20.2% | 32.7% | 53.1% | 73.8%  | 67.9%       |
@@ -23,7 +23,7 @@
 |     19 | templeton emerging markets fund a                     | 2.8%  | 4.5%  | 8.1%  | 6.4%  | 20.8% | 29.1%  | 69.8%       |
 |     20 | seb östeuropafond små och medelstora bolag c          | 4.0%  | 6.7%  | 12.2% | 11.7% | 5.7%  | 26.2%  | 151.2%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-07
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-08
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | blackrock - world gold a2                    | -5.6% | 10.7% | 17.5% | 32.1% | 62.6% | 132.8% | 228.9%      |
