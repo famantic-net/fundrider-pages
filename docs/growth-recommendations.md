@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-13
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-14
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | -4.9% | 9.4%  | 16.9% | 29.4% | 68.7% | 114.8% | 237.3%      |
@@ -23,7 +23,7 @@
 |     19 | nordea globala tillväxtmarknader                      | 1.2%  | 3.8%  | 11.9% | 9.6%  | 22.5% | 28.2%  | 72.2%       |
 |     20 | east capital global emerging markets sustainable a    | 3.3%  | 5.2%  | 12.5% | 8.9%  | 20.8% | 23.3%  | 50.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-13
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-14
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                    | -4.9% | 9.4%  | 16.9% | 29.4% | 68.7% | 114.8% | 237.3%      |
