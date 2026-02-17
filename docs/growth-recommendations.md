@@ -1,62 +1,64 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-16
-|   Rank | Fund                                                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
-|-------:|:---------------------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | cpr invest global gold mines a2                                      | -4.9% | 9.4%  | 16.9% | 29.4% | 68.7% | 114.8% | 237.3%      |
-|      2 | allianz global metals and mining a                                   | -1.1% | 7.9%  | 23.6% | 32.4% | 60.0% | 66.3%  | 73.4%       |
-|      3 | blackrock - world gold a2                                            | -5.8% | 3.5%  | 16.7% | 29.4% | 71.4% | 115.8% | 243.6%      |
-|      4 | blackrock - world mining a2                                          | -2.7% | 4.7%  | 19.7% | 28.5% | 55.2% | 62.6%  | 71.0%       |
-|      5 | amundi funds latin america equity a2                                 | 3.0%  | 12.5% | 14.8% | 15.6% | 34.0% | 37.4%  | 48.3%       |
-|      6 | baring latin america a                                               | 3.3%  | 10.4% | 16.4% | 16.9% | 33.7% | 31.8%  | 18.9%       |
-|      7 | franklin natural resources fund a                                    | 4.0%  | 7.9%  | 15.6% | 18.0% | 30.9% | 22.2%  | 37.7%       |
-|      8 | baring global resources a                                            | 2.8%  | 7.6%  | 15.3% | 18.6% | 25.6% | 16.9%  | 29.1%       |
-|      9 | blackrock - natural resources growth & income fund a2                | 2.6%  | 6.7%  | 16.7% | 19.9% | 27.1% | 21.6%  | 30.0%       |
-|     10 | goldman sachs asia equity income p                                   | 5.0%  | 8.9%  | 16.4% | 13.2% | 26.2% | 33.7%  | 62.6%       |
-|     11 | handelsbanken latinamerika impact tema a1                            | 2.3%  | 10.4% | 12.5% | 10.9% | 24.7% | 32.1%  | 43.2%       |
-|     12 | blackrock - latin american a2                                        | 2.1%  | 11.7% | 13.8% | 11.9% | 23.9% | 29.1%  | 24.2%       |
-|     13 | nordea globala tillväxtmarknader                                     | 1.9%  | 4.7%  | 15.1% | 10.9% | 25.0% | 30.0%  | 74.2%       |
-|     14 | blackrock - world energy a2                                          | 6.2%  | 9.6%  | 16.1% | 10.2% | 15.3% | 4.2%   | 15.9%       |
-|     15 | abrdn sicav i - japanese smaller companies sustainable equity fund a | 10.2% | 9.9%  | 11.9% | 11.4% | 11.7% | 25.0%  | 31.2%       |
-|     16 | east capital global emerging markets sustainable a                   | 5.2%  | 6.2%  | 15.1% | 9.1%  | 23.9% | 24.7%  | 51.7%       |
-|     17 | blackrock - japan small & midcap a2                                  | 10.4% | 8.6%  | 11.7% | 12.5% | 10.9% | 25.0%  | 57.0%       |
-|     18 | baring global emerging markets a                                     | 2.1%  | 4.7%  | 14.6% | 11.9% | 23.0% | 21.1%  | 47.2%       |
-|     19 | storebrand japan a                                                   | 9.6%  | 5.9%  | 10.7% | 9.4%  | 12.2% | 14.6%  | 57.4%       |
-|     20 | skandia japan exponering                                             | 9.4%  | 5.4%  | 10.4% | 8.9%  | 11.4% | 13.8%  | 56.7%       |
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-17
+|   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
+|-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
+|      1 | cpr invest global gold mines a2                       | -7.5% | -0.7% | 11.9% | 26.2% | 59.6% | 106.1% | 220.6%      |
+|      2 | allianz global metals and mining a                    | -2.1% | 3.3%  | 17.2% | 28.5% | 51.4% | 61.1%  | 65.6%       |
+|      3 | blackrock - world gold a2                             | 2.1%  | 2.1%  | 14.3% | 28.2% | 65.6% | 112.8% | 237.3%      |
+|      4 | blackrock - world mining a2                           | 1.9%  | 1.6%  | 16.4% | 27.1% | 50.7% | 58.9%  | 67.1%       |
+|      5 | amundi funds latin america equity a2                  | 1.6%  | 10.2% | 16.4% | 15.1% | 31.2% | 37.7%  | 46.6%       |
+|      6 | blackrock - natural resources growth & income fund a2 | 4.5%  | 4.5%  | 14.0% | 19.1% | 24.7% | 19.1%  | 27.6%       |
+|      7 | franklin natural resources fund a                     | 0.9%  | 3.3%  | 14.8% | 16.9% | 25.9% | 20.8%  | 34.3%       |
+|      8 | baring latin america a                                | 0.9%  | 6.2%  | 14.0% | 14.3% | 29.7% | 29.7%  | 15.3%       |
+|      9 | baring global resources a                             | 1.2%  | 4.0%  | 13.2% | 17.2% | 22.2% | 15.1%  | 26.2%       |
+|     10 | goldman sachs asia equity income p                    | 4.7%  | 6.9%  | 14.0% | 14.3% | 24.2% | 30.9%  | 61.1%       |
+|     11 | seb choice emerging markets                           | 2.1%  | 5.0%  | 14.3% | 10.9% | 20.5% | 28.2%  | 67.5%       |
+|     12 | blackrock - world energy a2                           | 6.4%  | 9.4%  | 15.1% | 10.4% | 14.6% | 4.7%   | 15.3%       |
+|     13 | aktiespararna topp sverige                            | 3.0%  | 2.6%  | 10.9% | 16.4% | 19.4% | 14.6%  | 80.7%       |
+|     14 | skagen kon-tiki f                                     | 4.5%  | 4.0%  | 10.9% | 10.2% | 19.7% | 27.1%  | 64.1%       |
+|     15 | blackrock - japan small & midcap a2                   | 9.4%  | 6.4%  | 11.2% | 13.2% | 10.2% | 25.0%  | 55.2%       |
+|     16 | baring global emerging markets a                      | 2.6%  | 2.6%  | 11.9% | 11.7% | 21.9% | 19.7%  | 45.5%       |
+|     17 | nordea globala tillväxtmarknader                      | 1.2%  | 2.6%  | 12.7% | 11.9% | 22.7% | 28.5%  | 71.8%       |
+|     18 | amundi funds japan equity value a2                    | 10.4% | 6.7%  | 9.4%  | 9.1%  | 6.7%  | 11.9%  | 37.4%       |
+|     19 | seligson & co global top 25 pharmaceuticals a         | 5.7%  | 2.8%  | 6.9%  | 9.1%  | 15.9% | 4.0%   | 14.6%       |
+|     20 | seb östeuropafond små och medelstora bolag c          | 3.3%  | 5.0%  | 9.9%  | 15.1% | 6.9%  | 21.1%  | 153.5%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-16
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-17
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | cpr invest global gold mines a2                    | -4.9% | 9.4%  | 16.9% | 29.4% | 68.7% | 114.8% | 237.3%      |
-|      2 | blackrock - world gold a2                          | -5.8% | 3.5%  | 16.7% | 29.4% | 71.4% | 115.8% | 243.6%      |
-|      3 | allianz global metals and mining a                 | -1.1% | 7.9%  | 23.6% | 32.4% | 60.0% | 66.3%  | 73.4%       |
-|      4 | blackrock - world mining a2                        | -2.7% | 4.7%  | 19.7% | 28.5% | 55.2% | 62.6%  | 71.0%       |
-|      5 | nordea globala tillväxtmarknader                   | 1.9%  | 4.7%  | 15.1% | 10.9% | 25.0% | 30.0%  | 74.2%       |
-|      6 | amundi funds latin america equity a2               | 3.0%  | 12.5% | 14.8% | 15.6% | 34.0% | 37.4%  | 48.3%       |
-|      7 | templeton emerging markets fund a                  | 1.9%  | 4.2%  | 12.2% | 9.6%  | 22.5% | 24.2%  | 72.6%       |
-|      8 | goldman sachs greater china equity p               | -0.2% | 0.9%  | 10.4% | 5.2%  | 12.7% | 25.9%  | 48.6%       |
-|      9 | seb choice emerging markets                        | 1.9%  | 5.0%  | 12.5% | 10.9% | 19.7% | 24.7%  | 67.1%       |
-|     10 | east capital global emerging markets sustainable a | 5.2%  | 6.2%  | 15.1% | 9.1%  | 23.9% | 24.7%  | 51.7%       |
-|     11 | skagen kon-tiki f                                  | 3.3%  | 5.7%  | 11.9% | 8.9%  | 20.2% | 27.1%  | 64.4%       |
-|     12 | franklin natural resources fund a                  | 4.0%  | 7.9%  | 15.6% | 18.0% | 30.9% | 22.2%  | 37.7%       |
-|     13 | blackrock - japan small & midcap a2                | 10.4% | 8.6%  | 11.7% | 12.5% | 10.9% | 25.0%  | 57.0%       |
-|     14 | baring global emerging markets a                   | 2.1%  | 4.7%  | 14.6% | 11.9% | 23.0% | 21.1%  | 47.2%       |
-|     15 | allianz china a-shares at                          | 2.1%  | 0.5%  | 7.4%  | 8.4%  | 20.5% | 19.7%  | 1.9%        |
-|     16 | lannebo sverige plus                               | 6.2%  | 4.0%  | 8.4%  | 11.9% | 20.2% | 16.7%  | 73.0%       |
-|     17 | länsförsäkringar tillväxtmarknad aktiv a           | 1.4%  | 2.8%  | 11.2% | 7.9%  | 19.9% | 22.5%  | 43.2%       |
-|     18 | baring asia growth a                               | 2.3%  | 3.5%  | 12.7% | 8.6%  | 19.7% | 20.8%  | 37.7%       |
-|     19 | lannebo sverige                                    | 6.2%  | 3.8%  | 7.9%  | 11.7% | 19.4% | 15.3%  | 75.8%       |
-|     20 | franklin biotechnology discovery fund              | 0.9%  | -1.4% | -3.8% | 2.6%  | 32.1% | 23.9%  | 53.8%       |
+|      1 | cpr invest global gold mines a2                    | -7.5% | -0.7% | 11.9% | 26.2% | 59.6% | 106.1% | 220.6%      |
+|      2 | blackrock - world gold a2                          | 2.1%  | 2.1%  | 14.3% | 28.2% | 65.6% | 112.8% | 237.3%      |
+|      3 | allianz global metals and mining a                 | -2.1% | 3.3%  | 17.2% | 28.5% | 51.4% | 61.1%  | 65.6%       |
+|      4 | blackrock - world mining a2                        | 1.9%  | 1.6%  | 16.4% | 27.1% | 50.7% | 58.9%  | 67.1%       |
+|      5 | amundi funds latin america equity a2               | 1.6%  | 10.2% | 16.4% | 15.1% | 31.2% | 37.7%  | 46.6%       |
+|      6 | templeton emerging markets fund a                  | 0.9%  | 3.0%  | 12.5% | 9.4%  | 21.3% | 25.3%  | 71.0%       |
+|      7 | nordea globala tillväxtmarknader                   | 1.2%  | 2.6%  | 12.7% | 11.9% | 22.7% | 28.5%  | 71.8%       |
+|      8 | seb choice emerging markets                        | 2.1%  | 5.0%  | 14.3% | 10.9% | 20.5% | 28.2%  | 67.5%       |
+|      9 | skagen kon-tiki f                                  | 4.5%  | 4.0%  | 10.9% | 10.2% | 19.7% | 27.1%  | 64.1%       |
+|     10 | goldman sachs greater china equity p               | -0.9% | -2.1% | 6.4%  | 4.7%  | 9.4%  | 20.2%  | 45.2%       |
+|     11 | länsförsäkringar tillväxtmarknad aktiv a           | 3.0%  | 2.1%  | 10.7% | 7.6%  | 19.1% | 22.5%  | 43.2%       |
+|     12 | east capital global emerging markets sustainable a | 2.8%  | 4.0%  | 13.0% | 10.4% | 21.1% | 22.5%  | 49.3%       |
+|     13 | aktiespararna topp sverige                         | 3.0%  | 2.6%  | 10.9% | 16.4% | 19.4% | 14.6%  | 80.7%       |
+|     14 | blackrock - japan small & midcap a2                | 9.4%  | 6.4%  | 11.2% | 13.2% | 10.2% | 25.0%  | 55.2%       |
+|     15 | lannebo sverige                                    | 6.2%  | 2.3%  | 7.9%  | 13.2% | 19.1% | 13.8%  | 75.0%       |
+|     16 | seb östeuropafond små och medelstora bolag c       | 3.3%  | 5.0%  | 9.9%  | 15.1% | 6.9%  | 21.1%  | 153.5%      |
+|     17 | baring global emerging markets a                   | 2.6%  | 2.6%  | 11.9% | 11.7% | 21.9% | 19.7%  | 45.5%       |
+|     18 | avanza zero                                        | 2.3%  | 1.6%  | 10.4% | 15.3% | 17.8% | 15.6%  | 80.7%       |
+|     19 | öhman emerging markets a                           | 2.8%  | 2.1%  | 10.7% | 8.6%  | 17.2% | 19.9%  | 50.3%       |
+|     20 | pictet biotech r                                   | 1.6%  | -3.8% | -3.8% | -0.2% | 30.6% | 25.6%  | 36.5%       |
 
 ### Funds Appearing in Both Top 20 Assessments
-|   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
-|-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | cpr invest global gold mines a2                    | -4.9% | 9.4%  | 16.9% | 29.4% | 68.7% | 114.8% | 237.3%      |
-|      2 | blackrock - world gold a2                          | -5.8% | 3.5%  | 16.7% | 29.4% | 71.4% | 115.8% | 243.6%      |
-|      3 | allianz global metals and mining a                 | -1.1% | 7.9%  | 23.6% | 32.4% | 60.0% | 66.3%  | 73.4%       |
-|      4 | blackrock - world mining a2                        | -2.7% | 4.7%  | 19.7% | 28.5% | 55.2% | 62.6%  | 71.0%       |
-|      5 | nordea globala tillväxtmarknader                   | 1.9%  | 4.7%  | 15.1% | 10.9% | 25.0% | 30.0%  | 74.2%       |
-|      6 | amundi funds latin america equity a2               | 3.0%  | 12.5% | 14.8% | 15.6% | 34.0% | 37.4%  | 48.3%       |
-|      7 | east capital global emerging markets sustainable a | 5.2%  | 6.2%  | 15.1% | 9.1%  | 23.9% | 24.7%  | 51.7%       |
-|      8 | franklin natural resources fund a                  | 4.0%  | 7.9%  | 15.6% | 18.0% | 30.9% | 22.2%  | 37.7%       |
-|      9 | blackrock - japan small & midcap a2                | 10.4% | 8.6%  | 11.7% | 12.5% | 10.9% | 25.0%  | 57.0%       |
-|     10 | baring global emerging markets a                   | 2.1%  | 4.7%  | 14.6% | 11.9% | 23.0% | 21.1%  | 47.2%       |
+|   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
+|-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
+|      1 | cpr invest global gold mines a2              | -7.5% | -0.7% | 11.9% | 26.2% | 59.6% | 106.1% | 220.6%      |
+|      2 | blackrock - world gold a2                    | 2.1%  | 2.1%  | 14.3% | 28.2% | 65.6% | 112.8% | 237.3%      |
+|      3 | allianz global metals and mining a           | -2.1% | 3.3%  | 17.2% | 28.5% | 51.4% | 61.1%  | 65.6%       |
+|      4 | blackrock - world mining a2                  | 1.9%  | 1.6%  | 16.4% | 27.1% | 50.7% | 58.9%  | 67.1%       |
+|      5 | amundi funds latin america equity a2         | 1.6%  | 10.2% | 16.4% | 15.1% | 31.2% | 37.7%  | 46.6%       |
+|      6 | nordea globala tillväxtmarknader             | 1.2%  | 2.6%  | 12.7% | 11.9% | 22.7% | 28.5%  | 71.8%       |
+|      7 | seb choice emerging markets                  | 2.1%  | 5.0%  | 14.3% | 10.9% | 20.5% | 28.2%  | 67.5%       |
+|      8 | skagen kon-tiki f                            | 4.5%  | 4.0%  | 10.9% | 10.2% | 19.7% | 27.1%  | 64.1%       |
+|      9 | aktiespararna topp sverige                   | 3.0%  | 2.6%  | 10.9% | 16.4% | 19.4% | 14.6%  | 80.7%       |
+|     10 | blackrock - japan small & midcap a2          | 9.4%  | 6.4%  | 11.2% | 13.2% | 10.2% | 25.0%  | 55.2%       |
+|     11 | seb östeuropafond små och medelstora bolag c | 3.3%  | 5.0%  | 9.9%  | 15.1% | 6.9%  | 21.1%  | 153.5%      |
+|     12 | baring global emerging markets a             | 2.6%  | 2.6%  | 11.9% | 11.7% | 21.9% | 19.7%  | 45.5%       |
