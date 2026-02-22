@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-21
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-22
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 7.6%  | 1.6%  | 10.7% | 30.3% | 58.9% | 111.8% | 228.1%      |
@@ -23,7 +23,7 @@
 |     19 | fidelity - emerging markets funds a                   | 4.7%  | 5.9%  | 12.5% | 16.7% | 19.4% | 31.5%  | 48.6%       |
 |     20 | fidelity - asian special situations fund a            | 5.2%  | 6.2%  | 13.2% | 14.8% | 21.1% | 27.1%  | 46.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-21
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-22
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2            | 7.6%  | 1.6%  | 10.7% | 30.3% | 58.9% | 111.8% | 228.1%      |
