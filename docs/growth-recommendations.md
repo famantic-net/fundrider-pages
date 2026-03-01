@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-02-28
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-01
 |   Rank | Fund                                                  | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 9.4% | 5.7%  | 21.6% | 32.1% | 72.2% | 137.7% | 269.0%      |
@@ -23,7 +23,7 @@
 |     19 | templeton emerging markets fund a                     | 4.7% | 7.9%  | 16.9% | 15.1% | 28.5% | 35.5%  | 79.9%       |
 |     20 | baring asia growth a                                  | 6.9% | 8.1%  | 16.7% | 15.1% | 27.9% | 31.8%  | 45.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-02-28
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-01
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                    | 9.4% | 5.7%  | 21.6% | 32.1% | 72.2% | 137.7% | 269.0%      |
