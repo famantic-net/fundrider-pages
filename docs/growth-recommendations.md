@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-05
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-06
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 16.4% | 27.6% | 34.6% | 41.9% | 75.0% | 158.8% | 292.6%      |
@@ -23,7 +23,7 @@
 |     19 | amundi funds japan equity value a2                    | 4.5%  | 13.0% | 13.0% | 12.7% | 12.2% | 21.6%  | 41.3%       |
 |     20 | dnb smb s                                             | 7.4%  | 6.7%  | 8.4%  | 14.0% | 10.7% | 40.9%  | 61.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-05
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-06
 |   Rank | Fund                                     | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-----------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2          | 16.4% | 27.6% | 34.6% | 41.9% | 75.0% | 158.8% | 292.6%      |
