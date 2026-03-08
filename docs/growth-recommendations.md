@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-07
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-08
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 10.9% | 19.4% | 24.7% | 31.5% | 60.7% | 126.5% | 263.9%      |
@@ -23,7 +23,7 @@
 |     19 | blackrock - latin american a2                         | 0.7%  | 0.5%  | 14.0% | 7.4%  | 19.4% | 31.5%  | 23.6%       |
 |     20 | dnb global emerging markets s                         | 2.3%  | 6.7%  | 10.2% | 10.7% | 18.9% | 21.9%  | 41.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-07
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-08
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | 10.9% | 19.4% | 24.7% | 31.5% | 60.7% | 126.5% | 263.9%      |
