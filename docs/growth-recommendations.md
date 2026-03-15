@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-14
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-15
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                       | -4.7% | 4.5%  | 14.0% | 21.1% | 49.3% | 113.8% | 251.6%      |
@@ -23,7 +23,7 @@
 |     19 | east capital global emerging markets sustainable a    | -6.5% | 0.7%  | 6.2%  | 11.7% | 17.2% | 28.2%  | 50.3%       |
 |     20 | dnb smb s                                             | -0.7% | 5.0%  | 8.1%  | 10.7% | 6.4%  | 30.0%  | 59.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-14
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-15
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2                    | -4.7% | 4.5%  | 14.0% | 21.1% | 49.3% | 113.8% | 251.6%      |
