@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-20
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-21
 |   Rank | Fund                                                  | 2w     | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:-------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world energy a2                           | 6.7%   | 15.9% | 25.0% | 32.1% | 29.1% | 22.7% | 33.0%       |
@@ -23,7 +23,7 @@
 |     19 | swedbank robur access asien a                         | 6.9%   | 3.5%  | 4.5%  | 12.5% | 14.0% | 31.5% | 54.2%       |
 |     20 | templeton emerging markets fund a                     | 1.4%   | 1.6%  | 4.5%  | 14.6% | 16.7% | 38.4% | 75.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-20
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-21
 |   Rank | Fund                                  | 2w     | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:-------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2       | -11.1% | -4.1% | 0.5%  | 11.7% | 30.3% | 95.0% | 223.6%      |
