@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-29
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-03-30
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world energy a2                           | 7.9%  | 14.3% | 28.5% | 35.8% | 33.0% | 48.9% | 36.5%       |
@@ -23,7 +23,7 @@
 |     19 | amundi funds volatility world a2                      | 4.5%  | 7.4%  | 8.6%  | 6.9%  | 4.5%  | -3.4% | -7.3%       |
 |     20 | pictet clean energy transition r                      | 1.9%  | -2.1% | 4.7%  | 8.6%  | 11.2% | 56.0% | 45.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-29
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-03-30
 |   Rank | Fund                                                  | 2w     | 1m     | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:-------|:-------|:-------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                       | -18.5% | -20.9% | -18.3% | -5.6% | 13.5% | 91.0% | 186.4%      |
