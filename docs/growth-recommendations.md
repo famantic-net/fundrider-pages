@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-10
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-11
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world energy a2                           | 2.8%  | 10.9% | 23.9% | 39.6% | 40.0% | 48.6% | 41.3%       |
@@ -23,7 +23,7 @@
 |     19 | blackrock - world gold a2                             | 14.8% | -3.6% | 2.8%  | 8.4%  | 26.2% | 79.9% | 231.9%      |
 |     20 | seb asienfond ex japan                                | 3.8%  | 5.9%  | 6.4%  | 7.9%  | 11.4% | 43.9% | 62.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-10
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-11
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                       | 8.9%  | -9.2% | 8.6%  | 13.5% | 25.9% | 87.5% | 230.4%      |
