@@ -1,66 +1,67 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-16
-|   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
-|-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | amundi funds latin america equity a2                  | 9.4%  | 12.7% | 10.2% | 21.3% | 36.8% | 61.1%  | 61.8%       |
-|      2 | allianz global metals and mining a                    | 9.9%  | 6.9%  | 5.2%  | 8.6%  | 33.7% | 83.2%  | 74.2%       |
-|      3 | alfred berg norge c                                   | -1.4% | 3.3%  | 14.0% | 22.2% | 25.6% | 45.9%  | 79.1%       |
-|      4 | baring latin america a                                | 5.7%  | 9.1%  | 9.1%  | 15.9% | 32.4% | 46.2%  | 25.9%       |
-|      5 | pareto aksje norge b                                  | 2.8%  | 4.5%  | 12.2% | 18.9% | 24.2% | 48.9%  | 77.8%       |
-|      6 | goldman sachs asia equity income p                    | 6.4%  | 3.3%  | 8.9%  | 16.4% | 25.3% | 66.7%  | 75.4%       |
-|      7 | alfred berg aktiv r                                   | -0.9% | 3.3%  | 13.2% | 19.9% | 23.3% | 46.2%  | 83.2%       |
-|      8 | blackrock - world mining a2                           | 7.6%  | 6.9%  | 6.4%  | 8.1%  | 33.4% | 84.1%  | 77.8%       |
-|      9 | franklin natural resources fund a                     | 0.2%  | 2.3%  | 11.4% | 15.1% | 31.2% | 58.1%  | 49.6%       |
-|     10 | baring global resources a                             | -1.6% | 2.3%  | 11.2% | 15.6% | 30.9% | 45.2%  | 40.3%       |
-|     11 | cpr invest global gold mines a2                       | 13.8% | 3.5%  | 5.9%  | 5.0%  | 28.2% | 92.3%  | 238.8%      |
-|     12 | odin norge c                                          | 0.2%  | 3.8%  | 14.6% | 15.6% | 21.3% | 39.6%  | 85.8%       |
-|     13 | dnb smb s                                             | 5.4%  | 5.0%  | 13.0% | 16.4% | 21.9% | 51.7%  | 70.6%       |
-|     14 | blackrock - world energy a2                           | -9.4% | -2.1% | 13.0% | 23.6% | 30.9% | 38.4%  | 30.3%       |
-|     15 | blackrock - world gold a2                             | 9.4%  | 4.7%  | 3.8%  | 5.9%  | 29.4% | 107.0% | 249.9%      |
-|     16 | fidelity - emerging markets funds a                   | 10.7% | 7.4%  | 7.6%  | 10.4% | 18.9% | 52.4%  | 56.3%       |
-|     17 | handelsbanken latinamerika impact tema a1             | 5.9%  | 9.1%  | 5.9%  | 12.7% | 23.3% | 40.3%  | 47.6%       |
-|     18 | blackrock - latin american a2                         | 4.5%  | 6.9%  | 7.2%  | 14.8% | 22.7% | 39.0%  | 28.5%       |
-|     19 | seb östeuropafond små och medelstora bolag c          | 12.7% | 10.7% | 2.1%  | 7.2%  | 18.6% | 27.6%  | 159.4%      |
-|     20 | blackrock - natural resources growth & income fund a2 | -2.7% | 1.4%  | 5.9%  | 10.7% | 25.3% | 44.5%  | 35.2%       |
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-17
+|   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
+|-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
+|      1 | allianz global metals and mining a         | 6.9%  | 8.1%  | 4.5%  | 8.6%  | 33.0% | 85.4%  | 76.2%       |
+|      2 | amundi funds latin america equity a2       | 3.8%  | 9.6%  | 9.4%  | 19.7% | 34.0% | 59.6%  | 60.0%       |
+|      3 | goldman sachs asia equity income p         | 5.4%  | 4.2%  | 9.6%  | 16.1% | 25.6% | 67.5%  | 76.2%       |
+|      4 | alfred berg norge c                        | -1.8% | 2.8%  | 12.5% | 20.5% | 25.0% | 45.2%  | 77.8%       |
+|      5 | baring latin america a                     | 4.5%  | 8.4%  | 7.6%  | 15.9% | 31.8% | 45.2%  | 25.0%       |
+|      6 | dnb smb s                                  | 4.7%  | 5.0%  | 14.3% | 17.8% | 22.2% | 53.5%  | 72.6%       |
+|      7 | blackrock - world mining a2                | 5.4%  | 6.7%  | 5.0%  | 8.9%  | 38.4% | 83.2%  | 77.4%       |
+|      8 | odin norge c                               | 0.5%  | 3.8%  | 14.3% | 15.1% | 21.6% | 40.0%  | 86.2%       |
+|      9 | alfred berg aktiv r                        | -1.6% | 2.8%  | 11.2% | 18.3% | 22.5% | 45.5%  | 82.0%       |
+|     10 | cpr invest global gold mines a2            | 5.7%  | 3.0%  | 0.7%  | 5.4%  | 26.2% | 92.8%  | 239.6%      |
+|     11 | pareto aksje norge b                       | 0.0%  | 2.6%  | 12.2% | 16.7% | 22.5% | 47.6%  | 76.2%       |
+|     12 | baring global resources a                  | -2.1% | 1.6%  | 8.6%  | 14.6% | 28.8% | 44.5%  | 39.3%       |
+|     13 | fidelity - emerging markets funds a        | 7.9%  | 6.9%  | 8.6%  | 11.7% | 21.1% | 54.2%  | 58.1%       |
+|     14 | handelsbanken hållbar energi a1            | 5.7%  | 6.7%  | 10.7% | 9.6%  | 20.5% | 74.2%  | -1.6%       |
+|     15 | blackrock - world gold a2                  | 5.4%  | 4.2%  | 1.6%  | 6.2%  | 38.4% | 106.1% | 248.3%      |
+|     16 | fidelity - asian special situations fund a | 8.1%  | 4.7%  | 7.6%  | 9.9%  | 18.0% | 50.3%  | 54.5%       |
+|     17 | blackrock - world energy a2                | -5.4% | -3.4% | 11.2% | 21.6% | 30.3% | 37.1%  | 29.1%       |
+|     18 | jpmorgan emerging markets equity a         | 7.4%  | 5.7%  | 8.4%  | 10.4% | 16.9% | 48.6%  | 47.6%       |
+|     19 | seb asienfond ex japan                     | 6.9%  | 5.7%  | 7.4%  | 10.2% | 15.3% | 46.2%  | 69.0%       |
+|     20 | franklin natural resources fund a          | -4.1% | -0.5% | 6.7%  | 13.0% | 26.5% | 54.5%  | 46.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-16
-|   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
-|-------:|:--------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | cpr invest global gold mines a2       | 13.8% | 3.5%  | 5.9%  | 5.0%  | 28.2% | 92.3%  | 238.8%      |
-|      2 | blackrock - world gold a2             | 9.4%  | 4.7%  | 3.8%  | 5.9%  | 29.4% | 107.0% | 249.9%      |
-|      3 | allianz global metals and mining a    | 9.9%  | 6.9%  | 5.2%  | 8.6%  | 33.7% | 83.2%  | 74.2%       |
-|      4 | blackrock - world mining a2           | 7.6%  | 6.9%  | 6.4%  | 8.1%  | 33.4% | 84.1%  | 77.8%       |
-|      5 | amundi funds latin america equity a2  | 9.4%  | 12.7% | 10.2% | 21.3% | 36.8% | 61.1%  | 61.8%       |
-|      6 | franklin biotechnology discovery fund | 8.1%  | 5.9%  | 11.2% | 6.2%  | 18.9% | 70.2%  | 69.4%       |
-|      7 | franklin natural resources fund a     | 0.2%  | 2.3%  | 11.4% | 15.1% | 31.2% | 58.1%  | 49.6%       |
-|      8 | alfred berg norge c                   | -1.4% | 3.3%  | 14.0% | 22.2% | 25.6% | 45.9%  | 79.1%       |
-|      9 | pareto aksje norge b                  | 2.8%  | 4.5%  | 12.2% | 18.9% | 24.2% | 48.9%  | 77.8%       |
-|     10 | alfred berg aktiv r                   | -0.9% | 3.3%  | 13.2% | 19.9% | 23.3% | 46.2%  | 83.2%       |
-|     11 | handelsbanken hållbar energi a1       | 5.4%  | 4.7%  | 9.1%  | 8.9%  | 15.6% | 71.8%  | -3.2%       |
-|     12 | templeton emerging markets fund a     | 9.6%  | 4.7%  | 5.0%  | 8.1%  | 16.7% | 54.5%  | 79.9%       |
-|     13 | dnb smb s                             | 5.4%  | 5.0%  | 13.0% | 16.4% | 21.9% | 51.7%  | 70.6%       |
-|     14 | baring latin america a                | 5.7%  | 9.1%  | 9.1%  | 15.9% | 32.4% | 46.2%  | 25.9%       |
-|     15 | fidelity - emerging markets funds a   | 10.7% | 7.4%  | 7.6%  | 10.4% | 18.9% | 52.4%  | 56.3%       |
-|     16 | odin norge c                          | 0.2%  | 3.8%  | 14.6% | 15.6% | 21.3% | 39.6%  | 85.8%       |
-|     17 | baring global resources a             | -1.6% | 2.3%  | 11.2% | 15.6% | 30.9% | 45.2%  | 40.3%       |
-|     18 | pictet biotech r                      | -0.7% | 3.3%  | 6.9%  | 2.8%  | 18.6% | 65.2%  | 45.5%       |
-|     19 | nordea globala tillväxtmarknader      | 9.6%  | 2.8%  | 3.8%  | 6.4%  | 16.4% | 51.0%  | 77.8%       |
-|     20 | goldman sachs greater china equity p  | 6.9%  | 0.0%  | 4.5%  | 2.3%  | 6.4%  | 61.1%  | 51.7%       |
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-17
+|   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
+|-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
+|      1 | cpr invest global gold mines a2            | 5.7%  | 3.0%  | 0.7%  | 5.4%  | 26.2% | 92.8%  | 239.6%      |
+|      2 | blackrock - world gold a2                  | 5.4%  | 4.2%  | 1.6%  | 6.2%  | 38.4% | 106.1% | 248.3%      |
+|      3 | allianz global metals and mining a         | 6.9%  | 8.1%  | 4.5%  | 8.6%  | 33.0% | 85.4%  | 76.2%       |
+|      4 | blackrock - world mining a2                | 5.4%  | 6.7%  | 5.0%  | 8.9%  | 38.4% | 83.2%  | 77.4%       |
+|      5 | amundi funds latin america equity a2       | 3.8%  | 9.6%  | 9.4%  | 19.7% | 34.0% | 59.6%  | 60.0%       |
+|      6 | franklin biotechnology discovery fund      | 1.9%  | 4.5%  | 11.2% | 8.1%  | 18.0% | 71.0%  | 70.2%       |
+|      7 | handelsbanken hållbar energi a1            | 5.7%  | 6.7%  | 10.7% | 9.6%  | 20.5% | 74.2%  | -1.6%       |
+|      8 | alfred berg norge c                        | -1.8% | 2.8%  | 12.5% | 20.5% | 25.0% | 45.2%  | 77.8%       |
+|      9 | dnb smb s                                  | 4.7%  | 5.0%  | 14.3% | 17.8% | 22.2% | 53.5%  | 72.6%       |
+|     10 | fidelity - emerging markets funds a        | 7.9%  | 6.9%  | 8.6%  | 11.7% | 21.1% | 54.2%  | 58.1%       |
+|     11 | goldman sachs greater china equity p       | 8.1%  | 2.6%  | 6.4%  | 5.0%  | 7.9%  | 64.1%  | 54.5%       |
+|     12 | pictet biotech r                           | 0.5%  | 5.0%  | 8.1%  | 4.7%  | 19.7% | 66.7%  | 47.2%       |
+|     13 | alfred berg aktiv r                        | -1.6% | 2.8%  | 11.2% | 18.3% | 22.5% | 45.5%  | 82.0%       |
+|     14 | nordea globala tillväxtmarknader           | 7.4%  | 3.3%  | 4.7%  | 6.7%  | 17.5% | 52.4%  | 79.9%       |
+|     15 | pareto aksje norge b                       | 0.0%  | 2.6%  | 12.2% | 16.7% | 22.5% | 47.6%  | 76.2%       |
+|     16 | templeton emerging markets fund a          | 5.2%  | 1.6%  | 4.0%  | 7.2%  | 15.1% | 53.8%  | 79.1%       |
+|     17 | fidelity - asian special situations fund a | 8.1%  | 4.7%  | 7.6%  | 9.9%  | 18.0% | 50.3%  | 54.5%       |
+|     18 | franklin natural resources fund a          | -4.1% | -0.5% | 6.7%  | 13.0% | 26.5% | 54.5%  | 46.2%       |
+|     19 | odin norge c                               | 0.5%  | 3.8%  | 14.3% | 15.1% | 21.6% | 40.0%  | 86.2%       |
+|     20 | baring latin america a                     | 4.5%  | 8.4%  | 7.6%  | 15.9% | 31.8% | 45.2%  | 25.0%       |
 
 ### Funds Appearing in Both Top 20 Assessments
-|   Rank | Fund                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
-|-------:|:-------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
-|      1 | cpr invest global gold mines a2      | 13.8% | 3.5%  | 5.9%  | 5.0%  | 28.2% | 92.3%  | 238.8%      |
-|      2 | blackrock - world gold a2            | 9.4%  | 4.7%  | 3.8%  | 5.9%  | 29.4% | 107.0% | 249.9%      |
-|      3 | allianz global metals and mining a   | 9.9%  | 6.9%  | 5.2%  | 8.6%  | 33.7% | 83.2%  | 74.2%       |
-|      4 | blackrock - world mining a2          | 7.6%  | 6.9%  | 6.4%  | 8.1%  | 33.4% | 84.1%  | 77.8%       |
-|      5 | amundi funds latin america equity a2 | 9.4%  | 12.7% | 10.2% | 21.3% | 36.8% | 61.1%  | 61.8%       |
-|      6 | franklin natural resources fund a    | 0.2%  | 2.3%  | 11.4% | 15.1% | 31.2% | 58.1%  | 49.6%       |
-|      7 | alfred berg norge c                  | -1.4% | 3.3%  | 14.0% | 22.2% | 25.6% | 45.9%  | 79.1%       |
-|      8 | pareto aksje norge b                 | 2.8%  | 4.5%  | 12.2% | 18.9% | 24.2% | 48.9%  | 77.8%       |
-|      9 | alfred berg aktiv r                  | -0.9% | 3.3%  | 13.2% | 19.9% | 23.3% | 46.2%  | 83.2%       |
-|     10 | dnb smb s                            | 5.4%  | 5.0%  | 13.0% | 16.4% | 21.9% | 51.7%  | 70.6%       |
-|     11 | baring latin america a               | 5.7%  | 9.1%  | 9.1%  | 15.9% | 32.4% | 46.2%  | 25.9%       |
-|     12 | fidelity - emerging markets funds a  | 10.7% | 7.4%  | 7.6%  | 10.4% | 18.9% | 52.4%  | 56.3%       |
-|     13 | odin norge c                         | 0.2%  | 3.8%  | 14.6% | 15.6% | 21.3% | 39.6%  | 85.8%       |
-|     14 | baring global resources a            | -1.6% | 2.3%  | 11.2% | 15.6% | 30.9% | 45.2%  | 40.3%       |
+|   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
+|-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
+|      1 | cpr invest global gold mines a2            | 5.7%  | 3.0%  | 0.7%  | 5.4%  | 26.2% | 92.8%  | 239.6%      |
+|      2 | blackrock - world gold a2                  | 5.4%  | 4.2%  | 1.6%  | 6.2%  | 38.4% | 106.1% | 248.3%      |
+|      3 | allianz global metals and mining a         | 6.9%  | 8.1%  | 4.5%  | 8.6%  | 33.0% | 85.4%  | 76.2%       |
+|      4 | blackrock - world mining a2                | 5.4%  | 6.7%  | 5.0%  | 8.9%  | 38.4% | 83.2%  | 77.4%       |
+|      5 | amundi funds latin america equity a2       | 3.8%  | 9.6%  | 9.4%  | 19.7% | 34.0% | 59.6%  | 60.0%       |
+|      6 | handelsbanken hållbar energi a1            | 5.7%  | 6.7%  | 10.7% | 9.6%  | 20.5% | 74.2%  | -1.6%       |
+|      7 | alfred berg norge c                        | -1.8% | 2.8%  | 12.5% | 20.5% | 25.0% | 45.2%  | 77.8%       |
+|      8 | dnb smb s                                  | 4.7%  | 5.0%  | 14.3% | 17.8% | 22.2% | 53.5%  | 72.6%       |
+|      9 | fidelity - emerging markets funds a        | 7.9%  | 6.9%  | 8.6%  | 11.7% | 21.1% | 54.2%  | 58.1%       |
+|     10 | alfred berg aktiv r                        | -1.6% | 2.8%  | 11.2% | 18.3% | 22.5% | 45.5%  | 82.0%       |
+|     11 | pareto aksje norge b                       | 0.0%  | 2.6%  | 12.2% | 16.7% | 22.5% | 47.6%  | 76.2%       |
+|     12 | fidelity - asian special situations fund a | 8.1%  | 4.7%  | 7.6%  | 9.9%  | 18.0% | 50.3%  | 54.5%       |
+|     13 | franklin natural resources fund a          | -4.1% | -0.5% | 6.7%  | 13.0% | 26.5% | 54.5%  | 46.2%       |
+|     14 | odin norge c                               | 0.5%  | 3.8%  | 14.3% | 15.1% | 21.6% | 40.0%  | 86.2%       |
+|     15 | baring latin america a                     | 4.5%  | 8.4%  | 7.6%  | 15.9% | 31.8% | 45.2%  | 25.0%       |
