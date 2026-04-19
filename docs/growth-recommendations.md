@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-18
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-19
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | allianz global metals and mining a         | 6.9%  | 8.1%  | 4.5%  | 8.6%  | 33.0% | 85.4%  | 76.2%       |
@@ -23,7 +23,7 @@
 |     19 | seb asienfond ex japan                     | 6.9%  | 5.7%  | 7.4%  | 10.2% | 15.3% | 46.2%  | 69.0%       |
 |     20 | franklin natural resources fund a          | -4.1% | -0.5% | 6.7%  | 13.0% | 26.5% | 54.5%  | 46.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-18
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-19
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y     | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:-------|:------------|
 |      1 | cpr invest global gold mines a2            | 5.7%  | 3.0%  | 0.7%  | 5.4%  | 26.2% | 92.8%  | 239.6%      |
