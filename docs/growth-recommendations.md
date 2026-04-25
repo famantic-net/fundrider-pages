@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-24
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-04-25
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | goldman sachs asia equity income p                 | 9.1%  | 9.4%  | 8.9%  | 18.3% | 26.5% | 62.2% | 81.6%       |
@@ -23,7 +23,7 @@
 |     19 | allianz global metals and mining a                 | 2.3%  | 13.0% | -0.7% | 2.6%  | 35.5% | 77.4% | 70.2%       |
 |     20 | east capital global emerging markets sustainable a | 9.9%  | 10.9% | 3.0%  | 13.2% | 17.2% | 42.6% | 60.7%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-24
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-04-25
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2            | -3.8% | 11.7% | -9.2% | -7.5% | 35.8% | 91.0% | 217.7%      |
