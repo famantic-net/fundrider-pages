@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-02
 |   Rank | Fund                                       | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | goldman sachs asia equity income p         | 4.7% | 11.9% | 8.9%  | 20.2% | 26.8% | 58.5% | 84.5%       |
@@ -23,7 +23,7 @@
 |     19 | jpmorgan emerging markets equity a         | 3.5% | 13.8% | 6.7%  | 13.8% | 17.2% | 40.0% | 52.8%       |
 |     20 | pareto aksje norge b                       | 1.2% | 2.8%  | 6.7%  | 17.5% | 24.5% | 39.3% | 77.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-02
 |   Rank | Fund                                               | 2w     | 1m    | 2m     | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-------|:------|:-------|:-------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | -10.7% | 1.6%  | -21.5% | -12.5% | 25.3% | 73.0% | 202.7%      |
