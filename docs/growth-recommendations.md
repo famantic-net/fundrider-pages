@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-08
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-09
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 11.2% | 26.5% | 27.4% | 26.5% | 32.4% | 60.7% | 78.6%       |
@@ -23,7 +23,7 @@
 |     19 | odin emerging markets c                            | 8.6%  | 17.2% | 20.8% | 19.4% | 21.3% | 35.8% | 55.6%       |
 |     20 | fidelity - emerging asia fund a                    | 8.6%  | 18.6% | 19.9% | 17.5% | 19.9% | 43.9% | 65.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-08
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-09
 |   Rank | Fund                                               | 2w    | 1m     | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-------|:-------|:------|:------|:------|:------------|
 |      1 | blackrock - world gold a2                          | -2.7% | -2.7%  | -6.2%  | 0.0%  | 22.5% | 92.3% | 222.8%      |
