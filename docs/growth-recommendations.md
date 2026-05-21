@@ -1,64 +1,62 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-20
-|   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | blackrock - world technology a2                    | 10.2% | 18.3% | 33.0% | 34.9% | 35.2% | 51.0% | 137.7%      |
-|      2 | fidelity - asian special situations fund a         | 5.4%  | 13.5% | 24.2% | 22.2% | 40.0% | 63.7% | 79.5%       |
-|      3 | goldman sachs asia equity income p                 | 3.5%  | 7.6%  | 16.9% | 21.9% | 40.9% | 70.2% | 96.3%       |
-|      4 | franklin technology fund a                         | 8.4%  | 14.8% | 24.2% | 27.6% | 22.7% | 38.4% | 114.8%      |
-|      5 | dnb smb s                                          | 5.0%  | 8.1%  | 12.5% | 24.7% | 34.9% | 40.6% | 87.9%       |
-|      6 | pictet asian equities ex japan r                   | 5.9%  | 14.0% | 19.9% | 19.4% | 32.1% | 46.6% | 61.4%       |
-|      7 | c worldwide asia 1a                                | 3.3%  | 9.6%  | 18.3% | 20.8% | 34.9% | 52.4% | 77.4%       |
-|      8 | baring asia growth a                               | 7.6%  | 12.5% | 19.1% | 19.1% | 34.0% | 56.7% | 64.4%       |
-|      9 | handelsbanken asien tema a1                        | 5.7%  | 13.2% | 18.6% | 20.2% | 31.8% | 52.4% | 76.2%       |
-|     10 | swedbank robur technology a                        | 5.4%  | 11.7% | 22.7% | 26.5% | 24.7% | 39.3% | 150.0%      |
-|     11 | pictet clean energy transition r                   | 2.6%  | 10.2% | 22.5% | 17.8% | 34.3% | 53.5% | 74.2%       |
-|     12 | seb asienfond ex japan                             | 4.2%  | 11.9% | 17.5% | 19.9% | 33.4% | 49.6% | 88.8%       |
-|     13 | handelsbanken hållbar energi a1                    | 3.5%  | 13.8% | 19.7% | 16.9% | 34.9% | 78.2% | 8.6%        |
-|     14 | blackrock - emerging markets a2                    | 5.0%  | 10.4% | 20.2% | 18.9% | 31.8% | 48.3% | 50.0%       |
-|     15 | dnb global emerging markets s                      | 6.9%  | 8.4%  | 14.0% | 17.8% | 26.5% | 47.2% | 62.9%       |
-|     16 | templeton emerging markets fund a                  | 6.7%  | 10.7% | 16.9% | 16.4% | 30.6% | 57.0% | 101.4%      |
-|     17 | jpmorgan emerging markets equity a                 | 4.0%  | 8.4%  | 17.5% | 19.4% | 30.6% | 51.0% | 62.6%       |
-|     18 | east capital global emerging markets sustainable a | 3.8%  | 8.6%  | 17.5% | 16.9% | 31.8% | 50.7% | 74.6%       |
-|     19 | allianz china a-shares at                          | 6.2%  | 10.2% | 15.9% | 17.5% | 28.5% | 63.3% | 18.3%       |
-|     20 | blackrock - us flexible equity a2                  | 5.7%  | 10.4% | 18.6% | 21.3% | 23.3% | 41.9% | 84.5%       |
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-21
+|   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
+|      1 | blackrock - world technology a2            | 5.9%  | 15.3% | 32.7% | 30.9% | 28.5% | 48.6% | 131.2%      |
+|      2 | fidelity - asian special situations fund a | 1.6%  | 12.2% | 24.2% | 19.7% | 34.9% | 62.2% | 75.4%       |
+|      3 | dnb smb s                                  | 3.5%  | 8.6%  | 13.5% | 20.2% | 36.8% | 40.6% | 87.9%       |
+|      4 | franklin technology fund a                 | 6.9%  | 11.7% | 21.6% | 25.0% | 21.9% | 37.4% | 113.3%      |
+|      5 | templeton emerging markets fund a          | 6.4%  | 9.9%  | 16.9% | 16.4% | 31.8% | 58.1% | 102.8%      |
+|      6 | swedbank robur technology a                | 3.3%  | 10.7% | 24.5% | 24.7% | 21.1% | 40.9% | 148.3%      |
+|      7 | alfred berg norge c                        | 2.3%  | 7.2%  | 8.4%  | 15.3% | 37.1% | 38.4% | 88.4%       |
+|      8 | allianz china a-shares at                  | 6.4%  | 9.9%  | 18.0% | 17.8% | 28.8% | 64.1% | 18.3%       |
+|      9 | handelsbanken asien tema a1                | 3.8%  | 10.7% | 16.9% | 18.0% | 28.8% | 50.7% | 73.0%       |
+|     10 | odin norge c                               | 2.6%  | 6.7%  | 11.2% | 18.3% | 34.0% | 36.1% | 98.6%       |
+|     11 | dnb global emerging markets s              | 2.8%  | 8.9%  | 16.1% | 16.9% | 29.1% | 45.9% | 61.8%       |
+|     12 | seb asienfond ex japan                     | 2.3%  | 9.1%  | 15.6% | 18.0% | 30.6% | 47.6% | 85.8%       |
+|     13 | baring asia growth a                       | 2.1%  | 9.9%  | 18.3% | 16.1% | 29.7% | 54.5% | 61.1%       |
+|     14 | pictet security r                          | 8.9%  | 13.2% | 21.9% | 18.3% | 13.5% | 11.4% | 32.7%       |
+|     15 | goldman sachs asia equity income p         | -0.9% | 4.5%  | 15.6% | 18.0% | 34.3% | 64.4% | 89.7%       |
+|     16 | alfred berg aktiv r                        | 2.3%  | 6.7%  | 8.1%  | 13.8% | 34.0% | 37.1% | 92.3%       |
+|     17 | pictet asian equities ex japan r           | 2.6%  | 10.9% | 21.1% | 16.4% | 27.9% | 44.5% | 57.4%       |
+|     18 | blackrock - world energy a2                | 1.4%  | 9.1%  | 2.6%  | 16.4% | 34.6% | 45.9% | 38.7%       |
+|     19 | seb teknologifond                          | 5.7%  | 11.4% | 20.2% | 21.1% | 18.3% | 24.7% | 119.8%      |
+|     20 | seb choice emerging markets                | 3.5%  | 8.1%  | 15.9% | 14.3% | 29.7% | 51.4% | 90.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-20
-|   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | cpr invest global gold mines a2                    | 1.9%  | -7.7% | 0.7%  | -6.7% | 21.6% | 73.0% | 206.2%      |
-|      2 | blackrock - world gold a2                          | 4.0%  | -9.4% | 8.9%  | -6.9% | 23.0% | 76.6% | 217.0%      |
-|      3 | fidelity - asian special situations fund a         | 5.4%  | 13.5% | 24.2% | 22.2% | 40.0% | 63.7% | 79.5%       |
-|      4 | goldman sachs greater china equity p               | 1.2%  | 7.4%  | 19.1% | 20.5% | 30.0% | 66.7% | 75.0%       |
-|      5 | allianz global metals and mining a                 | 3.5%  | -0.9% | 10.4% | 2.8%  | 35.8% | 75.4% | 72.2%       |
-|      6 | handelsbanken hållbar energi a1                    | 3.5%  | 13.8% | 19.7% | 16.9% | 34.9% | 78.2% | 8.6%        |
-|      7 | templeton emerging markets fund a                  | 6.7%  | 10.7% | 16.9% | 16.4% | 30.6% | 57.0% | 101.4%      |
-|      8 | blackrock - world technology a2                    | 10.2% | 18.3% | 33.0% | 34.9% | 35.2% | 51.0% | 137.7%      |
-|      9 | baring asia growth a                               | 7.6%  | 12.5% | 19.1% | 19.1% | 34.0% | 56.7% | 64.4%       |
-|     10 | blackrock - world mining a2                        | 5.0%  | -2.5% | 14.0% | 2.1%  | 34.3% | 73.8% | 73.8%       |
-|     11 | handelsbanken asien tema a1                        | 5.7%  | 13.2% | 18.6% | 20.2% | 31.8% | 52.4% | 76.2%       |
-|     12 | seb asienfond ex japan                             | 4.2%  | 11.9% | 17.5% | 19.9% | 33.4% | 49.6% | 88.8%       |
-|     13 | allianz china a-shares at                          | 6.2%  | 10.2% | 15.9% | 17.5% | 28.5% | 63.3% | 18.3%       |
-|     14 | nordea globala tillväxtmarknader                   | 3.3%  | 9.6%  | 15.6% | 15.9% | 27.6% | 57.0% | 99.1%       |
-|     15 | dnb smb s                                          | 5.0%  | 8.1%  | 12.5% | 24.7% | 34.9% | 40.6% | 87.9%       |
-|     16 | c worldwide asia 1a                                | 3.3%  | 9.6%  | 18.3% | 20.8% | 34.9% | 52.4% | 77.4%       |
-|     17 | seb choice emerging markets                        | 6.9%  | 7.9%  | 13.8% | 14.8% | 27.6% | 52.1% | 91.4%       |
-|     18 | east capital global emerging markets sustainable a | 3.8%  | 8.6%  | 17.5% | 16.9% | 31.8% | 50.7% | 74.6%       |
-|     19 | fidelity - emerging markets funds a                | 2.6%  | 6.2%  | 19.7% | 15.1% | 34.3% | 52.8% | 70.6%       |
-|     20 | jpmorgan emerging markets equity a                 | 4.0%  | 8.4%  | 17.5% | 19.4% | 30.6% | 51.0% | 62.6%       |
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-21
+|   Rank | Fund                                               | 2w    | 1m     | 2m    | 3m     | 6m    | 1y    | All Dates   |
+|-------:|:---------------------------------------------------|:------|:-------|:------|:-------|:------|:------|:------------|
+|      1 | cpr invest global gold mines a2                    | 1.9%  | -7.7%  | 0.7%  | -6.7%  | 21.6% | 73.0% | 206.2%      |
+|      2 | blackrock - world gold a2                          | -0.9% | -12.3% | 7.9%  | -11.7% | 14.8% | 70.2% | 203.4%      |
+|      3 | templeton emerging markets fund a                  | 6.4%  | 9.9%   | 16.9% | 16.4%  | 31.8% | 58.1% | 102.8%      |
+|      4 | fidelity - asian special situations fund a         | 1.6%  | 12.2%  | 24.2% | 19.7%  | 34.9% | 62.2% | 75.4%       |
+|      5 | allianz global metals and mining a                 | 3.5%  | -2.9%  | 13.0% | 0.0%   | 33.0% | 74.6% | 70.2%       |
+|      6 | allianz china a-shares at                          | 6.4%  | 9.9%   | 18.0% | 17.8%  | 28.8% | 64.1% | 18.3%       |
+|      7 | dnb smb s                                          | 3.5%  | 8.6%   | 13.5% | 20.2%  | 36.8% | 40.6% | 87.9%       |
+|      8 | goldman sachs greater china equity p               | -2.9% | 4.5%   | 19.4% | 16.7%  | 23.0% | 61.4% | 69.4%       |
+|      9 | baring asia growth a                               | 2.1%  | 9.9%   | 18.3% | 16.1%  | 29.7% | 54.5% | 61.1%       |
+|     10 | handelsbanken hållbar energi a1                    | -0.5% | 9.6%   | 14.6% | 13.0%  | 27.6% | 71.8% | 5.0%        |
+|     11 | blackrock - world technology a2                    | 5.9%  | 15.3%  | 32.7% | 30.9%  | 28.5% | 48.6% | 131.2%      |
+|     12 | seb asienfond ex japan                             | 2.3%  | 9.1%   | 15.6% | 18.0%  | 30.6% | 47.6% | 85.8%       |
+|     13 | seb choice emerging markets                        | 3.5%  | 8.1%   | 15.9% | 14.3%  | 29.7% | 51.4% | 90.5%       |
+|     14 | nordea globala tillväxtmarknader                   | 1.4%  | 7.9%   | 14.8% | 11.2%  | 28.8% | 55.2% | 95.9%       |
+|     15 | handelsbanken asien tema a1                        | 3.8%  | 10.7%  | 16.9% | 18.0%  | 28.8% | 50.7% | 73.0%       |
+|     16 | alfred berg norge c                                | 2.3%  | 7.2%   | 8.4%  | 15.3%  | 37.1% | 38.4% | 88.4%       |
+|     17 | east capital global emerging markets sustainable a | 0.9%  | 6.9%   | 16.1% | 14.3%  | 27.9% | 49.3% | 70.6%       |
+|     18 | blackrock - world mining a2                        | 0.5%  | -4.9%  | 13.2% | -0.9%  | 25.9% | 68.7% | 67.5%       |
+|     19 | jpmorgan emerging markets equity a                 | 2.1%  | 6.9%   | 18.0% | 15.3%  | 27.6% | 50.3% | 59.6%       |
+|     20 | c worldwide asia 1a                                | -0.9% | 7.4%   | 17.8% | 16.7%  | 29.1% | 49.6% | 71.8%       |
 
 ### Funds Appearing in Both Top 20 Assessments
-|   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | fidelity - asian special situations fund a         | 5.4%  | 13.5% | 24.2% | 22.2% | 40.0% | 63.7% | 79.5%       |
-|      2 | handelsbanken hållbar energi a1                    | 3.5%  | 13.8% | 19.7% | 16.9% | 34.9% | 78.2% | 8.6%        |
-|      3 | templeton emerging markets fund a                  | 6.7%  | 10.7% | 16.9% | 16.4% | 30.6% | 57.0% | 101.4%      |
-|      4 | blackrock - world technology a2                    | 10.2% | 18.3% | 33.0% | 34.9% | 35.2% | 51.0% | 137.7%      |
-|      5 | baring asia growth a                               | 7.6%  | 12.5% | 19.1% | 19.1% | 34.0% | 56.7% | 64.4%       |
-|      6 | handelsbanken asien tema a1                        | 5.7%  | 13.2% | 18.6% | 20.2% | 31.8% | 52.4% | 76.2%       |
-|      7 | seb asienfond ex japan                             | 4.2%  | 11.9% | 17.5% | 19.9% | 33.4% | 49.6% | 88.8%       |
-|      8 | allianz china a-shares at                          | 6.2%  | 10.2% | 15.9% | 17.5% | 28.5% | 63.3% | 18.3%       |
-|      9 | dnb smb s                                          | 5.0%  | 8.1%  | 12.5% | 24.7% | 34.9% | 40.6% | 87.9%       |
-|     10 | c worldwide asia 1a                                | 3.3%  | 9.6%  | 18.3% | 20.8% | 34.9% | 52.4% | 77.4%       |
-|     11 | east capital global emerging markets sustainable a | 3.8%  | 8.6%  | 17.5% | 16.9% | 31.8% | 50.7% | 74.6%       |
-|     12 | jpmorgan emerging markets equity a                 | 4.0%  | 8.4%  | 17.5% | 19.4% | 30.6% | 51.0% | 62.6%       |
+|   Rank | Fund                                       | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:-------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
+|      1 | templeton emerging markets fund a          | 6.4% | 9.9%  | 16.9% | 16.4% | 31.8% | 58.1% | 102.8%      |
+|      2 | fidelity - asian special situations fund a | 1.6% | 12.2% | 24.2% | 19.7% | 34.9% | 62.2% | 75.4%       |
+|      3 | allianz china a-shares at                  | 6.4% | 9.9%  | 18.0% | 17.8% | 28.8% | 64.1% | 18.3%       |
+|      4 | dnb smb s                                  | 3.5% | 8.6%  | 13.5% | 20.2% | 36.8% | 40.6% | 87.9%       |
+|      5 | baring asia growth a                       | 2.1% | 9.9%  | 18.3% | 16.1% | 29.7% | 54.5% | 61.1%       |
+|      6 | blackrock - world technology a2            | 5.9% | 15.3% | 32.7% | 30.9% | 28.5% | 48.6% | 131.2%      |
+|      7 | seb asienfond ex japan                     | 2.3% | 9.1%  | 15.6% | 18.0% | 30.6% | 47.6% | 85.8%       |
+|      8 | seb choice emerging markets                | 3.5% | 8.1%  | 15.9% | 14.3% | 29.7% | 51.4% | 90.5%       |
+|      9 | handelsbanken asien tema a1                | 3.8% | 10.7% | 16.9% | 18.0% | 28.8% | 50.7% | 73.0%       |
+|     10 | alfred berg norge c                        | 2.3% | 7.2%  | 8.4%  | 15.3% | 37.1% | 38.4% | 88.4%       |
