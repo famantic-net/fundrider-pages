@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-22
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-23
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2            | 3.8%  | 15.9% | 30.3% | 30.9% | 29.7% | 50.7% | 133.9%      |
@@ -23,7 +23,7 @@
 |     19 | jpmorgan emerging markets equity a         | -0.2% | 6.7%  | 16.1% | 14.8% | 26.8% | 52.8% | 60.7%       |
 |     20 | pictet security r                          | 8.9%  | 10.7% | 17.2% | 16.4% | 11.9% | 11.4% | 31.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-22
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-23
 |   Rank | Fund                                               | 2w    | 1m     | 2m    | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-------|:------|:-------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 0.0%  | -13.7% | 6.9%  | -14.7% | 10.4% | 65.2% | 192.4%      |
