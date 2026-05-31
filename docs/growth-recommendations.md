@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-30
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-05-31
 |   Rank | Fund                                               | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | 5.2% | 18.9% | 47.9% | 40.0% | 32.1% | 52.8% | 147.2%      |
@@ -23,7 +23,7 @@
 |     19 | blackrock - emerging markets a2                    | 1.2% | 10.7% | 27.6% | 16.4% | 30.3% | 51.4% | 53.8%       |
 |     20 | dnb global emerging markets s                      | 1.6% | 7.9%  | 22.2% | 14.0% | 31.2% | 50.0% | 66.7%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-30
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-05-31
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:-------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 3.8%  | 18.0% | 39.0% | 26.8%  | 46.2% | 71.0% | 92.3%       |
