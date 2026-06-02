@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-02
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 5.2%  | 18.3% | 41.6% | 27.6% | 49.3% | 73.0% | 95.0%       |
@@ -23,7 +23,7 @@
 |     19 | goldman sachs asia equity income p                 | -0.5% | 6.7%  | 19.4% | 16.1% | 38.0% | 65.2% | 96.8%       |
 |     20 | seb teknologifond                                  | 3.5%  | 10.7% | 30.0% | 22.7% | 17.8% | 25.3% | 126.5%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-02
 |   Rank | Fund                                               | 2w     | 1m    | 2m    | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-------|:------|:------|:-------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 5.2%   | 18.3% | 41.6% | 27.6%  | 49.3% | 73.0% | 95.0%       |
