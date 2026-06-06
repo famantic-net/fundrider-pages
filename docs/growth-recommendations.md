@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-05
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-06
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | 10.9% | 18.9% | 49.6% | 49.3% | 38.4% | 61.1% | 159.4%      |
@@ -23,7 +23,7 @@
 |     19 | seb choice emerging markets                        | 10.2% | 12.2% | 27.1% | 24.5% | 36.8% | 61.8% | 106.5%      |
 |     20 | swedbank robur access asien a                      | 11.4% | 12.7% | 28.8% | 25.0% | 33.7% | 53.1% | 86.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-05
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-06
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:-------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 14.0% | 17.8% | 43.9% | 44.2%  | 54.9% | 83.7% | 103.7%      |
