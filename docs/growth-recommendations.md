@@ -1,5 +1,5 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-13
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-14
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | -2.5% | 3.5%  | 26.8% | 35.8% | 35.5% | 47.6% | 141.0%      |
@@ -23,7 +23,7 @@
 |     19 | pictet digital r                                   | 2.3%  | 7.6%  | 21.6% | 21.3% | 10.7% | 13.8% | 92.8%       |
 |     20 | handelsbanken emerging markets index a1            | -1.6% | 1.2%  | 14.3% | 18.3% | 30.3% | 44.5% | 75.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-13
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-14
 |   Rank | Fund                                               | 2w    | 1m     | 2m     | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-------|:-------|:-------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | -3.2% | 4.7%   | 23.9%  | 29.1%  | 47.6% | 67.1% | 86.2%       |
