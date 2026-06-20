@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fundrider Daily Charts Info</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', Arial, sans-serif; /* Modern font */
+      font-size: 11pt;
+      line-height: 1.6; /* Improved line spacing */
+      margin: 0; /* Remove default margin */
+      padding: 0; /* Remove default padding */
+      background-color: #f4f4f9; /* Light gray background */
+      color: #333; /* Darker text for better contrast */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .container {
+      background-color: #ffffff; /* White content background */
+      margin: 2rem;
+      padding: 1.5rem 2.5rem; /* More padding inside the content area */
+      max-width: 800px;
+      width: calc(100% - 4rem); /* Responsive width with padding */
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* Subtle shadow for depth */
+      border-radius: 8px; /* Rounded corners for the container */
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.8rem;
+      margin-bottom: 0.8rem;
+      font-weight: 600; /* Bolder headings */
+      color: #2c3e50; /* Dark blue-gray for headings */
+    }
+    h1 {
+      font-size: 2.2em;
+      border-bottom: 2px solid #e0e0e0; /* Lighter border */
+      padding-bottom: 0.4rem;
+    }
+    h2 {
+      font-size: 1.8em;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 0.3rem;
+    }
+    h3 {
+      font-size: 1.5em;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #3498db; /* Clearer link color */
+      text-decoration: none; /* No underline by default */
+    }
+    a:hover {
+      text-decoration: underline; /* Underline on hover */
+      color: #2980b9;
+    }
+    ul, ol {
+      margin-left: 1.5rem;
+      padding-left: 0.5rem; /* Adjusted padding */
+    }
+    li {
+      margin-bottom: 0.5rem; /* Increased spacing between list items */
+    }
+    code {
+      background-color: #ecf0f1; /* Light background for inline code */
+      padding: 0.2em 0.4em;
+      margin: 0 0.1em;
+      font-size: 0.85em;
+      border-radius: 3px;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    pre {
+      background-color: #2c3e50; /* Dark background for code blocks */
+      color: #f8f8f2; /* Light text for code blocks */
+      padding: 1rem;
+      border-radius: 5px;
+      overflow-x: auto; /* Allow horizontal scrolling for long lines */
+      font-size: 0.9em;
+      line-height: 1.45;
+    }
+    pre code {
+      background-color: transparent; /* Code inside pre should not have its own background */
+      padding: 0;
+      margin: 0;
+      font-size: inherit; /* Inherit font size from pre */
+      color: inherit; /* Inherit color */
+    }
+    blockquote {
+      border-left: 4px solid #3498db; /* Blue left border for blockquotes */
+      margin-left: 0;
+      padding-left: 1rem;
+      color: #555;
+      font-style: italic;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.75rem;
+      text-align: left;
+    }
+    th {
+      background-color: #f9f9f9; /* Light background for table headers */
+      font-weight: 600;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px; /* Rounded corners for images */
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    hr {
+        border: none;
+        border-top: 1px solid #e0e0e0;
+        margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+<h1 id="does-riding-the-wave-actually-pay-the-fundrider-backtest">Does Riding the Wave Actually Pay? The Fundrider Backtest</h1>
+<p><em>What the Backtest page does, how it avoids fooling itself, and the sobering thing it reveals about beating the default fund.</em></p>
+<p>The Strategy page answers "what looks strong right now." It is a ranking, not a promise. The obvious next question is the honest one: if you had actually followed that ranking, would you have come out ahead? The Backtest page exists to answer exactly that, by replaying the strategy day by day over several years of real fund prices and comparing the result against the benchmark that actually matters.</p>
+<h2 id="the-benchmark-that-matters-ap7-aktiefond">The benchmark that matters: AP7 Aktiefond</h2>
+<p>In the Swedish premium pension, if you make no choice at all your money goes into AP7 Aktiefond, the state default fund. So the only benchmark worth measuring against is AP7 itself. Beating a generic index is irrelevant; the real test is whether all this rotation does better than simply doing nothing and leaving the money in the default. Every result on the page is shown as excess return over AP7.</p>
+<h2 id="avoiding-the-cardinal-sin-look-ahead">Avoiding the cardinal sin: look-ahead</h2>
+<p>A backtest is only worth anything if, at every past moment, it uses only information that was actually available then. This is where it would have been easy to cheat by accident.</p>
+<p>The Strategy page works off the sliced tables, which are each fund's price normalized to its most recent value. That normalization divides by the latest price, and the momentum score is a sum of those normalized values. Because it is a sum, the latest-price constant does not cancel out, so feeding those tables into a backtest would quietly leak the future into every past decision.</p>
+<p>To avoid this, the backtest does not use the sliced tables at all. It reads the raw daily snapshots that are fetched and committed every day, which contain the actual buy and sell prices for every fund on that date. From these it builds a clean price history with three properties that keep it honest:</p>
+<ul>
+<li><strong>Stable identity.</strong> Each fund is keyed by its fund number, not its name, so a fund that is renamed stays a single continuous series instead of splitting in two.</li>
+<li><strong>Survivorship safety.</strong> Each day's snapshot only contains the funds that existed that day, so funds that were later discontinued are present for exactly the period they really existed, and no longer.</li>
+<li><strong>As-of-date normalization.</strong> At each rebalance date the strategy is recomputed by normalizing each fund to its price on that date. The signal at any past day therefore sees only that day's history, never the future.</li>
+</ul>
+<p>A freshness filter discards stale quotes (a price more than ten days old relative to the snapshot), which both removes dead funds and keeps the timeline to genuine trading days. The price used is the mid of the buy and sell quote, which for normal fund units are effectively the same.</p>
+<h2 id="the-simulation">The simulation</h2>
+<p>The backtest reuses the very same signal code as the live Strategy page, so the two can never drift apart: the integral momentum score, the volatility, the combined score, the trend gate, the defensive fallback and the hysteresis buffer are all imported directly. On top of that it runs a simple, mechanical portfolio:</p>
+<ul>
+<li>Rebalance on a fixed cadence (monthly by default).</li>
+<li>Hold the selected funds equally weighted.</li>
+<li>Carry holdings across rebalances through the hysteresis buffer, so a held fund is only sold once it falls well out of the top ranks, not the moment it slips.</li>
+<li>When breadth is poor (few funds pass the trend gate) rotate fully into the best defensive fund.</li>
+<li>Compound returns daily between rebalances.</li>
+<li>Apply no transaction costs, because switching funds within the premium pension is free.</li>
+</ul>
+<p>The output is an equity curve of the strategy against AP7, plus the statistics that matter: total return, compound annual growth rate (CAGR), annualized volatility, Sharpe ratio, maximum drawdown, the hit rate (share of periods that were positive), how often it beat the benchmark, and the average turnover per rebalance.</p>
+<h2 id="the-parameter-heatmaps">The parameter heatmaps</h2>
+<p>A single backtest only tells you about one set of choices. The interesting question is how sensitive the result is to those choices, which is what the sweep answers. It runs a full backtest for every combination on a grid of two parameters and colours each cell by its excess CAGR over AP7: green beats the default fund, red trails it. The cell label is the strategy's own CAGR.</p>
+<p>The page shows two of these heatmaps over the same grid, because the right answer depends on where you invest:</p>
+<ul>
+<li><strong>PPM portfolio (max 5 funds).</strong> The premium pension lets you hold at most five funds, so this heatmap caps holdings at five. This is the realistic picture for a PPM account.</li>
+<li><strong>Unrestricted (for example Avanza).</strong> Most premium-pension funds are also available through a broker such as Avanza, which does not cap the number of funds (though it does charge fees the pension does not). With the cap removed, the strategy can hold a wider basket, so this heatmap shows what broader diversification would have achieved.</li>
+</ul>
+<p>Comparing the two side by side is the most instructive part of the page.</p>
+<h2 id="the-sobering-finding">The sobering finding</h2>
+<p>Putting realism first changes the story. With no cap, the strategy looks genuinely strong: holding a wider basket of eight to twelve funds and rebalancing roughly every two months beats AP7 by a wide margin over the test period. The diversification smooths out the whipsaw of betting on a few volatile momentum leaders.</p>
+<p>But none of that is reachable inside a premium-pension account, because you cannot hold more than five funds. Cap the portfolio at five and the edge largely evaporates: above five funds the result simply stops improving (there is nothing to add), and the only configuration that beats AP7 does so by a thin margin, at one specific rebalance cadence, with both neighbouring cadences underperforming. A lone good cell flanked by worse ones on either side is the classic fingerprint of in-sample luck rather than a durable effect.</p>
+<p>The honest conclusion is that, constrained to the five funds a premium-pension portfolio allows, this mechanical ride-the-wave rule has, over this period, roughly matched the default fund at best and trailed it at most settings. That is a genuinely useful thing to know before trusting any single backtested configuration, and it is exactly why the page enforces the cap rather than quietly reporting the flattering uncapped numbers.</p>
+<h2 id="what-the-backtest-does-not-capture">What the backtest does not capture</h2>
+<p>It is worth being clear about the gap between this mechanical test and how the tools are actually used well. The backtest mechanizes only half of the real process: it ranks by the score and rebalances on a calendar. It does not read the <em>shape</em> of the curves (acceleration, trend quality, distance from the peak) and it does not exercise discretionary timing or step aside ahead of a market turn. Those are precisely the things a person watching the Strategy page and the charts can add, and they are where the real edge has tended to come from. The shape-and-timing columns and the breadth banner on the Strategy page exist to make more of that judgement explicit.</p>
+<p>So read the backtest for what it is: a rigorous, no-look-ahead validation of the <em>mechanical</em> rule, and a reminder that the rule alone is not the strategy. It tells you the floor, not the ceiling.</p>
+  </div>
+</body>
+</html>
