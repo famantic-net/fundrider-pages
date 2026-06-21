@@ -1,5 +1,43 @@
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-20
+## Ride the Wave - current signal
+
+Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-pages/latest_fund_strategy.html) - [Fund charts](https://famantic-net.github.io/fundrider-pages/latest_fund_series_charts.html) - [Integral score](https://famantic-net.github.io/fundrider-pages/latest_fund_series_scores.integrals.html)
+
+**Market breadth:** 320 of 352 funds trending up (91%) - broad uptrend. Median momentum 3.15.
+
+**Defensive fallback** (rotate here if breadth turns poor): seligson & co euroobligation a (momentum 1.22).
+
+### Top 10 strategy funds
+
+|   # | Fund                                               |   Score |   Momentum | Volatility   | 1m    | 3m    | 6m    |
+|----:|:---------------------------------------------------|--------:|-----------:|:-------------|:------|:------|:------|
+|   1 | blackrock - world technology a2                    |  229.24 |      21.06 | 36.1%        | 7.9%  | 43.9% | 36.5% |
+|   2 | fidelity - asian special situations fund a         |   227.7 |       20.8 | 35.7%        | 11.2% | 37.7% | 53.1% |
+|   3 | east capital global emerging markets sustainable a |  218.53 |      18.29 | 29.2%        | 11.2% | 30.3% | 45.2% |
+|   4 | handelsbanken asien tema a1                        |  201.58 |      17.39 | 31.2%        | 7.6%  | 31.2% | 40.9% |
+|   5 | pictet asian equities ex japan r                   |  201.55 |      17.65 | 32.4%        | 6.2%  | 27.6% | 42.9% |
+|   6 | seb asienfond ex japan                             |  198.65 |      17.67 | 33.5%        | 8.4%  | 31.8% | 45.5% |
+|   7 | nordea globala tillväxtmarknader                   |   198.3 |      17.03 | 30.9%        | 9.1%  | 27.6% | 40.3% |
+|   8 | swedbank robur technology a                        |  192.39 |      17.51 | 35.4%        | 7.9%  | 36.5% | 32.1% |
+|   9 | jpmorgan emerging markets equity a                 |  190.15 |      15.25 | 26.5%        | 6.9%  | 26.2% | 35.2% |
+|  10 | allianz china a-shares at                          |  189.68 |      14.64 | 24.3%        | 6.4%  | 19.9% | 27.6% |
+
+### Worst 10 - funds to avoid or exit
+
+|   # | Fund                                |   Score |   Momentum | Volatility   | 1m    | 3m     | 6m     |
+|----:|:------------------------------------|--------:|-----------:|:-------------|:------|:-------|:-------|
+|   1 | fidelity - china focus fund a       |  -94.82 |       -6.8 | 20.7%        | -6.0% | -8.6%  | -12.5% |
+|   2 | odin fastighet c                    |  -72.69 |      -5.47 | 23.0%        | -4.5% | -7.7%  | -11.1% |
+|   3 | fidelity - china consumer fund a    |  -70.26 |      -5.31 | 23.2%        | -5.6% | -5.2%  | -12.1% |
+|   4 | carnegie fastighetsfond norden a    |  -70.17 |      -5.18 | 22.0%        | -4.5% | -6.7%  | -7.7%  |
+|   5 | allianz pet and animal wellbeing at |  -72.09 |      -4.92 | 18.6%        | 2.8%  | -10.9% | -12.3% |
+|   6 | länsförsäkringar fastighetsfond a   |  -63.37 |      -4.59 | 21.2%        | -3.8% | -4.5%  | -6.7%  |
+|   7 | prior & nilsson realinvest a        |  -60.95 |      -4.16 | 18.6%        | -3.2% | -6.7%  | -4.9%  |
+|   8 | baring hong kong china a            |  -36.25 |      -2.57 | 20.2%        | -7.5% | 0.7%   | -3.2%  |
+|   9 | pictet china equities r             |  -27.98 |      -2.04 | 21.3%        | -7.3% | -0.2%  | -3.4%  |
+|  10 | seb realräntefond d                 |   -42.1 |         -2 | 8.6%         | -2.5% | -2.9%  | -2.9%  |
+
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-21
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | -1.8% | 10.4% | 27.4% | 46.6% | 42.6% | 51.4% | 155.3%      |
@@ -23,7 +61,7 @@
 |     19 | swedbank robur access asien a                      | -0.7% | 9.1%  | 17.5% | 24.5% | 34.9% | 48.3% | 84.9%       |
 |     20 | handelsbanken emerging markets index a1            | -0.5% | 9.4%  | 16.7% | 25.0% | 35.5% | 50.3% | 85.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-20
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-21
 |   Rank | Fund                                               | 2w    | 1m    | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:-------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | -1.8% | 13.8% | 27.6%  | 41.3% | 54.2% | 77.4% | 99.5%       |
