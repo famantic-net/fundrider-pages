@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | pictet china equities r             |  -27.98 |      -2.04 | 21.3%        | -7.3% | -0.2%  | -3.4%  |
 |  10 | seb realräntefond d                 |   -42.1 |         -2 | 8.6%         | -2.5% | -2.9%  | -2.9%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-21
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-22
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | -1.8% | 10.4% | 27.4% | 46.6% | 42.6% | 51.4% | 155.3%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | swedbank robur access asien a                      | -0.7% | 9.1%  | 17.5% | 24.5% | 34.9% | 48.3% | 84.9%       |
 |     20 | handelsbanken emerging markets index a1            | -0.5% | 9.4%  | 16.7% | 25.0% | 35.5% | 50.3% | 85.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-21
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-22
 |   Rank | Fund                                               | 2w    | 1m    | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:-------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | -1.8% | 13.8% | 27.6%  | 41.3% | 54.2% | 77.4% | 99.5%       |
