@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | d&g småbolag                        |  -38.58 |      -2.77 | 20.7%        | -6.0%  | 1.9%   | -9.6%  |
 |  10 | allianz pet and animal wellbeing at |  -40.39 |      -2.72 | 18.0%        | 3.3%   | -5.8%  | -10.9% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-26
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-06-27
 |   Rank | Fund                                               | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world technology a2                    | 7.9%  | 5.4% | 23.0% | 53.5% | 44.2% | 53.1% | 160.0%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | seb choice emerging markets                        | 4.7%  | 8.9% | 16.9% | 29.7% | 40.0% | 56.7% | 110.9%      |
 |     20 | blackrock - emerging markets a2                    | 7.9%  | 5.0% | 14.3% | 32.4% | 36.5% | 52.8% | 60.3%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-26
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-06-27
 |   Rank | Fund                                               | 2w    | 1m   | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-----|:-------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 9.4%  | 5.9% | 24.5%  | 47.6% | 54.5% | 79.5% | 103.7%      |
