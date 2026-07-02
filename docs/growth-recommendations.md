@@ -3,104 +3,104 @@
 
 Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-pages/latest_fund_strategy.html) - [Fund charts](https://famantic-net.github.io/fundrider-pages/latest_fund_series_charts.html) - [Integral score](https://famantic-net.github.io/fundrider-pages/latest_fund_series_scores.integrals.html)
 
-**Market breadth:** 326 of 351 funds trending up (93%) - broad uptrend. Median momentum 4.21.
+**Market breadth:** 326 of 351 funds trending up (93%) - broad uptrend. Median momentum 4.46.
 
-**Defensive fallback** (rotate here if breadth turns poor): seligson & co euroobligation a (momentum 3.13).
+**Defensive fallback** (rotate here if breadth turns poor): seligson & co euroobligation a (momentum 3.10).
 
 ### Top 10 strategy funds
 
 |   # | Fund                                               |   Score |   Momentum | Volatility   | 1m    | 3m    | 6m    |
 |----:|:---------------------------------------------------|--------:|-----------:|:-------------|:------|:------|:------|
-|   1 | pictet security r                                  |  217.88 |      19.26 | 33.1%        | 10.2% | 35.2% | 28.2% |
-|   2 | allianz china a-shares at                          |  215.52 |      17.18 | 26.1%        | 8.9%  | 25.6% | 35.8% |
-|   3 | blackrock - world technology a2                    |  202.99 |      19.25 | 38.9%        | 4.2%  | 43.2% | 37.7% |
-|   4 | swedbank robur technology a                        |  198.42 |      18.76 | 38.7%        | 8.4%  | 39.3% | 33.7% |
-|   5 | storebrand global multifactor a                    |  196.07 |      12.99 | 17.4%        | 6.7%  | 24.7% | 27.1% |
-|   6 | nordea global                                      |  195.88 |      10.86 | 11.9%        | 6.4%  | 21.3% | 21.3% |
-|   7 | fidelity - asian special situations fund a         |  192.27 |      18.29 | 39.2%        | 4.2%  | 41.9% | 56.0% |
-|   8 | east capital global emerging markets sustainable a |  188.03 |      16.47 | 32.4%        | 6.2%  | 28.5% | 44.5% |
-|   9 | pictet digital r                                   |  180.56 |      14.93 | 28.4%        | 8.6%  | 27.6% | 16.4% |
-|  10 | pictet asian equities ex japan r                   |  176.17 |       15.5 | 32.7%        | 4.5%  | 30.3% | 39.6% |
+|   1 | pictet security r                                  |  250.17 |      22.43 | 34.1%        | 16.9% | 40.0% | 30.9% |
+|   2 | blackrock - world technology a2                    |  244.47 |      23.44 | 39.9%        | 8.6%  | 50.3% | 47.6% |
+|   3 | allianz china a-shares at                          |  227.59 |      18.21 | 26.4%        | 11.4% | 27.1% | 39.0% |
+|   4 | fidelity - asian special situations fund a         |  222.71 |      21.47 | 40.5%        | 6.7%  | 46.6% | 61.8% |
+|   5 | swedbank robur technology a                        |  218.03 |      20.47 | 38.0%        | 9.1%  | 45.5% | 35.5% |
+|   6 | nordea global                                      |  211.41 |      11.85 | 12.2%        | 7.6%  | 23.6% | 23.3% |
+|   7 | east capital global emerging markets sustainable a |  206.71 |      17.96 | 31.8%        | 7.4%  | 33.4% | 45.9% |
+|   8 | pictet asian equities ex japan r                   |  198.27 |       17.5 | 32.9%        | 6.2%  | 31.2% | 44.2% |
+|   9 | storebrand global multifactor a                    |  197.13 |      12.92 | 17.0%        | 6.7%  | 25.6% | 27.9% |
+|  10 | pictet digital r                                   |  191.98 |      15.84 | 28.2%        | 9.9%  | 28.8% | 16.1% |
 
 ### Worst 10 - funds to avoid or exit
 
-|   # | Fund                              |   Score |   Momentum | Volatility   | 1m    | 3m     | 6m     |
-|----:|:----------------------------------|--------:|-----------:|:-------------|:------|:-------|:-------|
-|   1 | blackrock - world gold a2         | -101.57 |     -11.61 | 61.2%        | -9.6% | -11.1% | -0.7%  |
-|   2 | cpr invest global gold mines a2   |  -76.87 |      -9.55 | 75.8%        | -5.6% | -21.3% | 8.6%   |
-|   3 | fidelity - china focus fund a     | -104.85 |       -7.4 | 20.0%        | -4.3% | -6.5%  | -10.9% |
-|   4 | prior & nilsson realinvest a      |  -85.06 |      -5.67 | 17.6%        | -6.5% | -3.2%  | -7.3%  |
-|   5 | odin fastighet c                  |  -63.24 |      -4.75 | 22.9%        | -6.5% | -5.6%  | -8.6%  |
-|   6 | fidelity - china consumer fund a  |  -56.61 |      -4.27 | 23.1%        | -3.2% | -1.1%  | -10.7% |
-|   7 | carnegie fastighetsfond norden a  |  -58.82 |      -4.25 | 21.0%        | -7.1% | -0.9%  | -8.0%  |
-|   8 | länsförsäkringar fastighetsfond a |  -46.51 |      -3.37 | 21.1%        | -5.2% | -0.7%  | -5.4%  |
-|   9 | baring hong kong china a          |  -41.97 |      -3.09 | 22.0%        | -5.2% | -3.4%  | -4.5%  |
-|  10 | blackrock - world mining a2       |  -30.85 |      -3.05 | 43.0%        | -7.3% | 1.9%   | 16.9%  |
+|   # | Fund                               |   Score |   Momentum | Volatility   | 1m    | 3m     | 6m     |
+|----:|:-----------------------------------|--------:|-----------:|:-------------|:------|:-------|:-------|
+|   1 | blackrock - world gold a2          | -111.06 |     -12.42 | 58.0%        | -9.2% | -5.2%  | -3.8%  |
+|   2 | cpr invest global gold mines a2    |  -84.74 |     -10.53 | 75.8%        | -8.4% | -21.7% | 6.2%   |
+|   3 | fidelity - china focus fund a      | -109.63 |      -7.68 | 19.7%        | -3.6% | -6.9%  | -11.5% |
+|   4 | prior & nilsson realinvest a       |  -72.02 |      -4.77 | 17.4%        | -5.4% | -0.9%  | -6.7%  |
+|   5 | odin fastighet c                   |  -52.83 |      -3.93 | 22.4%        | -5.6% | -4.9%  | -7.7%  |
+|   6 | allianz global metals and mining a |  -38.02 |      -3.71 | 41.6%        | -9.4% | -3.4%  | 18.9%  |
+|   7 | fidelity - china consumer fund a   |  -45.73 |      -3.46 | 23.3%        | -1.1% | -0.2%  | -9.8%  |
+|   8 | blackrock - world mining a2        |  -35.68 |      -3.46 | 41.1%        | -6.7% | 6.4%   | 14.8%  |
+|   9 | carnegie fastighetsfond norden a   |  -42.57 |      -3.06 | 20.8%        | -4.7% | 1.9%   | -6.2%  |
+|  10 | länsförsäkringar fastighetsfond a  |  -36.03 |      -2.56 | 20.3%        | -4.9% | 2.3%   | -4.9%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-02
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | pictet security r                                  | 4.0%  | 13.2% | 28.8% | 41.3% | 32.1% | 21.9% | 52.1%       |
-|      2 | blackrock - world technology a2                    | 0.5%  | 4.2%  | 22.2% | 46.6% | 40.3% | 51.4% | 156.4%      |
-|      3 | swedbank robur technology a                        | 1.2%  | 6.9%  | 22.2% | 43.2% | 38.7% | 45.5% | 184.4%      |
-|      4 | fidelity - asian special situations fund a         | 0.5%  | 3.0%  | 21.1% | 40.3% | 48.3% | 75.4% | 100.4%      |
-|      5 | allianz china a-shares at                          | 7.4%  | 9.4%  | 17.8% | 29.4% | 32.1% | 73.0% | 30.9%       |
-|      6 | east capital global emerging markets sustainable a | 1.9%  | 4.7%  | 19.7% | 34.0% | 39.6% | 60.3% | 94.5%       |
-|      7 | franklin technology fund a                         | 1.9%  | 5.4%  | 20.2% | 37.7% | 31.2% | 37.4% | 135.0%      |
-|      8 | pictet asian equities ex japan r                   | 1.2%  | 4.7%  | 18.0% | 35.5% | 36.1% | 52.4% | 74.6%       |
-|      9 | pictet biotech r                                   | 15.1% | 16.9% | 18.6% | 15.6% | 20.8% | 75.8% | 69.4%       |
-|     10 | seb asienfond ex japan                             | 1.2%  | 5.0%  | 16.9% | 30.6% | 40.0% | 52.8% | 106.5%      |
-|     11 | franklin biotechnology discovery fund              | 14.0% | 14.6% | 19.4% | 15.6% | 23.3% | 79.5% | 93.2%       |
-|     12 | pictet digital r                                   | 4.0%  | 7.6%  | 21.3% | 34.9% | 16.7% | 17.5% | 105.1%      |
-|     13 | handelsbanken asien tema a1                        | 1.2%  | 4.0%  | 18.0% | 31.2% | 36.5% | 57.4% | 90.1%       |
-|     14 | avanza emerging markets                            | 7.4%  | 6.7%  | 14.0% | 27.1% | 33.0% | 46.9% | 82.8%       |
-|     15 | nordea globala tillväxtmarknader                   | 0.9%  | 6.7%  | 16.7% | 30.0% | 35.5% | 60.3% | 117.8%      |
-|     16 | seb choice emerging markets                        | 3.3%  | 4.2%  | 14.8% | 30.9% | 38.0% | 55.6% | 108.4%      |
-|     17 | fidelity - emerging markets funds a                | 1.6%  | 3.8%  | 14.3% | 27.4% | 37.7% | 60.0% | 86.6%       |
-|     18 | templeton emerging markets fund a                  | 1.4%  | 2.3%  | 16.4% | 27.6% | 39.3% | 58.1% | 117.3%      |
-|     19 | blackrock - emerging markets a2                    | 2.1%  | 4.5%  | 13.8% | 28.8% | 32.1% | 51.0% | 59.2%       |
-|     20 | baring asia growth a                               | 0.0%  | 1.6%  | 14.6% | 29.7% | 35.2% | 59.2% | 75.0%       |
+|      1 | blackrock - world technology a2                    | 3.3%  | 7.2%  | 27.9% | 54.9% | 47.2% | 58.9% | 168.5%      |
+|      2 | pictet security r                                  | 7.2%  | 9.6%  | 33.4% | 45.5% | 37.1% | 27.4% | 57.8%       |
+|      3 | fidelity - asian special situations fund a         | 5.7%  | 4.7%  | 25.6% | 46.9% | 53.8% | 82.0% | 108.0%      |
+|      4 | swedbank robur technology a                        | 6.2%  | 3.5%  | 24.7% | 44.9% | 41.6% | 48.3% | 190.4%      |
+|      5 | franklin technology fund a                         | 1.4%  | 5.2%  | 21.9% | 41.9% | 34.9% | 42.9% | 141.5%      |
+|      6 | allianz china a-shares at                          | 7.6%  | 14.8% | 19.4% | 31.8% | 30.9% | 75.0% | 32.7%       |
+|      7 | east capital global emerging markets sustainable a | 3.0%  | 4.2%  | 21.6% | 38.0% | 42.2% | 63.7% | 98.2%       |
+|      8 | pictet asian equities ex japan r                   | 2.1%  | 5.0%  | 20.8% | 37.4% | 39.6% | 56.0% | 78.6%       |
+|      9 | franklin biotechnology discovery fund              | 16.7% | 15.6% | 18.3% | 19.1% | 25.6% | 82.0% | 96.8%       |
+|     10 | pictet biotech r                                   | 18.0% | 20.5% | 20.5% | 18.3% | 22.5% | 77.0% | 72.2%       |
+|     11 | pictet clean energy transition r                   | 1.2%  | 7.2%  | 14.6% | 32.1% | 40.9% | 56.3% | 91.4%       |
+|     12 | fidelity - emerging markets funds a                | 5.0%  | 5.2%  | 17.2% | 31.8% | 41.6% | 64.8% | 91.4%       |
+|     13 | seb asienfond ex japan                             | 1.2%  | 1.6%  | 18.0% | 32.4% | 41.3% | 54.2% | 108.4%      |
+|     14 | pictet digital r                                   | 4.5%  | 5.2%  | 22.7% | 35.5% | 18.0% | 18.9% | 107.5%      |
+|     15 | handelsbanken asien tema a1                        | 1.4%  | 1.6%  | 19.4% | 34.3% | 38.0% | 58.9% | 92.3%       |
+|     16 | c worldwide asia 1a                                | 0.9%  | 2.6%  | 15.6% | 33.7% | 38.7% | 58.1% | 91.4%       |
+|     17 | baring asia growth a                               | 0.5%  | 3.3%  | 16.4% | 33.7% | 37.4% | 61.1% | 77.8%       |
+|     18 | seb teknologifond                                  | 1.9%  | 3.5%  | 17.5% | 34.3% | 27.6% | 27.9% | 140.4%      |
+|     19 | jpmorgan emerging markets equity a                 | 3.0%  | 4.5%  | 15.9% | 30.0% | 36.1% | 59.6% | 77.0%       |
+|     20 | blackrock - emerging markets a2                    | 2.6%  | 5.0%  | 15.1% | 31.2% | 33.7% | 53.1% | 60.7%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-02
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | fidelity - asian special situations fund a         | 0.5%  | 3.0%  | 21.1% | 40.3% | 48.3% | 75.4% | 100.4%      |
-|      2 | allianz china a-shares at                          | 7.4%  | 9.4%  | 17.8% | 29.4% | 32.1% | 73.0% | 30.9%       |
-|      3 | east capital global emerging markets sustainable a | 1.9%  | 4.7%  | 19.7% | 34.0% | 39.6% | 60.3% | 94.5%       |
-|      4 | blackrock - world technology a2                    | 0.5%  | 4.2%  | 22.2% | 46.6% | 40.3% | 51.4% | 156.4%      |
-|      5 | seb asienfond ex japan                             | 1.2%  | 5.0%  | 16.9% | 30.6% | 40.0% | 52.8% | 106.5%      |
-|      6 | templeton emerging markets fund a                  | 1.4%  | 2.3%  | 16.4% | 27.6% | 39.3% | 58.1% | 117.3%      |
-|      7 | nordea globala tillväxtmarknader                   | 0.9%  | 6.7%  | 16.7% | 30.0% | 35.5% | 60.3% | 117.8%      |
-|      8 | handelsbanken asien tema a1                        | 1.2%  | 4.0%  | 18.0% | 31.2% | 36.5% | 57.4% | 90.1%       |
-|      9 | seb choice emerging markets                        | 3.3%  | 4.2%  | 14.8% | 30.9% | 38.0% | 55.6% | 108.4%      |
-|     10 | baring asia growth a                               | 0.0%  | 1.6%  | 14.6% | 29.7% | 35.2% | 59.2% | 75.0%       |
-|     11 | fidelity - emerging markets funds a                | 1.6%  | 3.8%  | 14.3% | 27.4% | 37.7% | 60.0% | 86.6%       |
-|     12 | franklin biotechnology discovery fund              | 14.0% | 14.6% | 19.4% | 15.6% | 23.3% | 79.5% | 93.2%       |
-|     13 | swedbank robur technology a                        | 1.2%  | 6.9%  | 22.2% | 43.2% | 38.7% | 45.5% | 184.4%      |
-|     14 | pictet biotech r                                   | 15.1% | 16.9% | 18.6% | 15.6% | 20.8% | 75.8% | 69.4%       |
-|     15 | c worldwide asia 1a                                | -0.2% | 2.6%  | 13.5% | 29.4% | 36.1% | 55.6% | 87.9%       |
-|     16 | pictet asian equities ex japan r                   | 1.2%  | 4.7%  | 18.0% | 35.5% | 36.1% | 52.4% | 74.6%       |
-|     17 | jpmorgan emerging markets equity a                 | 1.9%  | 3.8%  | 14.3% | 26.8% | 34.0% | 56.7% | 74.2%       |
-|     18 | avanza emerging markets                            | 7.4%  | 6.7%  | 14.0% | 27.1% | 33.0% | 46.9% | 82.8%       |
-|     19 | pictet clean energy transition r                   | -0.9% | 3.5%  | 11.2% | 29.7% | 36.8% | 51.0% | 85.8%       |
-|     20 | baring global emerging markets a                   | 0.5%  | 2.6%  | 13.8% | 25.6% | 30.9% | 52.8% | 77.4%       |
+|      1 | fidelity - asian special situations fund a         | 5.7%  | 4.7%  | 25.6% | 46.9% | 53.8% | 82.0% | 108.0%      |
+|      2 | blackrock - world technology a2                    | 3.3%  | 7.2%  | 27.9% | 54.9% | 47.2% | 58.9% | 168.5%      |
+|      3 | allianz china a-shares at                          | 7.6%  | 14.8% | 19.4% | 31.8% | 30.9% | 75.0% | 32.7%       |
+|      4 | east capital global emerging markets sustainable a | 3.0%  | 4.2%  | 21.6% | 38.0% | 42.2% | 63.7% | 98.2%       |
+|      5 | fidelity - emerging markets funds a                | 5.0%  | 5.2%  | 17.2% | 31.8% | 41.6% | 64.8% | 91.4%       |
+|      6 | seb asienfond ex japan                             | 1.2%  | 1.6%  | 18.0% | 32.4% | 41.3% | 54.2% | 108.4%      |
+|      7 | nordea globala tillväxtmarknader                   | 0.7%  | 3.3%  | 17.5% | 32.4% | 36.5% | 61.4% | 119.3%      |
+|      8 | templeton emerging markets fund a                  | 0.2%  | 2.3%  | 15.6% | 27.9% | 40.0% | 58.9% | 118.3%      |
+|      9 | baring asia growth a                               | 0.5%  | 3.3%  | 16.4% | 33.7% | 37.4% | 61.1% | 77.8%       |
+|     10 | handelsbanken asien tema a1                        | 1.4%  | 1.6%  | 19.4% | 34.3% | 38.0% | 58.9% | 92.3%       |
+|     11 | franklin biotechnology discovery fund              | 16.7% | 15.6% | 18.3% | 19.1% | 25.6% | 82.0% | 96.8%       |
+|     12 | swedbank robur technology a                        | 6.2%  | 3.5%  | 24.7% | 44.9% | 41.6% | 48.3% | 190.4%      |
+|     13 | pictet clean energy transition r                   | 1.2%  | 7.2%  | 14.6% | 32.1% | 40.9% | 56.3% | 91.4%       |
+|     14 | pictet asian equities ex japan r                   | 2.1%  | 5.0%  | 20.8% | 37.4% | 39.6% | 56.0% | 78.6%       |
+|     15 | pictet biotech r                                   | 18.0% | 20.5% | 20.5% | 18.3% | 22.5% | 77.0% | 72.2%       |
+|     16 | seb choice emerging markets                        | 0.7%  | 3.8%  | 16.4% | 27.1% | 38.0% | 55.2% | 108.4%      |
+|     17 | c worldwide asia 1a                                | 0.9%  | 2.6%  | 15.6% | 33.7% | 38.7% | 58.1% | 91.4%       |
+|     18 | jpmorgan emerging markets equity a                 | 3.0%  | 4.5%  | 15.9% | 30.0% | 36.1% | 59.6% | 77.0%       |
+|     19 | baring global emerging markets a                   | 0.9%  | 4.7%  | 16.1% | 29.1% | 33.4% | 56.0% | 81.1%       |
+|     20 | franklin technology fund a                         | 1.4%  | 5.2%  | 21.9% | 41.9% | 34.9% | 42.9% | 141.5%      |
 
 ### Funds Appearing in Both Top 20 Assessments
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | fidelity - asian special situations fund a         | 0.5%  | 3.0%  | 21.1% | 40.3% | 48.3% | 75.4% | 100.4%      |
-|      2 | allianz china a-shares at                          | 7.4%  | 9.4%  | 17.8% | 29.4% | 32.1% | 73.0% | 30.9%       |
-|      3 | east capital global emerging markets sustainable a | 1.9%  | 4.7%  | 19.7% | 34.0% | 39.6% | 60.3% | 94.5%       |
-|      4 | blackrock - world technology a2                    | 0.5%  | 4.2%  | 22.2% | 46.6% | 40.3% | 51.4% | 156.4%      |
-|      5 | seb asienfond ex japan                             | 1.2%  | 5.0%  | 16.9% | 30.6% | 40.0% | 52.8% | 106.5%      |
-|      6 | templeton emerging markets fund a                  | 1.4%  | 2.3%  | 16.4% | 27.6% | 39.3% | 58.1% | 117.3%      |
-|      7 | nordea globala tillväxtmarknader                   | 0.9%  | 6.7%  | 16.7% | 30.0% | 35.5% | 60.3% | 117.8%      |
-|      8 | handelsbanken asien tema a1                        | 1.2%  | 4.0%  | 18.0% | 31.2% | 36.5% | 57.4% | 90.1%       |
-|      9 | seb choice emerging markets                        | 3.3%  | 4.2%  | 14.8% | 30.9% | 38.0% | 55.6% | 108.4%      |
-|     10 | baring asia growth a                               | 0.0%  | 1.6%  | 14.6% | 29.7% | 35.2% | 59.2% | 75.0%       |
-|     11 | fidelity - emerging markets funds a                | 1.6%  | 3.8%  | 14.3% | 27.4% | 37.7% | 60.0% | 86.6%       |
-|     12 | franklin biotechnology discovery fund              | 14.0% | 14.6% | 19.4% | 15.6% | 23.3% | 79.5% | 93.2%       |
-|     13 | swedbank robur technology a                        | 1.2%  | 6.9%  | 22.2% | 43.2% | 38.7% | 45.5% | 184.4%      |
-|     14 | pictet biotech r                                   | 15.1% | 16.9% | 18.6% | 15.6% | 20.8% | 75.8% | 69.4%       |
-|     15 | pictet asian equities ex japan r                   | 1.2%  | 4.7%  | 18.0% | 35.5% | 36.1% | 52.4% | 74.6%       |
-|     16 | avanza emerging markets                            | 7.4%  | 6.7%  | 14.0% | 27.1% | 33.0% | 46.9% | 82.8%       |
+|      1 | fidelity - asian special situations fund a         | 5.7%  | 4.7%  | 25.6% | 46.9% | 53.8% | 82.0% | 108.0%      |
+|      2 | blackrock - world technology a2                    | 3.3%  | 7.2%  | 27.9% | 54.9% | 47.2% | 58.9% | 168.5%      |
+|      3 | allianz china a-shares at                          | 7.6%  | 14.8% | 19.4% | 31.8% | 30.9% | 75.0% | 32.7%       |
+|      4 | east capital global emerging markets sustainable a | 3.0%  | 4.2%  | 21.6% | 38.0% | 42.2% | 63.7% | 98.2%       |
+|      5 | fidelity - emerging markets funds a                | 5.0%  | 5.2%  | 17.2% | 31.8% | 41.6% | 64.8% | 91.4%       |
+|      6 | seb asienfond ex japan                             | 1.2%  | 1.6%  | 18.0% | 32.4% | 41.3% | 54.2% | 108.4%      |
+|      7 | baring asia growth a                               | 0.5%  | 3.3%  | 16.4% | 33.7% | 37.4% | 61.1% | 77.8%       |
+|      8 | handelsbanken asien tema a1                        | 1.4%  | 1.6%  | 19.4% | 34.3% | 38.0% | 58.9% | 92.3%       |
+|      9 | franklin biotechnology discovery fund              | 16.7% | 15.6% | 18.3% | 19.1% | 25.6% | 82.0% | 96.8%       |
+|     10 | swedbank robur technology a                        | 6.2%  | 3.5%  | 24.7% | 44.9% | 41.6% | 48.3% | 190.4%      |
+|     11 | pictet clean energy transition r                   | 1.2%  | 7.2%  | 14.6% | 32.1% | 40.9% | 56.3% | 91.4%       |
+|     12 | pictet asian equities ex japan r                   | 2.1%  | 5.0%  | 20.8% | 37.4% | 39.6% | 56.0% | 78.6%       |
+|     13 | pictet biotech r                                   | 18.0% | 20.5% | 20.5% | 18.3% | 22.5% | 77.0% | 72.2%       |
+|     14 | c worldwide asia 1a                                | 0.9%  | 2.6%  | 15.6% | 33.7% | 38.7% | 58.1% | 91.4%       |
+|     15 | jpmorgan emerging markets equity a                 | 3.0%  | 4.5%  | 15.9% | 30.0% | 36.1% | 59.6% | 77.0%       |
+|     16 | franklin technology fund a                         | 1.4%  | 5.2%  | 21.9% | 41.9% | 34.9% | 42.9% | 141.5%      |
