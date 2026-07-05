@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | baring hong kong china a           |  -32.41 |      -2.35 | 21.1%        | -2.3% | 1.6%   | -1.8% |
 |  10 | fidelity - china consumer fund a   |  -30.13 |      -2.29 | 23.4%        | 0.0%  | 0.2%   | -7.5% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-04
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-05
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                                  | 9.9%  | 7.4%  | 30.6% | 46.2% | 37.7% | 27.9% | 58.5%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | blackrock - emerging markets a2                    | 2.8%  | 4.0%  | 13.2% | 32.1% | 34.6% | 53.8% | 61.8%       |
 |     20 | jpmorgan emerging markets equity a                 | 2.6%  | 4.0%  | 13.8% | 30.6% | 36.8% | 59.6% | 77.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-04
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-05
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | 3.0%  | 1.9%  | 20.8% | 45.2% | 52.1% | 78.2% | 105.6%      |
