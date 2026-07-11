@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | blackrock - latin american a2      |   -31.9 |      -2.46 | 24.3%        | 2.6%   | -2.5%  | 7.6%  |
 |  10 | cb save earth fund rc              |  -25.84 |      -2.27 | 32.5%        | -4.7%  | 5.7%   | 2.6%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-10
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-11
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet biotech r                                   | 9.6%  | 27.1% | 23.6% | 24.5% | 29.1% | 81.6% | 81.1%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | nordea global                                      | 0.2%  | 4.7%  | 9.1%  | 16.9% | 20.5% | 31.5% | 90.1%       |
 |     20 | allianz china a-shares at                          | -5.6% | 3.8%  | 6.2%  | 17.5% | 21.9% | 55.2% | 23.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-10
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-11
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet biotech r                                   | 9.6%  | 27.1% | 23.6% | 24.5% | 29.1% | 81.6% | 81.1%       |
