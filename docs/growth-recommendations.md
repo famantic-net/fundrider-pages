@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | allianz pet and animal wellbeing at |  -15.95 |      -1.05 | 17.1%        | 3.5%   | -3.2%  | -9.8%  |
 |  10 | baring hong kong china a            |  -11.51 |      -0.84 | 21.6%        | -0.7%  | 0.5%   | 1.2%   |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-17
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-18
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                                  | -1.1% | 6.4%  | 18.0% | 34.6% | 34.3% | 23.6% | 56.7%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | seb teknologifond                                  | -4.9% | -1.4% | 5.4%  | 18.0% | 20.2% | 21.1% | 132.8%      |
 |     20 | storebrand global multifactor a                    | -0.9% | 2.1%  | 7.4%  | 15.3% | 26.2% | 34.6% | 75.4%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-17
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-18
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | -8.2% | -4.3% | 5.2%  | 19.4% | 36.5% | 58.5% | 88.8%       |
