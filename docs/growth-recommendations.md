@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | länsförsäkringar fastighetsfond a  |  -32.99 |      -2.24 | 18.3%        | 2.8%   | -7.7%  | -6.7%  |
 |  10 | seb realräntefond d                |  -39.03 |      -1.81 | 8.2%         | -0.5%  | -3.4%  | -2.9%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-24
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-07-25
 |   Rank | Fund                                         | 2w    | 1m     | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:-------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                            | 0.5%  | 0.7%   | 13.8% | 27.9% | 30.6% | 21.3% | 52.4%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | seb teknologifond                            | 0.5%  | -5.6%  | 3.5%  | 15.3% | 23.0% | 21.1% | 131.2%      |
 |     20 | c worldwide asia 1a                          | 0.2%  | -7.1%  | 3.3%  | 13.0% | 30.9% | 48.9% | 84.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-24
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-07-25
 |   Rank | Fund                                               | 2w    | 1m     | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-------|:------|:------|:------|:------|:------------|
 |      1 | fidelity - asian special situations fund a         | -0.5% | -5.6%  | 0.0%  | 16.1% | 34.9% | 61.1% | 89.2%       |
