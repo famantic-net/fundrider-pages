@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | blackrock - world mining a2              |  -40.38 |      -3.82 | 38.7%        | -0.7%  | -6.0%  | -2.5%  |
 |  10 | fidelity - emerging asia fund a          |  -40.13 |      -3.75 | 37.5%        | -10.9% | -1.1%  | 10.4%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-01
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-02
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | franklin biotechnology discovery fund         | -0.2% | -0.7% | 14.8% | 17.8% | 26.8% | 75.0% | 95.9%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | franklin mutual global discovery fund a       | 3.8%  | 5.7%  | 10.2% | 9.9%  | 11.7% | 16.9% | 53.1%       |
 |     20 | skandia usa                                   | 0.2%  | 2.6%  | 7.2%  | 10.7% | 15.3% | 15.6% | 35.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-01
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-02
 |   Rank | Fund                                               | 2w     | 1m     | 2m     | 3m     | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:-------|:-------|:-------|:-------|:-------|:------|:------------|
 |      1 | franklin biotechnology discovery fund              | -0.2%  | -0.7%  | 14.8%  | 17.8%  | 26.8%  | 75.0% | 95.9%       |
