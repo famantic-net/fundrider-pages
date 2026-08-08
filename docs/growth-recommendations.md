@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | carnegie obligationsfond a      |    -0.7 |      -0.02 | 3.7%         | -0.7% | 0.7%   | 0.5%   |
 |  10 | goldman sachs green bond p      |   -0.53 |      -0.02 | 4.4%         | -0.5% | 0.7%   | -0.7%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-07
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-08
 |   Rank | Fund                                         | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                            | 1.6%  | 3.3%  | 8.9%  | 25.6% | 38.4% | 26.2% | 54.9%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | blackrock - us basic value a2                | 1.4%  | 1.6%  | 9.4%  | 13.0% | 18.3% | 25.3% | 55.2%       |
 |     20 | lannebo teknik                               | 3.8%  | 1.9%  | 4.7%  | 9.1%  | 20.5% | 7.9%  | 57.4%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-07
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-08
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | franklin biotechnology discovery fund              | -0.7% | -2.5% | 19.1% | 15.9% | 23.9% | 65.2% | 94.5%       |
