@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | odin fastighet c                     |   -6.04 |      -0.42 | 19.2%        | 0.5%  | -0.9% | -6.0% |
 |  10 | nordea obligationsfond               |   -8.28 |      -0.28 | 4.2%         | -0.2% | 0.0%  | -0.2% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-14
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-15
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                          | 10.2% | 1.2%  | 8.9%  | 21.9% | 43.5% | 29.4% | 59.2%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | pictet global megatrend selection r        | 5.0%  | 2.3%  | 6.4%  | 12.7% | 19.1% | 14.6% | 37.4%       |
 |     20 | bl - equities japan b                      | 4.2%  | 3.0%  | 9.6%  | 9.9%  | 15.9% | 10.7% | 25.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-14
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-15
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 19.1% | 21.1% | 14.6% | -3.6% | -5.2% | 53.5% | 219.9%      |
