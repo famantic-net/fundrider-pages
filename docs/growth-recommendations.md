@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | fidelity - china consumer fund a     |   -4.69 |      -0.36 | 24.8%        | -1.6% | -2.7%  | -2.5% |
 |  10 | baring hong kong china a             |      -3 |      -0.22 | 21.4%        | 1.2%  | -6.2%  | -2.1% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-17
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-18
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                                  | 9.4%  | 2.3%  | 8.9%  | 20.8% | 43.5% | 29.4% | 60.3%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | abrdn sicav i - japanese sustainable equity fund a | 8.9%  | 2.3%  | 5.2%  | 12.2% | 18.6% | 36.1% | 80.7%       |
 |     20 | storebrand global solutions a                      | 5.2%  | 4.7%  | 7.9%  | 10.4% | 21.1% | 23.0% | 61.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-17
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-18
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 21.9% | 22.2% | 9.4%  | 5.4%  | -1.6% | 56.3% | 222.8%      |
