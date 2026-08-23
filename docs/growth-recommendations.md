@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | carnegie fastighetsfond norden a     |  -21.74 |      -1.46 | 18.0%        | 1.9%  | -3.4%  | -5.6% |
 |  10 | odin fastighet c                     |  -20.14 |      -1.37 | 18.5%        | 2.3%  | -2.3%  | -7.5% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-22
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-23
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet biotech r                           | 5.7%  | 5.4%  | 13.2% | 23.3% | 27.6% | 69.4% | 79.5%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | blackrock - world mining a2                | 4.7%  | 15.9% | 6.4%  | 7.4%  | 3.8%  | 59.6% | 83.2%       |
 |     20 | handelsbanken hälsovård tema a1            | 5.2%  | 4.5%  | 10.7% | 12.7% | 7.2%  | 17.2% | 19.4%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-22
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-23
 |   Rank | Fund                                               | 2w    | 1m    | 2m     | 3m    | 6m     | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:-------|:------|:-------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 14.3% | 24.7% | 7.9%   | 6.7%  | -12.9% | 47.2% | 215.5%      |
