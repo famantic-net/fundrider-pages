@@ -3,95 +3,95 @@
 
 Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-pages/latest_fund_strategy.html) - [Fund charts](https://famantic-net.github.io/fundrider-pages/latest_fund_series_charts.html) - [Integral score](https://famantic-net.github.io/fundrider-pages/latest_fund_series_scores.integrals.html)
 
-**Market breadth:** 311 of 349 funds trending up (89%) - broad uptrend. Median momentum 2.69.
+**Market breadth:** 311 of 349 funds trending up (89%) - broad uptrend. Median momentum 2.86.
 
-**Defensive fallback** (rotate here if breadth turns poor): simplicity företagsobligationer a (momentum 0.84).
+**Defensive fallback** (rotate here if breadth turns poor): simplicity företagsobligationer a (momentum 0.86).
 
 ### Top 10 strategy funds
 
-|   # | Fund                                       |   Score |   Momentum | Volatility   | 1m   | 3m    | 6m    |
-|----:|:-------------------------------------------|--------:|-----------:|:-------------|:-----|:------|:------|
-|   1 | dnb teknologi s                            |  155.22 |      11.65 | 22.9%        | 9.1% | 14.0% | 27.6% |
-|   2 | pictet biotech r                           |  150.01 |      13.25 | 33.0%        | 5.4% | 21.1% | 31.2% |
-|   3 | fondita global megatrends placeringsfond b |  146.89 |      10.11 | 18.9%        | 6.7% | 14.3% | 28.5% |
-|   4 | evli global placeringsfonden b             |  139.64 |       9.16 | 17.0%        | 6.4% | 15.3% | 16.4% |
-|   5 | franklin biotechnology discovery fund      |  138.56 |      12.08 | 32.0%        | 3.8% | 17.5% | 30.3% |
-|   6 | skandia time global                        |  131.18 |       9.63 | 21.8%        | 6.9% | 11.2% | 27.9% |
-|   7 | odin norge c                               |  124.32 |       7.51 | 14.3%        | 7.2% | 2.1%  | 23.3% |
-|   8 | blackrock - world energy a2                |  121.98 |       9.67 | 25.8%        | 6.7% | 7.9%  | 29.7% |
-|   9 | seb dynamisk aktiefond                     |  121.32 |       6.44 | 10.8%        | 2.8% | 10.2% | 18.3% |
-|  10 | blackrock - world healthscience a2         |   120.4 |        9.4 | 25.0%        | 6.9% | 16.9% | 14.6% |
+|   # | Fund                                         |   Score |   Momentum | Volatility   | 1m   | 3m    | 6m    |
+|----:|:---------------------------------------------|--------:|-----------:|:-------------|:-----|:------|:------|
+|   1 | franklin biotechnology discovery fund        |  169.14 |      14.72 | 31.9%        | 9.4% | 23.6% | 35.8% |
+|   2 | dnb teknologi s                              |  149.77 |      11.18 | 22.6%        | 7.6% | 13.5% | 27.4% |
+|   3 | evli global placeringsfonden b               |  145.12 |       9.46 | 16.8%        | 7.6% | 15.6% | 15.9% |
+|   4 | skandia time global                          |  140.95 |      10.31 | 21.6%        | 6.9% | 11.4% | 27.6% |
+|   5 | seb östeuropafond små och medelstora bolag c |  125.54 |       7.39 | 13.5%        | 1.6% | 12.5% | 14.8% |
+|   6 | dnb health care s                            |  124.08 |       9.38 | 23.3%        | 5.2% | 19.7% | 15.9% |
+|   7 | pictet biotech r                             |  122.87 |      10.88 | 33.2%        | 2.3% | 18.3% | 26.2% |
+|   8 | fondita global megatrends placeringsfond b   |  118.41 |        8.3 | 19.7%        | 5.2% | 13.0% | 27.1% |
+|   9 | d&g global all cap                           |   118.1 |       7.28 | 14.9%        | 8.6% | 10.4% | 14.6% |
+|  10 | seb läkemedelsfond                           |  117.64 |       8.88 | 23.2%        | 5.9% | 16.9% | 14.0% |
 
 ### Worst 10 - funds to avoid or exit
 
-|   # | Fund                                 |   Score |   Momentum | Volatility   | 1m    | 3m     | 6m    |
-|----:|:-------------------------------------|--------:|-----------:|:-------------|:------|:-------|:------|
-|   1 | handelsbanken hållbar energi a1      |  -91.73 |      -8.81 | 40.1%        | -5.6% | -18.2% | -2.3% |
-|   2 | blackrock - latin american a2        |  -62.14 |       -4.5 | 21.2%        | -3.8% | -3.8%  | -8.6% |
-|   3 | cb save earth fund rc                |  -41.63 |      -3.75 | 34.6%        | 0.0%  | -7.7%  | -3.6% |
-|   4 | nordea kinafond                      |  -33.58 |      -2.74 | 27.6%        | -2.7% | -6.5%  | 0.5%  |
-|   5 | amundi funds latin america equity a2 |  -36.97 |       -2.7 | 21.5%        | -3.8% | -4.3%  | 3.0%  |
-|   6 | skagen m2 c                          |  -25.13 |      -1.56 | 15.1%        | -2.9% | -0.5%  | -1.6% |
-|   7 | blackrock - china a2                 |  -20.05 |      -1.52 | 23.4%        | -2.3% | -4.9%  | 1.6%  |
-|   8 | baring hong kong china a             |  -20.17 |      -1.48 | 21.6%        | 0.2%  | -6.2%  | -2.3% |
-|   9 | carnegie fastighetsfond norden a     |  -21.74 |      -1.46 | 18.0%        | 1.9%  | -3.4%  | -5.6% |
-|  10 | odin fastighet c                     |  -20.14 |      -1.37 | 18.5%        | 2.3%  | -2.3%  | -7.5% |
+|   # | Fund                                 |   Score |   Momentum | Volatility   | 1m    | 3m     | 6m     |
+|----:|:-------------------------------------|--------:|-----------:|:-------------|:------|:-------|:-------|
+|   1 | handelsbanken hållbar energi a1      |     -91 |      -8.65 | 39.1%        | -6.7% | -15.3% | -1.1%  |
+|   2 | blackrock - latin american a2        |  -87.87 |      -6.49 | 22.1%        | -8.4% | -4.7%  | -10.5% |
+|   3 | cb save earth fund rc                |  -57.26 |      -5.12 | 34.0%        | -3.6% | -8.2%  | -4.1%  |
+|   4 | goldman sachs greater china equity p |  -37.59 |       -3.5 | 37.3%        | -2.1% | -10.7% | 6.4%   |
+|   5 | baring latin america a               |  -34.59 |       -2.4 | 19.3%        | -2.9% | 0.2%   | -3.8%  |
+|   6 | blackrock - china a2                 |  -29.04 |      -2.19 | 23.1%        | -2.1% | -4.3%  | 1.4%   |
+|   7 | blackrock - sustainable energy a2    |  -27.34 |      -2.08 | 23.6%        | -3.6% | -2.3%  | 7.2%   |
+|   8 | nordea kinafond                      |  -22.45 |      -1.83 | 27.4%        | -0.5% | -5.2%  | 1.4%   |
+|   9 | odin fastighet c                     |  -25.89 |      -1.77 | 18.6%        | 0.9%  | -3.8%  | -6.9%  |
+|  10 | skagen m2 c                          |  -23.32 |      -1.45 | 15.2%        | -2.3% | -0.9%  | -1.4%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-23
-|   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
-|-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | pictet biotech r                           | 5.7%  | 5.4%  | 13.2% | 23.3% | 27.6% | 69.4% | 79.5%       |
-|      2 | franklin biotechnology discovery fund      | 4.2%  | 6.2%  | 17.2% | 18.9% | 27.1% | 71.0% | 102.8%      |
-|      3 | dnb teknologi s                            | 0.7%  | 7.9%  | 13.0% | 10.7% | 34.6% | 37.4% | 164.9%      |
-|      4 | blackrock - world gold a2                  | 14.3% | 27.6% | 14.8% | 13.8% | -5.2% | 58.5% | 241.2%      |
-|      5 | fondita global megatrends placeringsfond b | 1.2%  | 6.7%  | 6.4%  | 10.9% | 31.2% | 24.2% | 55.2%       |
-|      6 | blackrock - world energy a2                | 7.6%  | 6.7%  | 16.1% | 8.6%  | 24.2% | 44.2% | 47.9%       |
-|      7 | skandia time global                        | 0.5%  | 5.9%  | 7.9%  | 6.4%  | 30.3% | 30.9% | 144.3%      |
-|      8 | blackrock - world healthscience a2         | 6.2%  | 6.9%  | 13.2% | 14.8% | 11.4% | 22.2% | 21.1%       |
-|      9 | evli global placeringsfonden b             | 0.9%  | 6.4%  | 13.5% | 14.8% | 16.1% | 14.3% | 43.2%       |
-|     10 | seb läkemedelsfond                         | 5.9%  | 5.9%  | 13.0% | 14.0% | 10.7% | 25.0% | 32.4%       |
-|     11 | pictet security r                          | -2.7% | -0.7% | -0.5% | 12.5% | 39.3% | 22.5% | 50.7%       |
-|     12 | pictet digital r                           | -2.5% | 1.2%  | 1.4%  | 11.4% | 35.5% | 17.8% | 106.5%      |
-|     13 | swedbank robur healthcare a                | 5.7%  | 4.5%  | 10.9% | 13.8% | 9.9%  | 18.9% | 15.9%       |
-|     14 | dnb health care s                          | 3.5%  | 3.3%  | 11.2% | 12.7% | 13.2% | 24.7% | 20.5%       |
-|     15 | blackrock - world financials a2            | -1.6% | 1.9%  | 3.8%  | 14.8% | 19.1% | 20.2% | 144.9%      |
-|     16 | carnegie listed private equity a           | -0.2% | 6.9%  | 9.4%  | 11.2% | 14.6% | -2.7% | 56.3%       |
-|     17 | odin norge c                               | 5.0%  | 7.2%  | 9.6%  | 2.6%  | 20.2% | 29.1% | 101.8%      |
-|     18 | healthinvest small & mid cap healthcare    | 3.5%  | 2.6%  | 8.6%  | 10.4% | 14.8% | 26.8% | 35.8%       |
-|     19 | blackrock - world mining a2                | 4.7%  | 15.9% | 6.4%  | 7.4%  | 3.8%  | 59.6% | 83.2%       |
-|     20 | handelsbanken hälsovård tema a1            | 5.2%  | 4.5%  | 10.7% | 12.7% | 7.2%  | 17.2% | 19.4%       |
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-24
+|   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
+|      1 | franklin biotechnology discovery fund         | 6.9%  | 6.9%  | 15.9% | 23.0% | 29.4% | 77.0% | 108.9%      |
+|      2 | cpr invest global gold mines a2               | 15.3% | 27.9% | 16.4% | 16.4% | -7.5% | 59.2% | 241.2%      |
+|      3 | blackrock - world gold a2                     | 14.8% | 21.1% | 16.1% | 15.3% | -7.1% | 58.9% | 245.9%      |
+|      4 | dnb teknologi s                               | 1.9%  | 7.9%  | 11.9% | 8.9%  | 33.0% | 37.1% | 163.6%      |
+|      5 | pictet biotech r                              | 2.1%  | 2.3%  | 10.7% | 20.5% | 23.6% | 61.4% | 75.4%       |
+|      6 | skandia time global                           | 2.1%  | 7.6%  | 10.2% | 7.4%  | 29.4% | 34.9% | 146.6%      |
+|      7 | evli global placeringsfonden b                | 2.1%  | 7.6%  | 14.3% | 13.8% | 15.9% | 14.8% | 43.9%       |
+|      8 | dnb health care s                             | 5.2%  | 4.2%  | 11.4% | 14.0% | 15.6% | 27.1% | 22.5%       |
+|      9 | blackrock - world energy a2                   | 8.9%  | 3.5%  | 15.6% | 8.1%  | 23.6% | 44.2% | 47.2%       |
+|     10 | seb läkemedelsfond                            | 5.7%  | 5.9%  | 13.0% | 14.3% | 10.4% | 25.6% | 32.4%       |
+|     11 | fondita global megatrends placeringsfond b    | -0.5% | 5.2%  | 5.4%  | 8.9%  | 28.2% | 23.3% | 52.4%       |
+|     12 | blackrock - world healthscience a2            | 5.4%  | 5.0%  | 12.2% | 13.5% | 10.2% | 21.1% | 19.7%       |
+|     13 | seligson & co global top 25 pharmaceuticals a | 5.9%  | 5.9%  | 11.7% | 13.2% | 6.9%  | 30.0% | 25.0%       |
+|     14 | pictet digital r                              | 0.5%  | 1.9%  | 0.9%  | 10.9% | 31.5% | 19.4% | 105.1%      |
+|     15 | healthinvest small & mid cap healthcare       | 4.2%  | 1.6%  | 7.2%  | 11.4% | 15.3% | 27.6% | 36.8%       |
+|     16 | carnegie listed private equity a              | 1.2%  | 6.4%  | 10.4% | 11.2% | 14.3% | -1.1% | 56.7%       |
+|     17 | baring global resources a                     | 7.4%  | 6.7%  | 11.2% | 6.9%  | 10.7% | 42.2% | 48.6%       |
+|     18 | handelsbanken hälsovård tema a1               | 5.4%  | 4.5%  | 8.4%  | 13.0% | 7.2%  | 17.8% | 19.7%       |
+|     19 | seb östeuropafond små och medelstora bolag c  | -0.2% | 1.6%  | 5.0%  | 11.9% | 16.4% | 31.5% | 191.7%      |
+|     20 | d&g global all cap                            | 2.6%  | 8.6%  | 8.9%  | 8.9%  | 13.2% | 0.7%  | 21.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-23
-|   Rank | Fund                                               | 2w    | 1m    | 2m     | 3m    | 6m     | 1y    | All Dates   |
-|-------:|:---------------------------------------------------|:------|:------|:-------|:------|:-------|:------|:------------|
-|      1 | cpr invest global gold mines a2                    | 14.3% | 24.7% | 7.9%   | 6.7%  | -12.9% | 47.2% | 215.5%      |
-|      2 | blackrock - world gold a2                          | 14.3% | 27.6% | 14.8%  | 13.8% | -5.2%  | 58.5% | 241.2%      |
-|      3 | pictet biotech r                                   | 5.7%  | 5.4%  | 13.2%  | 23.3% | 27.6%  | 69.4% | 79.5%       |
-|      4 | franklin biotechnology discovery fund              | 4.2%  | 6.2%  | 17.2%  | 18.9% | 27.1%  | 71.0% | 102.8%      |
-|      5 | fidelity - asian special situations fund a         | 0.7%  | -0.9% | -11.9% | 0.7%  | 23.3%  | 57.4% | 87.1%       |
-|      6 | blackrock - world mining a2                        | 4.7%  | 15.9% | 6.4%   | 7.4%  | 3.8%   | 59.6% | 83.2%       |
-|      7 | dnb teknologi s                                    | 0.7%  | 7.9%  | 13.0%  | 10.7% | 34.6%  | 37.4% | 164.9%      |
-|      8 | allianz global metals and mining a                 | 5.0%  | 13.8% | 3.0%   | 1.9%  | 1.4%   | 54.2% | 73.8%       |
-|      9 | nordea globala tillväxtmarknader                   | -0.9% | -0.2% | -8.4%  | 4.2%  | 16.1%  | 54.2% | 109.9%      |
-|     10 | seb asienfond ex japan                             | -1.4% | -1.8% | -7.1%  | 3.8%  | 21.3%  | 44.5% | 99.1%       |
-|     11 | templeton emerging markets fund a                  | -1.8% | 2.3%  | -7.1%  | 0.9%  | 17.8%  | 47.6% | 107.5%      |
-|     12 | seb choice emerging markets                        | 2.6%  | 3.0%  | -6.0%  | 5.0%  | 17.2%  | 46.2% | 101.8%      |
-|     13 | c worldwide asia 1a                                | -0.9% | 0.0%  | -7.3%  | 3.0%  | 20.8%  | 47.2% | 84.1%       |
-|     14 | east capital global emerging markets sustainable a | -1.4% | -1.4% | -11.3% | 2.1%  | 15.3%  | 49.3% | 82.4%       |
-|     15 | fidelity - emerging markets funds a                | 0.0%  | -0.5% | -10.1% | 1.6%  | 16.1%  | 45.9% | 77.4%       |
-|     16 | blackrock - world energy a2                        | 7.6%  | 6.7%  | 16.1%  | 8.6%  | 24.2%  | 44.2% | 47.9%       |
-|     17 | baring asia growth a                               | 0.5%  | -0.5% | -9.4%  | 0.0%  | 16.4%  | 45.9% | 66.0%       |
-|     18 | handelsbanken asien tema a1                        | -1.6% | -2.3% | -9.4%  | 1.2%  | 17.8%  | 44.5% | 79.9%       |
-|     19 | goldman sachs asia equity income p                 | -0.9% | 0.5%  | -11.5% | -4.7% | 11.7%  | 44.2% | 86.6%       |
-|     20 | skandia time global                                | 0.5%  | 5.9%  | 7.9%   | 6.4%  | 30.3%  | 30.9% | 144.3%      |
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-24
+|   Rank | Fund                                               | 2w    | 1m    | 2m     | 3m    | 6m    | 1y    | All Dates   |
+|-------:|:---------------------------------------------------|:------|:------|:-------|:------|:------|:------|:------------|
+|      1 | cpr invest global gold mines a2                    | 15.3% | 27.9% | 16.4%  | 16.4% | -7.5% | 59.2% | 241.2%      |
+|      2 | blackrock - world gold a2                          | 14.8% | 21.1% | 16.1%  | 15.3% | -7.1% | 58.9% | 245.9%      |
+|      3 | franklin biotechnology discovery fund              | 6.9%  | 6.9%  | 15.9%  | 23.0% | 29.4% | 77.0% | 108.9%      |
+|      4 | pictet biotech r                                   | 2.1%  | 2.3%  | 10.7%  | 20.5% | 23.6% | 61.4% | 75.4%       |
+|      5 | allianz global metals and mining a                 | 5.7%  | 14.0% | 6.7%   | 5.2%  | -0.9% | 60.3% | 79.5%       |
+|      6 | fidelity - asian special situations fund a         | 2.6%  | -0.7% | -6.2%  | -0.9% | 23.3% | 59.6% | 87.9%       |
+|      7 | seb asienfond ex japan                             | 2.8%  | 0.9%  | -1.8%  | 6.4%  | 22.7% | 47.6% | 104.2%      |
+|      8 | nordea globala tillväxtmarknader                   | 3.5%  | 1.4%  | -3.8%  | 6.4%  | 15.9% | 57.0% | 114.3%      |
+|      9 | blackrock - world mining a2                        | 4.5%  | 9.6%  | 5.4%   | 6.4%  | -0.2% | 59.6% | 81.6%       |
+|     10 | dnb teknologi s                                    | 1.9%  | 7.9%  | 11.9%  | 8.9%  | 33.0% | 37.1% | 163.6%      |
+|     11 | templeton emerging markets fund a                  | -0.5% | -0.7% | -8.0%  | 1.9%  | 15.9% | 48.9% | 108.4%      |
+|     12 | east capital global emerging markets sustainable a | 1.9%  | -0.2% | -10.1% | 3.5%  | 15.1% | 51.7% | 84.9%       |
+|     13 | handelsbanken asien tema a1                        | 3.0%  | 0.2%  | -4.3%  | 3.5%  | 19.1% | 47.2% | 84.5%       |
+|     14 | c worldwide asia 1a                                | 1.6%  | -0.2% | -7.1%  | 3.3%  | 19.1% | 49.3% | 84.5%       |
+|     15 | fidelity - emerging markets funds a                | 2.3%  | 0.0%  | -4.7%  | 0.5%  | 15.6% | 48.9% | 79.1%       |
+|     16 | skandia time global                                | 2.1%  | 7.6%  | 10.2%  | 7.4%  | 29.4% | 34.9% | 146.6%      |
+|     17 | baring asia growth a                               | 2.3%  | -0.5% | -4.7%  | 0.0%  | 14.6% | 46.6% | 66.3%       |
+|     18 | blackrock - world energy a2                        | 8.9%  | 3.5%  | 15.6%  | 8.1%  | 23.6% | 44.2% | 47.2%       |
+|     19 | swedbank robur technology a                        | -1.1% | -0.7% | -3.4%  | 5.2%  | 33.7% | 37.4% | 170.4%      |
+|     20 | franklin natural resources fund a                  | 7.4%  | 6.7%  | 7.6%   | 5.2%  | 10.4% | 44.5% | 58.5%       |
 
 ### Funds Appearing in Both Top 20 Assessments
 |   Rank | Fund                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:--------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | blackrock - world gold a2             | 14.3% | 27.6% | 14.8% | 13.8% | -5.2% | 58.5% | 241.2%      |
-|      2 | pictet biotech r                      | 5.7%  | 5.4%  | 13.2% | 23.3% | 27.6% | 69.4% | 79.5%       |
-|      3 | franklin biotechnology discovery fund | 4.2%  | 6.2%  | 17.2% | 18.9% | 27.1% | 71.0% | 102.8%      |
-|      4 | blackrock - world mining a2           | 4.7%  | 15.9% | 6.4%  | 7.4%  | 3.8%  | 59.6% | 83.2%       |
-|      5 | dnb teknologi s                       | 0.7%  | 7.9%  | 13.0% | 10.7% | 34.6% | 37.4% | 164.9%      |
-|      6 | blackrock - world energy a2           | 7.6%  | 6.7%  | 16.1% | 8.6%  | 24.2% | 44.2% | 47.9%       |
-|      7 | skandia time global                   | 0.5%  | 5.9%  | 7.9%  | 6.4%  | 30.3% | 30.9% | 144.3%      |
+|      1 | cpr invest global gold mines a2       | 15.3% | 27.9% | 16.4% | 16.4% | -7.5% | 59.2% | 241.2%      |
+|      2 | blackrock - world gold a2             | 14.8% | 21.1% | 16.1% | 15.3% | -7.1% | 58.9% | 245.9%      |
+|      3 | franklin biotechnology discovery fund | 6.9%  | 6.9%  | 15.9% | 23.0% | 29.4% | 77.0% | 108.9%      |
+|      4 | pictet biotech r                      | 2.1%  | 2.3%  | 10.7% | 20.5% | 23.6% | 61.4% | 75.4%       |
+|      5 | dnb teknologi s                       | 1.9%  | 7.9%  | 11.9% | 8.9%  | 33.0% | 37.1% | 163.6%      |
+|      6 | skandia time global                   | 2.1%  | 7.6%  | 10.2% | 7.4%  | 29.4% | 34.9% | 146.6%      |
+|      7 | blackrock - world energy a2           | 8.9%  | 3.5%  | 15.6% | 8.1%  | 23.6% | 44.2% | 47.2%       |
