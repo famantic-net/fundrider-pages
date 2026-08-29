@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | nordea kinafond                      |   -8.96 |      -0.73 | 27.3%        | 0.7%  | -4.7%  | 0.0%  |
 |  10 | baring hong kong china a             |    -7.6 |      -0.56 | 22.1%        | 0.0%  | -4.7%  | -0.9% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-28
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-08-29
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                       | 16.4% | 36.5% | 34.9% | 27.1% | -5.2% | 66.0% | 272.4%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | seb östeuropafond små och medelstora bolag c          | 1.2%  | 3.0%  | 6.7%  | 12.2% | 20.8% | 34.3% | 195.1%      |
 |     20 | carnegie listed private equity a                      | 0.2%  | 5.0%  | 12.7% | 12.5% | 19.1% | -0.5% | 58.1%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-28
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-08-29
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 16.4% | 36.5% | 34.9% | 27.1% | -5.2% | 66.0% | 272.4%      |
