@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | länsförsäkringar fastighetsfond a |  -31.34 |      -1.94 | 15.0%        | -4.1% | -0.9%  | -8.8%  |
 |  10 | baring hong kong china a          |  -26.43 |       -1.9 | 20.9%        | -1.1% | -5.8%  | -4.5%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-04
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-05
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | dnb teknologi s                                       | 1.6%  | 4.5%  | 11.9% | 7.9%  | 32.1% | 35.8% | 169.2%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | seligson & co global top 25 pharmaceuticals a         | 2.8%  | 7.4%  | 2.8%  | 14.8% | 11.2% | 32.1% | 25.3%       |
 |     20 | pictet digital r                                      | 0.5%  | -0.5% | -0.7% | 7.4%  | 30.9% | 17.2% | 107.0%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-04
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-05
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 6.4%  | 27.9% | 18.6% | 12.7% | -4.1% | 44.5% | 235.7%      |
