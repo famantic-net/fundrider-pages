@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | nordea kinafond                  |  -27.47 |      -2.19 | 26.0%        | -2.1% | -3.6%  | -2.7%  |
 |  10 | odin fastighet c                 |  -31.23 |      -2.04 | 16.9%        | -2.3% | -0.2%  | -10.5% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-11
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-12
 |   Rank | Fund                                                  | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world gold a2                             | -3.2% | 11.7% | 32.1% | 26.8% | 7.6%  | 45.2% | 259.7%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | templeton emerging markets fund a                     | 3.5%  | 6.9%  | 3.0%  | 3.3%  | 25.3% | 48.3% | 120.3%      |
 |     20 | pictet biotech r                                      | -0.9% | 0.0%  | 0.9%  | 17.8% | 23.9% | 56.0% | 74.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-11
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-12
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | -6.0% | 9.6%  | 28.8% | 29.7% | 6.4%  | 45.9% | 249.9%      |
