@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | pictet clean energy transition r  |  -30.87 |      -2.65 | 31.0%        | -7.1% | -11.5% | 15.3% |
 |  10 | nordea kinafond                   |  -32.51 |      -2.56 | 25.5%        | -2.9% | -4.9%  | -2.3% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-19
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-20
 |   Rank | Fund                                                  | 2w    | 1m   | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:------------------------------------------------------|:------|:-----|:------|:------|:------|:------|:------------|
 |      1 | dnb teknologi s                                       | 2.1%  | 3.8% | 13.2% | 17.5% | 37.7% | 34.0% | 174.8%      |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | franklin natural resources fund a                     | 1.4%  | 4.5% | 11.9% | 12.5% | 13.2% | 41.3% | 63.3%       |
 |     20 | länsförsäkringar japan index                          | 3.3%  | 3.0% | 9.6%  | 6.9%  | 25.3% | 30.0% | 74.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-19
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-20
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 0.7%  | 4.5%  | 33.0% | 15.6% | 19.1% | 34.3% | 238.8%      |
