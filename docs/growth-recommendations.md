@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | amf räntefond mix                 |  -39.19 |      -1.21 | 3.6%         | -1.6% | -2.5%  | -0.9% |
 |  10 | länsförsäkringar lång räntefond a |  -39.06 |      -1.17 | 3.3%         | -1.4% | -2.5%  | -1.1% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-25
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-09-26
 |   Rank | Fund                                       | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                          | 8.9%  | 10.9% | 9.6%  | 9.6%  | 51.4% | 30.3% | 63.3%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | handelsbanken asien tema a1                | 3.8%  | 7.9%  | 8.1%  | 4.5%  | 41.9% | 46.2% | 98.2%       |
 |     20 | dnb global emerging markets s              | 3.8%  | 6.9%  | 11.7% | 1.9%  | 30.0% | 37.1% | 76.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-25
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-09-26
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 1.9%  | -1.8% | 31.2% | 31.8% | 19.7% | 38.7% | 256.5%      |
