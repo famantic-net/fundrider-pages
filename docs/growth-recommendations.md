@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | ub infra placeringsfond a         |  -41.27 |      -2.04 | 9.4%         | -1.4% | -6.0%  | 0.9%  |
 |  10 | allianz china a-shares at         |  -18.94 |       -1.7 | 34.3%        | -3.4% | -14.3% | 13.0% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-03
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-04
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | pictet security r                                  | 7.4%  | 12.2% | 14.3% | 6.2%  | 51.4% | 33.7% | 67.1%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | skandia nordamerika exponering                     | 3.5%  | 5.7%  | 7.4%  | 6.2%  | 25.9% | 22.7% | 91.4%       |
 |     20 | seb asienfond ex japan                             | 3.8%  | 3.5%  | 8.4%  | 4.0%  | 33.4% | 48.6% | 116.3%      |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-03
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-04
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | -3.6% | -7.5% | 19.1% | 20.5% | -1.1% | 28.2% | 226.6%      |
