@@ -3,97 +3,96 @@
 
 Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-pages/latest_fund_strategy.html) - [Fund charts](https://famantic-net.github.io/fundrider-pages/latest_fund_series_charts.html) - [Integral score](https://famantic-net.github.io/fundrider-pages/latest_fund_series_scores.integrals.html)
 
-**Market breadth:** 289 of 344 funds trending up (84%) - broad uptrend. Median momentum 3.04.
+**Market breadth:** 277 of 344 funds trending up (81%) - broad uptrend. Median momentum 2.51.
 
-**Defensive fallback** (rotate here if breadth turns poor): nordea realräntefond (momentum 0.48).
+**Defensive fallback** (rotate here if breadth turns poor): nordea realräntefond (momentum 0.44).
 
 ### Top 10 strategy funds
 
 |   # | Fund                                 |   Score |   Momentum | Volatility   | 1m    | 3m    | 6m    |
 |----:|:-------------------------------------|--------:|-----------:|:-------------|:------|:------|:------|
-|   1 | pictet security r                    |  203.96 |      17.54 | 31.0%        | 18.6% | 16.4% | 62.6% |
-|   2 | skandia time global                  |  196.45 |      12.44 | 15.8%        | 5.9%  | 18.9% | 38.7% |
-|   3 | dnb teknologi s                      |  195.69 |      12.89 | 17.2%        | 6.2%  | 19.4% | 41.3% |
-|   4 | d&g global all cap                   |  194.75 |      10.93 | 12.2%        | 8.1%  | 17.5% | 26.8% |
-|   5 | lannebo teknik                       |  184.29 |      12.63 | 18.7%        | 9.9%  | 15.1% | 42.9% |
-|   6 | amundi funds latin america equity a2 |  183.04 |      15.95 | 32.0%        | 14.8% | 22.2% | 24.2% |
-|   7 | seb teknologifond                    |   176.2 |      13.89 | 25.5%        | 14.0% | 15.6% | 50.3% |
-|   8 | blackrock - latin american a2        |  169.91 |      16.51 | 41.2%        | 16.7% | 23.0% | 16.4% |
-|   9 | swedbank robur technology a          |  168.96 |      13.87 | 27.9%        | 13.5% | 13.8% | 64.1% |
-|  10 | pictet digital r                     |  167.47 |      12.86 | 24.0%        | 9.9%  | 11.9% | 48.9% |
+|   1 | dnb teknologi s                      |  193.87 |      12.74 | 17.1%        | 5.7%  | 19.9% | 41.3% |
+|   2 | skandia time global                  |  188.93 |      11.91 | 15.6%        | 5.7%  | 18.6% | 39.6% |
+|   3 | amundi funds latin america equity a2 |  180.92 |      15.81 | 32.2%        | 14.6% | 21.3% | 24.5% |
+|   4 | pictet security r                    |  177.11 |      15.02 | 30.1%        | 15.6% | 9.9%  | 58.9% |
+|   5 | lannebo teknik                       |  170.83 |      11.72 | 18.8%        | 9.4%  | 13.2% | 38.7% |
+|   6 | seb teknologifond                    |  170.45 |      13.42 | 25.4%        | 12.7% | 14.3% | 52.8% |
+|   7 | d&g global all cap                   |  167.56 |       9.57 | 12.7%        | 6.7%  | 15.6% | 25.6% |
+|   8 | swedbank robur technology a          |   162.5 |      13.42 | 28.3%        | 11.9% | 11.7% | 57.8% |
+|   9 | franklin technology fund a           |  162.29 |      14.66 | 34.7%        | 15.1% | 15.1% | 58.5% |
+|  10 | blackrock - latin american a2        |  160.33 |      15.53 | 40.9%        | 13.0% | 18.6% | 14.3% |
 
 ### Worst 10 - funds to avoid or exit
 
 |   # | Fund                                             |   Score |   Momentum | Volatility   | 1m     | 3m     | 6m     |
 |----:|:-------------------------------------------------|--------:|-----------:|:-------------|:-------|:-------|:-------|
-|   1 | carnegie fastighetsfond norden a                 |  -151.2 |       -9.4 | 15.2%        | -11.3% | -10.7% | -10.9% |
-|   2 | länsförsäkringar fastighetsfond a                | -150.03 |      -8.74 | 13.2%        | -10.3% | -9.6%  | -7.7%  |
-|   3 | odin fastighet c                                 | -130.55 |      -8.28 | 15.8%        | -10.1% | -9.6%  | -6.2%  |
-|   4 | prior & nilsson realinvest a                     |  -105.9 |      -5.93 | 12.1%        | -7.7%  | -4.5%  | -8.0%  |
-|   5 | skagen m2 c                                      |  -54.69 |       -3.2 | 13.3%        | -2.7%  | -5.6%  | 1.9%   |
-|   6 | swedbank robur fastighet a                       |  -56.06 |      -2.98 | 10.9%        | -4.1%  | -3.8%  | 2.8%   |
-|   7 | pictet timber r                                  |  -30.24 |      -2.19 | 21.1%        | -2.1%  | -0.7%  | 0.9%   |
-|   8 | handelsbanken hållbar energi a1                  |  -23.01 |      -1.96 | 30.3%        | 3.3%   | -5.4%  | 1.2%   |
-|   9 | blackrock - world real estate securities fund a2 |  -33.89 |      -1.89 | 12.0%        | -2.1%  | -4.1%  | 6.2%   |
-|  10 | ub infra placeringsfond a                        |  -36.74 |      -1.85 | 9.7%         | -1.1%  | -4.5%  | -3.6%  |
+|   1 | carnegie fastighetsfond norden a                 | -160.15 |       -9.8 | 14.7%        | -11.3% | -12.5% | -11.5% |
+|   2 | länsförsäkringar fastighetsfond a                | -168.08 |      -9.74 | 13.1%        | -11.1% | -11.7% | -11.1% |
+|   3 | odin fastighet c                                 | -140.34 |      -8.87 | 15.7%        | -10.3% | -10.9% | -7.7%  |
+|   4 | prior & nilsson realinvest a                     | -118.06 |      -6.58 | 12.0%        | -8.6%  | -6.0%  | -8.4%  |
+|   5 | swedbank robur fastighet a                       |  -72.18 |      -3.83 | 10.9%        | -4.7%  | -4.7%  | 0.7%   |
+|   6 | pictet timber r                                  |  -48.68 |      -3.55 | 21.4%        | -4.3%  | -1.6%  | -0.9%  |
+|   7 | skagen m2 c                                      |  -62.52 |      -3.54 | 12.5%        | -3.6%  | -6.0%  | 1.9%   |
+|   8 | handelsbanken hållbar energi a1                  |  -37.34 |      -3.18 | 30.4%        | -1.4%  | -7.5%  | -0.5%  |
+|   9 | ub infra placeringsfond a                        |   -57.2 |      -2.88 | 9.7%         | -2.3%  | -5.6%  | -4.3%  |
+|  10 | blackrock - world real estate securities fund a2 |  -43.96 |      -2.48 | 12.4%        | -2.9%  | -4.7%  | 5.4%   |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-08
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-09
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | pictet security r                                  | 9.1%  | 18.6% | 14.0% | 12.2% | 60.3% | 43.5% | 76.6%       |
-|      2 | blackrock - latin american a2                      | 14.3% | 16.7% | 21.9% | 23.0% | 12.5% | 38.4% | 43.2%       |
-|      3 | amundi funds latin america equity a2               | 11.4% | 14.8% | 20.5% | 22.2% | 13.5% | 54.2% | 82.4%       |
-|      4 | franklin technology fund a                         | 6.7%  | 15.3% | 17.2% | 13.8% | 47.9% | 41.9% | 164.2%      |
-|      5 | blackrock - world technology a2                    | 5.9%  | 13.5% | 16.7% | 9.6%  | 47.2% | 49.3% | 179.9%      |
-|      6 | seb teknologifond                                  | 5.9%  | 13.0% | 15.3% | 14.6% | 42.6% | 35.8% | 166.7%      |
-|      7 | swedbank robur technology a                        | 4.7%  | 13.5% | 13.0% | 11.9% | 46.9% | 48.3% | 212.6%      |
-|      8 | baring latin america a                             | 10.7% | 11.7% | 17.2% | 18.9% | 9.1%  | 45.9% | 37.1%       |
-|      9 | dnb teknologi s                                    | 2.3%  | 5.7%  | 11.2% | 18.9% | 40.9% | 35.5% | 188.4%      |
-|     10 | pictet digital r                                   | 5.2%  | 9.9%  | 9.6%  | 10.7% | 44.9% | 28.2% | 129.6%      |
-|     11 | lannebo teknik                                     | 5.2%  | 9.9%  | 10.7% | 14.0% | 39.0% | 20.5% | 77.8%       |
-|     12 | skandia time global                                | 2.6%  | 6.2%  | 9.6%  | 18.3% | 38.7% | 32.1% | 169.2%      |
-|     13 | d&g global all cap                                 | 5.4%  | 8.1%  | 9.1%  | 16.9% | 25.9% | 8.9%  | 31.5%       |
-|     14 | skandia japan exponering                           | 5.7%  | 4.7%  | 9.9%  | 10.9% | 27.9% | 37.1% | 92.8%       |
-|     15 | abrdn sicav i - japanese sustainable equity fund a | 6.9%  | 6.2%  | 10.2% | 10.7% | 28.5% | 40.6% | 92.8%       |
-|     16 | franklin us opportunities fund a                   | 5.2%  | 10.9% | 11.4% | 9.1%  | 25.9% | 19.9% | 82.0%       |
-|     17 | templeton emerging markets fund a                  | 3.0%  | 7.2%  | 13.5% | 9.6%  | 30.9% | 51.4% | 132.8%      |
-|     18 | länsförsäkringar japan index                       | 4.7%  | 4.5%  | 9.9%  | 11.4% | 26.8% | 34.6% | 83.2%       |
-|     19 | bl - equities japan b                              | 6.4%  | 7.6%  | 8.9%  | 10.2% | 22.5% | 21.9% | 32.7%       |
-|     20 | storebrand japan a                                 | 5.0%  | 4.2%  | 8.9%  | 9.6%  | 28.2% | 37.1% | 91.9%       |
+|      1 | amundi funds latin america equity a2               | 10.7% | 14.6% | 21.1% | 21.3% | 13.0% | 54.5% | 82.8%       |
+|      2 | blackrock - latin american a2                      | 12.5% | 13.0% | 22.5% | 18.6% | 10.7% | 35.8% | 42.2%       |
+|      3 | pictet security r                                  | 5.7%  | 15.6% | 11.4% | 10.7% | 55.6% | 38.7% | 72.6%       |
+|      4 | franklin technology fund a                         | 5.7%  | 15.1% | 14.6% | 10.9% | 44.5% | 42.6% | 163.6%      |
+|      5 | seb teknologifond                                  | 4.7%  | 12.7% | 14.3% | 12.7% | 41.3% | 35.5% | 166.1%      |
+|      6 | swedbank robur technology a                        | 4.5%  | 11.9% | 13.5% | 11.7% | 44.5% | 46.6% | 212.6%      |
+|      7 | dnb teknologi s                                    | 2.6%  | 5.7%  | 11.2% | 17.8% | 38.7% | 35.5% | 188.4%      |
+|      8 | baring latin america a                             | 9.1%  | 8.6%  | 18.0% | 15.9% | 8.1%  | 43.2% | 36.1%       |
+|      9 | skandia time global                                | 2.1%  | 5.7%  | 9.4%  | 16.4% | 35.8% | 30.6% | 168.5%      |
+|     10 | blackrock - world technology a2                    | 4.2%  | 10.9% | 14.6% | 8.9%  | 43.2% | 44.9% | 174.8%      |
+|     11 | lannebo teknik                                     | 4.0%  | 9.4%  | 8.9%  | 14.0% | 37.1% | 18.6% | 76.6%       |
+|     12 | pictet digital r                                   | 3.3%  | 8.1%  | 6.7%  | 7.6%  | 40.0% | 23.9% | 124.9%      |
+|     13 | franklin us opportunities fund a                   | 4.5%  | 10.9% | 9.6%  | 7.9%  | 24.5% | 19.9% | 82.0%       |
+|     14 | skandia japan exponering                           | 5.0%  | 4.0%  | 9.1%  | 9.4%  | 26.2% | 33.4% | 91.4%       |
+|     15 | bl - equities japan b                              | 6.7%  | 6.7%  | 8.1%  | 10.2% | 23.9% | 22.5% | 33.0%       |
+|     16 | abrdn sicav i - japanese sustainable equity fund a | 5.9%  | 6.4%  | 8.4%  | 8.9%  | 27.1% | 37.1% | 90.5%       |
+|     17 | d&g global all cap                                 | 3.8%  | 6.7%  | 6.9%  | 15.1% | 22.2% | 7.4%  | 30.3%       |
+|     18 | länsförsäkringar japan index                       | 4.2%  | 5.4%  | 8.6%  | 9.9%  | 24.5% | 30.6% | 82.0%       |
+|     19 | fondita global megatrends placeringsfond b         | 1.4%  | 5.7%  | 5.2%  | 10.4% | 32.4% | 25.0% | 63.3%       |
+|     20 | storebrand japan a                                 | 4.2%  | 5.7%  | 7.9%  | 8.1%  | 26.2% | 33.4% | 91.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-08
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-09
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | blackrock - world technology a2                    | 5.9%  | 13.5% | 16.7% | 9.6%  | 47.2% | 49.3% | 179.9%      |
-|      2 | swedbank robur technology a                        | 4.7%  | 13.5% | 13.0% | 11.9% | 46.9% | 48.3% | 212.6%      |
-|      3 | fidelity - asian special situations fund a         | 1.4%  | 7.4%  | 12.7% | 5.0%  | 37.1% | 59.2% | 106.1%      |
-|      4 | franklin technology fund a                         | 6.7%  | 15.3% | 17.2% | 13.8% | 47.9% | 41.9% | 164.2%      |
-|      5 | templeton emerging markets fund a                  | 3.0%  | 7.2%  | 13.5% | 9.6%  | 30.9% | 51.4% | 132.8%      |
-|      6 | nordea globala tillväxtmarknader                   | 1.6%  | 3.5%  | 12.7% | 11.2% | 34.0% | 54.9% | 134.4%      |
-|      7 | cpr invest global gold mines a2                    | -4.9% | -6.7% | 10.4% | 23.6% | -3.6% | 15.3% | 227.3%      |
-|      8 | dnb teknologi s                                    | 2.3%  | 5.7%  | 11.2% | 18.9% | 40.9% | 35.5% | 188.4%      |
-|      9 | seb asienfond ex japan                             | 0.9%  | 2.8%  | 10.4% | 8.1%  | 32.7% | 51.7% | 118.8%      |
-|     10 | amundi funds latin america equity a2               | 11.4% | 14.8% | 20.5% | 22.2% | 13.5% | 54.2% | 82.4%       |
-|     11 | c worldwide asia 1a                                | 1.2%  | 5.0%  | 12.7% | 9.1%  | 32.1% | 50.7% | 104.2%      |
-|     12 | pictet security r                                  | 9.1%  | 18.6% | 14.0% | 12.2% | 60.3% | 43.5% | 76.6%       |
-|     13 | seb choice emerging markets                        | 2.8%  | 6.4%  | 11.9% | 8.6%  | 27.9% | 50.0% | 120.8%      |
-|     14 | east capital global emerging markets sustainable a | 1.9%  | 5.2%  | 11.2% | 5.4%  | 30.9% | 51.0% | 100.9%      |
-|     15 | skandia time global                                | 2.6%  | 6.2%  | 9.6%  | 18.3% | 38.7% | 32.1% | 169.2%      |
-|     16 | baring asia growth a                               | 0.9%  | 3.8%  | 11.4% | 6.4%  | 28.5% | 46.6% | 81.6%       |
-|     17 | handelsbanken asien tema a1                        | 4.7%  | 4.0%  | 7.2%  | 4.5%  | 36.5% | 41.9% | 95.4%       |
-|     18 | seb teknologifond                                  | 5.9%  | 13.0% | 15.3% | 14.6% | 42.6% | 35.8% | 166.7%      |
-|     19 | fidelity - emerging markets funds a                | 1.2%  | 5.0%  | 10.2% | 5.0%  | 24.2% | 47.9% | 91.9%       |
-|     20 | goldman sachs asia equity income p                 | 1.6%  | 3.3%  | 8.9%  | 4.2%  | 15.1% | 45.2% | 102.3%      |
+|      1 | swedbank robur technology a                        | 4.5%  | 11.9% | 13.5% | 11.7% | 44.5% | 46.6% | 212.6%      |
+|      2 | blackrock - world technology a2                    | 4.2%  | 10.9% | 14.6% | 8.9%  | 43.2% | 44.9% | 174.8%      |
+|      3 | franklin technology fund a                         | 5.7%  | 15.1% | 14.6% | 10.9% | 44.5% | 42.6% | 163.6%      |
+|      4 | cpr invest global gold mines a2                    | -8.2% | -6.5% | 3.3%  | 20.2% | -3.4% | 24.2% | 228.1%      |
+|      5 | fidelity - asian special situations fund a         | 0.0%  | 2.8%  | 10.7% | 3.3%  | 32.7% | 53.8% | 101.8%      |
+|      6 | nordea globala tillväxtmarknader                   | 0.2%  | 3.0%  | 10.9% | 8.9%  | 30.6% | 52.1% | 132.3%      |
+|      7 | dnb teknologi s                                    | 2.6%  | 5.7%  | 11.2% | 17.8% | 38.7% | 35.5% | 188.4%      |
+|      8 | templeton emerging markets fund a                  | 1.2%  | 5.7%  | 10.9% | 7.6%  | 27.9% | 49.3% | 130.1%      |
+|      9 | amundi funds latin america equity a2               | 10.7% | 14.6% | 21.1% | 21.3% | 13.0% | 54.5% | 82.8%       |
+|     10 | seb asienfond ex japan                             | -0.7% | 2.6%  | 8.6%  | 6.7%  | 30.9% | 49.6% | 117.8%      |
+|     11 | seb choice emerging markets                        | 1.4%  | 4.0%  | 11.7% | 8.1%  | 28.5% | 51.0% | 119.8%      |
+|     12 | skandia time global                                | 2.1%  | 5.7%  | 9.4%  | 16.4% | 35.8% | 30.6% | 168.5%      |
+|     13 | east capital global emerging markets sustainable a | 0.2%  | 3.8%  | 8.4%  | 3.8%  | 27.1% | 46.2% | 97.7%       |
+|     14 | c worldwide asia 1a                                | -0.2% | 3.3%  | 9.6%  | 6.7%  | 29.1% | 45.5% | 99.5%       |
+|     15 | pictet security r                                  | 5.7%  | 15.6% | 11.4% | 10.7% | 55.6% | 38.7% | 72.6%       |
+|     16 | handelsbanken asien tema a1                        | 4.7%  | 4.0%  | 7.2%  | 4.5%  | 36.5% | 41.9% | 95.4%       |
+|     17 | seb teknologifond                                  | 4.7%  | 12.7% | 14.3% | 12.7% | 41.3% | 35.5% | 166.1%      |
+|     18 | avanza emerging markets                            | 1.4%  | 3.5%  | 11.2% | 8.4%  | 24.2% | 37.4% | 87.9%       |
+|     19 | baring asia growth a                               | -1.1% | 2.6%  | 9.1%  | 3.5%  | 25.6% | 41.6% | 78.2%       |
+|     20 | dnb global emerging markets s                      | 1.2%  | 5.7%  | 11.2% | 8.6%  | 24.2% | 40.3% | 78.2%       |
 
 ### Funds Appearing in Both Top 20 Assessments
 |   Rank | Fund                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
-|      1 | blackrock - world technology a2      | 5.9%  | 13.5% | 16.7% | 9.6%  | 47.2% | 49.3% | 179.9%      |
-|      2 | swedbank robur technology a          | 4.7%  | 13.5% | 13.0% | 11.9% | 46.9% | 48.3% | 212.6%      |
-|      3 | franklin technology fund a           | 6.7%  | 15.3% | 17.2% | 13.8% | 47.9% | 41.9% | 164.2%      |
-|      4 | templeton emerging markets fund a    | 3.0%  | 7.2%  | 13.5% | 9.6%  | 30.9% | 51.4% | 132.8%      |
-|      5 | dnb teknologi s                      | 2.3%  | 5.7%  | 11.2% | 18.9% | 40.9% | 35.5% | 188.4%      |
-|      6 | amundi funds latin america equity a2 | 11.4% | 14.8% | 20.5% | 22.2% | 13.5% | 54.2% | 82.4%       |
-|      7 | pictet security r                    | 9.1%  | 18.6% | 14.0% | 12.2% | 60.3% | 43.5% | 76.6%       |
-|      8 | skandia time global                  | 2.6%  | 6.2%  | 9.6%  | 18.3% | 38.7% | 32.1% | 169.2%      |
-|      9 | seb teknologifond                    | 5.9%  | 13.0% | 15.3% | 14.6% | 42.6% | 35.8% | 166.7%      |
+|      1 | swedbank robur technology a          | 4.5%  | 11.9% | 13.5% | 11.7% | 44.5% | 46.6% | 212.6%      |
+|      2 | blackrock - world technology a2      | 4.2%  | 10.9% | 14.6% | 8.9%  | 43.2% | 44.9% | 174.8%      |
+|      3 | franklin technology fund a           | 5.7%  | 15.1% | 14.6% | 10.9% | 44.5% | 42.6% | 163.6%      |
+|      4 | dnb teknologi s                      | 2.6%  | 5.7%  | 11.2% | 17.8% | 38.7% | 35.5% | 188.4%      |
+|      5 | amundi funds latin america equity a2 | 10.7% | 14.6% | 21.1% | 21.3% | 13.0% | 54.5% | 82.8%       |
+|      6 | skandia time global                  | 2.1%  | 5.7%  | 9.4%  | 16.4% | 35.8% | 30.6% | 168.5%      |
+|      7 | pictet security r                    | 5.7%  | 15.6% | 11.4% | 10.7% | 55.6% | 38.7% | 72.6%       |
+|      8 | seb teknologifond                    | 4.7%  | 12.7% | 14.3% | 12.7% | 41.3% | 35.5% | 166.1%      |
