@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | ub infra placeringsfond a                        |   -57.2 |      -2.88 | 9.7%         | -2.3%  | -5.6%  | -4.3%  |
 |  10 | blackrock - world real estate securities fund a2 |  -43.96 |      -2.48 | 12.4%        | -2.9%  | -4.7%  | 5.4%   |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-09
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-10
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | amundi funds latin america equity a2               | 10.7% | 14.6% | 21.1% | 21.3% | 13.0% | 54.5% | 82.8%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | fondita global megatrends placeringsfond b         | 1.4%  | 5.7%  | 5.2%  | 10.4% | 32.4% | 25.0% | 63.3%       |
 |     20 | storebrand japan a                                 | 4.2%  | 5.7%  | 7.9%  | 8.1%  | 26.2% | 33.4% | 91.0%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-09
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-10
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | swedbank robur technology a                        | 4.5%  | 11.9% | 13.5% | 11.7% | 44.5% | 46.6% | 212.6%      |
