@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | prior & nilsson realinvest a          |  -93.46 |      -5.28 | 12.4%        | -5.2%  | -5.2%  | -10.7% |
 |  10 | jpmorgan china a                      |   -60.7 |      -4.09 | 18.1%        | -3.4%  | -4.9%  | -3.2%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-17
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-18
 |   Rank | Fund                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | amundi funds latin america equity a2 | 16.4% | 14.6% | 25.6% | 20.5% | 15.9% | 53.8% | 85.4%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | skandia nordamerika exponering       | 1.2%  | 5.2%  | 6.2%  | 8.6%  | 20.5% | 21.9% | 93.6%       |
 |     20 | länsförsäkringar japan index         | -0.7% | 3.0%  | 4.5%  | 12.5% | 20.8% | 28.2% | 78.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-17
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-18
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | amundi funds latin america equity a2               | 16.4% | 14.6% | 25.6% | 20.5% | 15.9% | 53.8% | 85.4%       |
