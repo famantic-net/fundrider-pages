@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | goldman sachs asia equity income p    |  -69.47 |      -5.83 | 29.4%        | -5.4% | -6.2%  | 7.4%   |
 |  10 | baring hong kong china a              |  -83.09 |      -5.58 | 18.0%        | -3.6% | -5.4%  | -6.2%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-27
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-28
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | amundi funds latin america equity a2          | 10.9% | 11.2% | 22.5% | 19.1% | 14.0% | 48.6% | 79.9%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | alfred berg aktiv r                           | 0.9%  | -1.4% | 6.2%  | 14.0% | 14.0% | 39.6% | 107.0%      |
 |     20 | bl - equities america b                       | 1.6%  | 5.2%  | 6.4%  | 6.9%  | 16.7% | 11.4% | 35.8%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-27
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-28
 |   Rank | Fund                                 | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | dnb teknologi s                      | 2.6%  | 4.5%  | 8.4%  | 18.3% | 30.9% | 30.9% | 187.1%      |
