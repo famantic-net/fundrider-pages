@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | fidelity - china consumer fund a     | -119.23 |      -7.88 | 17.3%        | -7.3%  | -11.1% | -9.4%  |
 |  10 | allianz china equity a               | -109.98 |      -7.52 | 18.6%        | -10.1% | -9.0%  | -5.6%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-30
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-10-31
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - world energy a2                   | 1.4%  | 8.4%  | 10.7% | 18.0% | 19.9% | 59.6% | 64.1%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | odin norge c                                  | 3.3%  | 3.3%  | 1.6%  | 11.2% | 9.6%  | 38.4% | 112.3%      |
 |     20 | skagen global e                               | 3.3%  | 6.2%  | 3.3%  | 6.7%  | 14.0% | 7.4%  | 36.5%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-30
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-10-31
 |   Rank | Fund                                       | 2w    | 1m    | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------|:------|:------|:-------|:------|:------|:------|:------------|
 |      1 | blackrock - world energy a2                | 1.4%  | 8.4%  | 10.7%  | 18.0% | 19.9% | 59.6% | 64.1%       |
