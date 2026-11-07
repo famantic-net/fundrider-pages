@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | allianz global metals and mining a   | -106.38 |      -9.25 | 31.9%        | -11.3% | -0.7%  | -8.2%  |
 |  10 | goldman sachs asia equity income p   | -115.26 |       -9.2 | 26.2%        | -13.1% | -2.1%  | -5.6%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-06
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-07
 |   Rank | Fund                                             | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:-------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | swedbank robur healthcare a                      | 4.7%  | 9.9%  | 10.9% | 14.8% | 28.2% | 19.1% | 27.6%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | pareto global b                                  | 1.2%  | 2.6%  | 5.2%  | 2.8%  | 13.2% | 9.6%  | 49.6%       |
 |     20 | d&g global all cap                               | -1.8% | -2.7% | 5.2%  | 6.2%  | 16.4% | 12.2% | 28.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-06
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-07
 |   Rank | Fund                                               | 2w    | 1m     | 2m     | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:-------|:-------|:------|:------|:------|:------------|
 |      1 | alfred berg aktiv r                                | 0.0%  | 3.3%   | 4.2%   | 12.7% | 14.6% | 45.9% | 111.8%      |
