@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | fidelity - emerging asia fund a            |  -96.56 |       -7.8 | 27.0%        | -12.5% | -7.3%  | -7.5%  |
 |  10 | franklin technology fund a                 |  -77.77 |      -7.71 | 43.3%        | -16.8% | -6.9%  | 2.8%   |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-13
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-14
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | swedbank robur healthcare a                   | 5.2%  | 11.4% | 13.0% | 16.1% | 28.8% | 18.3% | 29.7%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | evli global placeringsfonden b                | -1.1% | 2.3%  | 7.4%  | 6.7%  | 23.3% | 25.3% | 53.8%       |
 |     20 | skandia världen                               | 3.3%  | 2.8%  | 6.4%  | 6.7%  | 16.4% | 17.5% | 43.9%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-13
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-14
 |   Rank | Fund                                               | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:---------------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | cpr invest global gold mines a2                    | 12.2% | 0.7%  | -6.0% | 2.6%  | 8.1%  | 31.5% | 231.1%      |
