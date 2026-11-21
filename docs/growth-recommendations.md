@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | allianz china a-shares at                  | -143.39 |     -11.19 | 24.9%        | -6.7%  | -14.9% | -7.7%  |
 |  10 | fidelity - asian special situations fund a | -114.57 |     -10.62 | 36.9%        | -8.4%  | -11.5% | -7.1%  |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-20
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-21
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | nordea indienfond                             | 10.9% | 14.6% | 12.2% | 15.3% | 24.5% | 11.7% | 30.0%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | evli global placeringsfonden b                | 1.4%  | 1.2%  | 6.4%  | 7.6%  | 22.5% | 24.2% | 54.9%       |
 |     20 | seb nordic small cap fund                     | 2.1%  | 5.9%  | 7.4%  | 8.4%  | 11.4% | 6.9%  | 15.6%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-20
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-21
 |   Rank | Fund                                          | 2w    | 1m    | 2m     | 3m     | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:-------|:-------|:------|:------|:------------|
 |      1 | dnb smb s                                     | 0.9%  | 2.1%  | 1.6%   | 9.6%   | 5.9%  | 39.6% | 98.6%       |
