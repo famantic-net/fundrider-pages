@@ -37,7 +37,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |   9 | fidelity - asian special situations fund a |  -151.5 |     -15.38 | 45.7%        | -11.3% | -16.6% | -17.0% |
 |  10 | allianz global metals and mining a         | -170.13 |     -15.17 | 33.7%        | -12.7% | -19.5% | -20.7% |
 
-### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-27
+### Current Best Short-Term Performers (Integral Score, Top 20) - 2026-11-28
 |   Rank | Fund                                          | 2w   | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:-----|:------|:------|:------|:------|:------|:------------|
 |      1 | blackrock - india a2                          | 7.9% | 17.5% | 17.2% | 17.5% | 32.1% | 16.9% | 20.2%       |
@@ -61,7 +61,7 @@ Live pages: [Strategy - Ride the Wave](https://famantic-net.github.io/fundrider-
 |     19 | franklin biotechnology discovery fund         | 6.2% | 13.2% | 7.2%  | -0.5% | 22.5% | 26.2% | 103.7%      |
 |     20 | pictet biotech r                              | 5.2% | 10.7% | 8.6%  | 2.3%  | 29.7% | 23.0% | 78.2%       |
 
-### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-27
+### Best Long-Term Growth Assessment (Integral Score, Top 20) - 2026-11-28
 |   Rank | Fund                                          | 2w    | 1m    | 2m    | 3m    | 6m    | 1y    | All Dates   |
 |-------:|:----------------------------------------------|:------|:------|:------|:------|:------|:------|:------------|
 |      1 | franklin biotechnology discovery fund         | 6.2%  | 13.2% | 7.2%  | -0.5% | 22.5% | 26.2% | 103.7%      |
